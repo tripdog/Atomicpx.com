@@ -16,6 +16,6 @@
 })).observe(document.querySelector('.trigger'));
 
 $('.carousel').carousel({
-    interval: 1000
+    interval: 5000
   })
   

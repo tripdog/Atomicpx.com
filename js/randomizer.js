@@ -4,8 +4,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     console.log('The Dom is Ready') //the DOM is ready
  })
 
-
-function randomImage() {
+    function randomImage() {
     const fileNames = [
         "../images/index.jpg",
         "../images/1.jpg",
@@ -15,10 +14,8 @@ function randomImage() {
       ],
       randomIndex = Math.floor(Math.random() * fileNames.length),
       backgroundImage = 'url(' + fileNames[randomIndex] + ')';
-      document.querySelector('.jumbotron').style.backgroundImage = backgroundImage;
+      document.querySelector('.jumbotron').style.backgroundImage = backgroundImage;   
   }
-  
-  randomImage();
-
-
-   
+ randomImage();
+//  setInterval(randomImage, 5000);
+ 
