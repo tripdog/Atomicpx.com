@@ -9,9 +9,9 @@
                 </div>
                 <div class="col-sm-4 align-self-center text-right">
                 <div class="social-icons">
-                        <a href="https://twitter.com/tripdog" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                        <a href="https://linkedin.com/in/tphillips2" target="_blank"><i class="fa fab fa-linkedin" aria-hidden="true"></i></a>
-                        <a href="https://github.com/tripdog" target="_blank"><i class="fa fab fa-github" aria-hidden="true"></i></a>
+                    <a href="https://twitter.com/tripdog" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="https://linkedin.com/in/tphillips2" target="_blank"><i class="fa fab fa-linkedin" aria-hidden="true"></i></a>
+                    <a href="https://github.com/tripdog" target="_blank"><i class="fa fab fa-github" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
@@ -20,7 +20,7 @@
         <!--container-->
     </header>
     <span class="position-absolute trigger"><!-- hidden trigger to apply 'stuck' styles --></span>
-    <nav class="navbar navbar-expand-lg sticky-top navbar-light">
+    <nav class="navbar navbar-expand-sm sticky-top navbar-light">
         <div class="container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar1">
             <span class="navbar-toggler-icon"></span>
@@ -51,4 +51,4 @@
                 </ul>
             </div>
         </div>
-    </nav>
+    </nav><!-- Bootstrap is pretty good at this -->

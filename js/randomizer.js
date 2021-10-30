@@ -19,15 +19,13 @@ function randomImage() {
   }
  randomImage();
 
-//Add active class to the current button (highlight it)     
+//Add active class to the current button (highlight it) Aint Javascript badass?   
 const currentLocation = location.href   
-const menuItem = document.querySelectorAll('.nav-item')    
+const menuItem = document.querySelectorAll('.nav-link')    
 const menuLength = menuItem.length      //get the length of the menu    
 for (let i = 0; i < menuLength; i++) {    
-    if (currentLocation == menuItem[i].href) {    
-        menuItem[i].classList.add('active')    
+    if (currentLocation === menuItem[i].href) {    
+        menuItem[i].className = 'active'    
     }    
 }
-
-
-
+console.log(menuItem)

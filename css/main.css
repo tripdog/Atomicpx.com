@@ -125,6 +125,16 @@ header .fa {
     padding: 15px 25px;
 }
 
+ .active {
+    color: #fc7e2f;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 15px 25px;
+    display: block;
+}
+
 .navbar-nav {
     justify-content: center;
     width: 100%;
