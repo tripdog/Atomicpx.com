@@ -20,7 +20,7 @@
         <!--container-->
     </header>
     <span class="position-absolute trigger"><!-- hidden trigger to apply 'stuck' styles --></span>
-    <nav class="navbar navbar-expand-sm sticky-top navbar-dark">
+    <nav class="navbar navbar-expand-lg sticky-top navbar-light">
         <div class="container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar1">
             <span class="navbar-toggler-icon"></span>
@@ -31,7 +31,7 @@
                         <a class="nav-link" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.php">About me</a>
+                        <a class="nav-link" href="about.php">About Me</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="portfolio.php">Portfolio</a>
@@ -43,13 +43,12 @@
                         <a class="nav-link" href="contact.php">Contact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.php">Consultation</a>
+                        <a class="nav-link" href="consult.php">Consultation</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="blog.php">blog</a>
-                    </li>
+                        <a class="nav-link" href="blog.php">Blog</a>
+                    </li> 
                 </ul>
             </div>
         </div>
-        <!--container end-->
     </nav>

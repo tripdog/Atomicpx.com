@@ -120,7 +120,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js"></script>
     <script src="js/animate.js"></script>
     <script src="js/custom.js"></script>
-    <script src="js/randomizer.js"></script>
+   
     <script>
         $(document).on('click', '[data-toggle="lightbox"]', function(event) {
             event.preventDefault();
@@ -129,6 +129,7 @@
             });
         });
     </script>
+     <script src="js/randomizer.js"></script>
 </body>
 
 </html>
