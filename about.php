@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
 
-    <title>more</title>
+    <title>About</title>
     <style>
     .jumbotron {width: 100%;height: 250px !important;}
         .jumbotron h2 {padding-bottom: 0;}
