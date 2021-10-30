@@ -41,7 +41,7 @@
                         </div>
                         <div class="col-lg-10 col-sm-12">
                             <h3><a href="services.html">design.</a></h3>
-                            <p>I consider myself a designer first. I have over 20 years of design experience now and I can design everything from logos to magazines and websites.</p>
+                            <p>I consider myself a designer first. With over 20 years of design experience, I can design everything from logos to magazines, to brochures and websites.</p>
                             <p><a href="services.html"><img src="images/plus.png" alt="plus"></a></p>
                         </div>
                     </div>
@@ -52,8 +52,8 @@
                             <i class="fa fa-code" aria-hidden="true"></i>
                         </div>
                         <div class="col-lg-10 col-sm-12">
-                            <h3><a href="services.html">coding.</a></h3>
-                            <p>I am a self-taught developer with 10+ years developing for WordPress. Today, I specialize in JavaScript, HTML, and CSS based sites for speed and security.</p>
+                            <h3><a href="services.html">development.</a></h3>
+                            <p>I am a self-taught developer with 10+ years developing for WordPress. Today, I specialize in JavaScript, HTML, and CSS based-sites for speed, security and flexibility.</p>
                             <p><a href="services.html"><img src="images/plus.png" alt="plus"></a></p>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                         </div>
                         <div class="col-lg-10 col-sm-12">
                             <h3><a href="services.html">hosting.</a></h3>
-                            <p>I purchase hosting in bulk from premium hosting providers, which allows me to pass the savings on to your business. Let's chat about a plan for your business.</p>
+                            <p>I purchase hosting in bulk from premium hosting providers, which allows me to pass the savings on to your business. Plans start at $20/month plus perks to sweeten the deal.</p>
                             <p><a href="services.html"><img src="images/plus.png" alt="plus"></a></p>
                         </div>
                     </div>
@@ -111,32 +111,32 @@
         </div>
         <div class="container-fluid">
             <div class="row"  data-aos="fade-up" data-aos-delay="300">
-                <a href="images/portfolio-2.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
+                <a href="https://rockaraoke.com" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="example-gallery" data-width="1200" data-height="900" class="col-sm-3 box">
                   <img src="images/portfolio-2.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>beautiful beach <span>top view</span></h4></div>
+                  <div class="inner-text"><h4>Website Design + App Development <span>Rockaraoke.com</span></h4></div>
                   </div>
                 </a>
-                <a href="images/portfolio-3.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
-                  <img src="images/portfolio-3.jpg" class="img-fluid">
+                <a href="images/ucsdHS-spread.jpg" data-toggle="lightbox" data-gallery="atomic-gallery" class="col-sm-3 box">
+                  <img src="images/UCSDHS.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>beautiful beach <span>top view</span></h4></div>
+                  <div class="inner-text"><h4>Publication Design<span>UCSD Health Sciences</span></h4></div>
                   </div>
                 </a>
-                <a href="images/portfolio-4.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
+                <a href="https://amikas.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="atomic-gallery" data-width="1200" data-height="900" class="col-sm-3 box">
                   <img src="images/portfolio-4.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>beautiful beach <span>top view</span></h4></div>
+                  <div class="inner-text"><h4>WordPress Development <span>Amikas.org</span></h4></div>
                   </div>
                 </a>
-                <a href="images/portfolio-5.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
-                  <img src="images/portfolio-5.jpg" class="img-fluid">
+                <a href="https://palbarling.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="atomic-gallery" data-width="1200" data-height="900" class="col-sm-3 box">
+                  <img src="images/PalBar1.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>beautiful beach <span>top view</span></h4></div>
+                  <div class="inner-text"><h4>Website Design <span>Palbarling Center, Int.</span></h4></div>
                   </div>
                 </a>
             </div>
@@ -161,8 +161,8 @@
                     <figure class="figure">
                         <a href="blog.html"><img src="images/blog-1.jpg" class="figure-img img-fluid" alt="blog"></a>
                         <figcaption class="figure-caption">
-                            <h2><a href="blog.html">Beautiful girl holding her camera in neck for a photo shoot</a></h2>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five</p>
+                            <h2><a href="blog.html">How Wikipedia can help legitimize your charity.</a></h2>
+                            <p>It can be difficult to gain legitimacy when starting a new charitable venture. But with the help of Wikipedia you can help build your brand's story.</p>
                             <a href="blog_single.html" class="btn btn-success">+ more</a>
                         </figcaption>
                     </figure>
@@ -175,8 +175,8 @@
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-3">
-                            <h4><a href="blog.html">Girl working seriously on laptop in office hours</a></h4>
-                            <h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. specimen book. It has survived not only five</h5>
+                            <h4><a href="blog.html">Do you really <em>need</em> a CMS?</a></h4>
+                            <h5>The answer isn't always yes. WordPress and other CMS platforms have a great many benefits, but they have some disadvantages as well.</h5>
                             <a href="blog_single.html" class="btn btn-success">+ more</a>
                         </div>
                     </div>
@@ -187,20 +187,20 @@
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-5">
-                            <h4><a href="blog.html">Girl working seriously on laptop in office hours </a></h4>
-                            <h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. specimen book. It has survived not only five</h5>
+                            <h4><a href="blog.html">Make your logo bigger?</a></h4>
+                            <h5>In the design game, a bigger logo isn't always better. Most often a modest, sophisticated approach is the way to go. </h5>
                             <a href="blog_single.html" class="btn btn-success">+ more</a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-sm-6 col-12 box-6">
                             <figure class="figure">
-                                <a href="blog.html"><img src="images/blog-1.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="blog.html"><img src="images/blog-4.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-7">
-                            <h4><a href="blog.html">Girl working seriously on laptop in office hours </a></h4>
-                            <h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. specimen book. It has survived not only five</h5>
+                            <h4><a href="blog.html">Is print dying?</a></h4>
+                            <h5>Sometimes it may seem that way, but it's hard to compete digitally with the tactile quality of paper. Print has it's place and it's here to stay.</h5>
                             <a href="blog_single.html" class="btn btn-success">+ more</a>
                         </div>
                     </div>

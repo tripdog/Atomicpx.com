@@ -14,6 +14,14 @@ body {
     margin: 0 auto;
 }
 
+.caption {
+    font-family: sans-serif;
+    color: black;
+    font-weight: bold;
+    display: inline-block;
+    padding-top: .5em;
+  }
+
 h1,
 h2,
 h3,
