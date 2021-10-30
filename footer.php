@@ -1,4 +1,5 @@
-     <section class="section-7">
+     
+    <section class="section-7">
         <!-- Footer -->
         <footer class="page-footer font-small stylish-color-dark">
 
@@ -13,7 +14,7 @@
 
                         <!-- Content -->
                         <a href="index.html"><img src="images/footer-logo.png" alt="footer-logo"></a>
-                        <p>I aim to bring creativity, technology and design to support the growth of small businesses. I have a soft-spot for charities and regularly provided discounted services to causes in which I believe.!!!</p>
+                        <p>I aim to bring creativity, technology and design to support the growth of small businesses. I have a soft-spot for charities and regularly provided discounted services to causes in which I believe.</p>
 
                     </div>
                     <!-- Grid column -->
@@ -28,22 +29,22 @@
 
                         <ul class="list-unstyled">
                             <li>
-                                <a href="index.html">go to home</a>
+                                <a href="index.php">Home</a>
                             </li>
                             <li>
-                                <a href="services.html">services</a>
+                                <a href="about.php">about</a>
                             </li>
                             <li>
-                                <a href="portfolio.html">portfolio</a>
+                                <a href="services.php">services</a>
                             </li>
                             <li>
-                                <a href="blog.html">read blog</a>
+                                <a href="portfolio.php">portfolio</a>
                             </li>
                             <li>
-                                <a href="contact.html">contact us</a>
+                                <a href="contact.php">contact us</a>
                             </li>
                             <li>
-                                <a href="contact.html">product support</a>
+                                <a href="consult.php">Book a consultation</a>
                             </li>
                         </ul>
 
@@ -56,23 +57,17 @@
                     <div class="col-lg-2 col-sm-4 box-3 mx-auto">
 
                         <!-- Links -->
-                        <h5>information</h5>
+                        <h5>Payments</h5>
 
                         <ul class="list-unstyled">
                             <li>
-                                <a href="#!">user login</a>
+                                <a href="consult.php">Book a Consultation</a>
                             </li>
                             <li>
-                                <a href="#!">creat new account</a>
+                                <a href="https://square.link/u/o2zbMuO5">Purchase Hosting</a>
                             </li>
                             <li>
-                                <a href="#!">checkout</a>
-                            </li>
-                            <li>
-                                <a href="#!">my cart</a>
-                            </li>
-                            <li>
-                                <a href="#!">other information</a>
+                                <a href="#!">Make a Payment</a>
                             </li>
                         </ul>
 
@@ -89,22 +84,10 @@
 
                         <ul class="list-unstyled">
                             <li>
-                                <a href="#!">Terms Conditions </a>
+                                <a href="#!">Terms & Conditions </a>
                             </li>
                             <li>
-                                <a href="#!">website polocy</a>
-                            </li>
-                            <li>
-                                <a href="#!">Policy for Sellers </a>
-                            </li>
-                            <li>
-                                <a href="#!">Policy for Buyers</a>
-                            </li>
-                            <li>
-                                <a href="#!">Shipping & Refund </a>
-                            </li>
-                            <li>
-                                <a href="#!">Wholesale Policy</a>
+                                <a href="#!">Privacy policy</a>
                             </li>
                         </ul>
 
@@ -120,7 +103,7 @@
             <!-- Copyright -->
             <div class="footer-copyright text-center">
                 <div class="gradient"></div>
-                <p>© 2021, All Rights reserved.</p>
+                <p>© Atomic 2021 all rights reseverved. Designed on a mac with love <i class="fa fas fa-heart" aria-hidden="true"></i></p>
             </div>
             <!-- Copyright -->
 
@@ -129,19 +112,22 @@
     </section>
 
     <!-- Optional JavaScript -->
+  
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js"></script>
     <script src="js/animate.js"></script>
     <script src="js/custom.js"></script>
+    <script src="js/randomizer.js"></script>
     <script>
         $(document).on('click', '[data-toggle="lightbox"]', function(event) {
             event.preventDefault();
-            $(this).ekkoLightbox();
+            $(this).ekkoLightbox({
+                alwaysShowClose: true
+            });
         });
-
     </script>
 </body>
 
