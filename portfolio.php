@@ -40,8 +40,8 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 data-aos="fade-right" data-aos-delay="300">Check out the folio.</h1>
-                <h2 data-aos="fade-left" data-aos-delay="300">I've had a diverse clientelle, which makes me a diverse designer.</h2>
+                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">Check out the folio.</h1>
+                <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">I've had a diverse clientelle, which makes me a diverse designer.</h2>
             </div>
             <!--container-fluid end-->
         </div>

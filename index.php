@@ -43,7 +43,7 @@
                         <div class="col-lg-10 col-sm-12">
                             <h3><a href="services.html">design.</a></h3>
                             <p>I consider myself a designer first. With over 20 years of design experience, I can design everything from logos to magazines, to brochures and websites.</p>
-                            <p><a href="services.html"><img src="images/plus.png" alt="plus"></a></p>
+                            <p><a href="services.php"><img src="images/plus.png" alt="plus"></a></p>
                         </div>
                     </div>
                 </div>
@@ -53,9 +53,9 @@
                             <i class="fa fa-code" aria-hidden="true"></i>
                         </div>
                         <div class="col-lg-10 col-sm-12">
-                            <h3><a href="services.html">development.</a></h3>
+                            <h3><a href="services.php">development.</a></h3>
                             <p>I am a self-taught developer with 10+ years developing for WordPress. Today, I specialize in JavaScript, HTML, and CSS based-sites for speed, security and flexibility.</p>
-                            <p><a href="services.html"><img src="images/plus.png" alt="plus"></a></p>
+                            <p><a href="services.php"><img src="images/plus.png" alt="plus"></a></p>
                         </div>
                     </div>
                 </div>
@@ -65,9 +65,9 @@
                             <i class="fa fa-cloud" aria-hidden="true"></i>
                         </div>
                         <div class="col-lg-10 col-sm-12">
-                            <h3><a href="services.html">hosting.</a></h3>
+                            <h3><a href="services.php">hosting.</a></h3>
                             <p>I purchase hosting in bulk from premium hosting providers, which allows me to pass the savings on to your business. Plans start at $20/month plus perks to sweeten the deal.</p>
-                            <p><a href="services.html"><img src="images/plus.png" alt="plus"></a></p>
+                            <p><a href="services.php"><img src="images/plus.png" alt="plus"></a></p>
                         </div>
                     </div>
                 </div>
@@ -80,12 +80,12 @@
                 <div class="col-lg-5 col-md-12 p-0" data-aos="fade-right" data-aos-delay="300">
                     <h2>What I do <span>and why choose atomic?</span></h2>
                     <ul>
-                        <li><a href="services.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Web Design</a> </li>
-                        <li><a href="services.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Hosting</a></li>
-                        <li><a href="services.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Site Maintenance</a></li>
-                        <li><a href="services.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Wordpress Development</a></li>
-                        <li><a href="services.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Graphic Design</a></li>
-                        <li><a href="services.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Google Analytics</a></li>
+                        <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Web Design</a> </li>
+                        <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Hosting</a></li>
+                        <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Site Maintenance</a></li>
+                        <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Wordpress Development</a></li>
+                        <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Graphic Design</a></li>
+                        <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Google Analytics</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-7 col-md-12 p-0" data-aos="fade-left" data-aos-delay="300">
@@ -106,13 +106,13 @@
                     <h3>View my portfolio <span>samples of my best work.</span></h3>
                 </div>
                 <div class="col-lg-5 col-sm-4">
-                    <a href="portfolio.html" class="btn btn-success">Full portfolio</a>
+                    <a href="portfolio.php" class="btn btn-success">Full portfolio</a>
                 </div>
             </div>
         </div>
         <div class="container-fluid">
             <div class="row"  data-aos="fade-up" data-aos-delay="300">
-                <a href="https://rockaraoke.com" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="example-gallery" data-width="1200" data-height="900" class="col-sm-3 box">
+                <a href="https://rockaraoke.com" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="example-gallery" data-width="1200" data-height="1400" class="col-sm-3 box">
                   <img src="images/portfolio-2.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
@@ -126,18 +126,18 @@
                   <div class="inner-text"><h4>Publication Design<span>UCSD Health Sciences</span></h4></div>
                   </div>
                 </a>
-                <a href="https://amikas.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="atomic-gallery" data-width="1200" data-height="900" class="col-sm-3 box">
+                <a href="https://amikas.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="atomic-gallery" data-width="1200" data-height="1400" class="col-sm-3 box">
                   <img src="images/portfolio-4.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>WordPress Development <span>Amikas.org</span></h4></div>
                   </div>
                 </a>
-                <a href="https://palbarling.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="atomic-gallery" data-width="1200" data-height="900" class="col-sm-3 box">
-                  <img src="images/PalBar1.jpg" class="img-fluid">
+                <a href="https://palbarling.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="atomic-gallery" data-width="1200" data-height="1400" class="col-sm-3 box">
+                  <img src="images/palBar1.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Website Design <span>Palbarling Center, Int.</span></h4></div>
+                  <div class="inner-text"><h4>Website Design <span>palbarling.org</span></h4></div>
                   </div>
                 </a>
             </div>
@@ -153,18 +153,18 @@
                     <h3>I blog occasionally.</h3>
                 </div>
                 <div class="col-sm-6 col-12">
-                    <a href="blog.html" class="btn btn-success">Read the blog</a>
+                    <a href="blog.php" class="btn btn-success">Read the blog</a>
                 </div>
             </div>
             <!--/row-->
             <div class="row">
                 <div class="col-lg-4 col-sm-12 col-12 box-1"  data-aos="fade-right" data-aos-delay="300">
                     <figure class="figure">
-                        <a href="blog.html"><img src="images/blog-1.jpg" class="figure-img img-fluid" alt="blog"></a>
+                        <a href="blog.php"><img src="images/blog-1.jpg" class="figure-img img-fluid" alt="blog"></a>
                         <figcaption class="figure-caption">
-                            <h2><a href="blog.html">How Wikipedia can help legitimize your charity.</a></h2>
+                            <h2><a href="blog.php">How Wikipedia can help legitimize your charity.</a></h2>
                             <p>It can be difficult to gain legitimacy when starting a new charitable venture. But with the help of Wikipedia you can help build your brand's story.</p>
-                            <a href="blog_single.html" class="btn btn-success">+ more</a>
+                            <a href="blog_single.php" class="btn btn-success">+ more</a>
                         </figcaption>
                     </figure>
                 </div>
@@ -172,37 +172,37 @@
                     <div class="row" >
                         <div class="col-sm-6 col-12 box-2">
                             <figure class="figure">
-                                <a href="blog.html"><img src="images/blog-2.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="blog.php"><img src="images/blog-2.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-3">
-                            <h4><a href="blog.html">Do you really <em>need</em> a CMS?</a></h4>
+                            <h4><a href="blog.php">Do you really <em>need</em> a CMS?</a></h4>
                             <h5>The answer isn't always yes. WordPress and other CMS platforms have a great many benefits, but they have some disadvantages as well.</h5>
-                            <a href="blog_single.html" class="btn btn-success">+ more</a>
+                            <a href="blog_single.php" class="btn btn-success">+ more</a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-sm-6 col-12 box-4">
                             <figure class="figure">
-                                <a href="blog.html"><img src="images/blog-3.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="blog.php"><img src="images/blog-3.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-5">
-                            <h4><a href="blog.html">Make your logo bigger?</a></h4>
+                            <h4><a href="blog.php">Make your logo bigger?</a></h4>
                             <h5>In the design game, a bigger logo isn't always better. Most often a modest, sophisticated approach is the way to go. </h5>
-                            <a href="blog_single.html" class="btn btn-success">+ more</a>
+                            <a href="blog_single.php" class="btn btn-success">+ more</a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-sm-6 col-12 box-6">
                             <figure class="figure">
-                                <a href="blog.html"><img src="images/blog-4.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="blog.php"><img src="images/blog-4.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-7">
-                            <h4><a href="blog.html">Is print dying?</a></h4>
+                            <h4><a href="blog.php">Is print dying?</a></h4>
                             <h5>Sometimes it may seem that way, but it's hard to compete digitally with the tactile quality of paper. Print has it's place and it's here to stay.</h5>
-                            <a href="blog_single.html" class="btn btn-success">+ more</a>
+                            <a href="blog_single.php" class="btn btn-success">+ more</a>
                         </div>
                     </div>
                 </div>

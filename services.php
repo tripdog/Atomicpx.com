@@ -38,8 +38,8 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 data-aos="fade-right" data-aos-delay="300">What I do.</h1>
-                <h2 data-aos="fade-left" data-aos-delay="300">Tech isn't everyone's friend, it's my thing and I do it to make your life easier.</h2>
+                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">What I do.</h1>
+                <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">Tech isn't everyone's friend, it's my thing and I do it to make your life easier.</h2>
             </div>
             <!--container-fluid end-->
         </div>
