@@ -53,7 +53,7 @@
             <div class="row" style="margin-right: 0; margin-left: 0;" data-aos="fade-up" data-aos-delay="300">
                 <div>
                  <img src="images/about.jpg" alt="about-bg" class="thumbnail image">
-                  <p>I began my career with degree in Advertising from Advertising Arts College, La Jolla in 2000 and began working as a graphic designer for a small design firm in San Diego. <br><br>
+                  <p>I began my career with degree in Advertising from the Advertising Arts College, La Jolla in 2000 and began working as a graphic designer for a small design firm in San Diego. <br><br>
                 
                   Since then I've worked as a front-end developer at Jacob Tyler, a digital marketing specialist at San Diego's largest employer, Sharp Healthcare and as a designer at my favorite mountain shop, Adventure 16. <br><br>
                   
