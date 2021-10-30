@@ -26,26 +26,26 @@
             <div class="collapse navbar-collapse" id="navbar1">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link active" href="index.html">Home</a>
+                        <a class="nav-link active" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">About Me</a>
+                        <a class="nav-link" href="about.about">About Me</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="portfolio.html">Portfolio</a>
+                        <a class="nav-link" href="portfolio.php">Portfolio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="services.html">Services</a>
+                        <a class="nav-link" href="services.php">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
+                        <a class="nav-link" href="contact.php">Contact</a>
                     </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Support</a>
-                    </li> -->
-                    <!-- <li class="nav-item">
-                        <a class="nav-link" href="blog.html">blog</a>
-                    </li> -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="consult.php">Consultation</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="blog.php">blog</a>
+                    </li> 
                 </ul>
             </div>
         </div>
