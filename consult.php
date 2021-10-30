@@ -25,7 +25,7 @@
         <meta name="msapplication-TileColor" content="#603cba">
         <meta name="theme-color" content="#ffffff">
 
-    <title>Portfolio</title>
+    <title>Consultation</title>
     <style>
     .jumbotron {width: 100%;height: 250px;}
         .jumbotron h2 {padding-bottom: 0;}
@@ -33,14 +33,13 @@
 </head>
 <body>
 <?php include("inner-header.php"); ?>
-
-<!--Section-1-->
-<section class="section-1">
+ <!--Section-1-->
+ <section class="section-1">
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">Let's get in touch!</h1>
-                <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">I'm looking forward to hearing from you.</h2>
+                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">Consultations</h1>
+                <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">I'm happy to answer any questions you may have.</h2>
             </div>
             <!--container-fluid end-->
         </div>
@@ -49,42 +48,23 @@
 <!-- Contact section Start -->
 <div id="contact">
   <div class="container">
-  <h3>Contact Me</h3>
+  <h3>Book A Consultation</h3>
   <div class="row" data-aos="fade-up" data-aos-delay="300">
       <div class="col-md-12 text-left">
-          <p>Drop me a line!  If you prefer to chat via Phone, Skype, Whatsapp or Zoom head over to the <a href="consultation.php"><strong>consultation</strong></a> page and book some face time with me. I'm always happy to hear from you. You can also contact me via Twitter, LinkedIn or GitHub.</p>
-          <p>Some folks prefer to talk on the phone, <a href="tel:619-964-6678"><strong>619-964-6678</strong></a>. I'm up for that as well.</p>
+          <p>Let's chat about your next project. Usually, 45 minutes is enough for an intital consultation. However, if we go over a little bit, that's no problem. All consultations are free and my calendar is always up-to-date.</p>
+          <p><strong>Simply check the box next to consultation, then click "Continue".</strong></p>
       </div>
   </div>
     </div>
      <div class="container py-5">
       <div class="row" data-aos="fade-up" data-aos-delay="300">
-          <div class="col-md-12">
-              <form action="contact-process.php" id="contact-form" method="post">
-                <!-- Input Name -->
-                  <div class="form-group row">
-                      <div class="col-sm-6">
-                          <input type="text" tabindex="-1" id="text-field" class="form-control" placeholder="Your Name" required>
-                      </div>
-                <!-- /End Input Name -->
-                          <div class="col-sm-6">
-                          <input type="text" id="form-email" class="form-control" placeholder="Your Email" required>
-                      </div>
-                      <div class="col-sm-12">
-                          <input type="number" class="form-control" placeholder="Your Phone Number" required>
-                      </div>
-                  </div>
-                  <div class="form-group row">
-                      <div class="col-xs-12 col-md-12">
-                          <textarea type="text" class="form-control" placeholder="Your Message" rows="6" required></textarea>
-                      </div>
-                  </div>
-                  <button type="submit" class="btn btn-primary">Alright Submit it</button>
-              </form>
+          <div class="col-lg-12">
+              <!-- Start Square Appointments Embed Code -->
+      
+              <script src='https://square.site/appointments/buyer/widget/thwhwi8gqpz7gz/LQ124EWKXSM45.js'></script><!-- End Square Appointments Embed Code -->
+         
           </div>
       </div>
      </div>
 </div>
-
-<!-- Contact section Ended -->
 <?php include("footer.php"); ?>
