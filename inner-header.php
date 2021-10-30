@@ -8,11 +8,10 @@
                     <a class="navbar-brand" href="index.html"><img src="images/header-logo.png" alt="logo"></a>
                 </div>
                 <div class="col-sm-4 align-self-center text-right">
-                    <div class="social-icons">
-                        <a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
-                        <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                        <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                        <a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                <div class="social-icons">
+                        <a href="https://twitter.com/tripdog" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        <a href="https://linkedin.com/in/tphillips2" target="_blank"><i class="fa fab fa-linkedin" aria-hidden="true"></i></a>
+                        <a href="https://github.com/tripdog" target="_blank"><i class="fa fab fa-github" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
