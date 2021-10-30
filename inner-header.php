@@ -33,7 +33,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="about.php">About me</a>
                     </li>
-                    <li class="nav-item active">
+                    <li class="nav-item">
                         <a class="nav-link" href="portfolio.php">Portfolio</a>
                     </li>
                     <li class="nav-item">

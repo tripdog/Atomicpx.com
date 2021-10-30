@@ -18,4 +18,13 @@ document.addEventListener('DOMContentLoaded', (event) => {
   }
  randomImage();
 //  setInterval(randomImage, 5000);
- 
+
+//Add active class to the current button (highlight it)     
+const currentLocation = location.href
+const menuItems = document.querySelectorAll('.nav-link')
+const menuLength = menuItems.length
+for(let i = 0; i < menuLength; i++) {
+    if(currentLocation.includes(menuItems[i].href)) {
+        menuItems[i].classList.add('active')
+    }
+}
