@@ -1,7 +1,7 @@
 <header class="header bg">
         <div class="container text-white">
             <div class="row">
-                <div class="col-sm-4 align-self-center text-center">
+                <div class="col-sm-4 align-self-center text-left">
                     <h6>Design + Technology</h6>
                 </div>
                 <div class="col-sm-4 col-12 align-self-center box-1 text-center">

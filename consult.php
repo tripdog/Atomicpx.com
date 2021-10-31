@@ -39,7 +39,7 @@
             <div class="gradient"></div>
             <div class="container-fluid content">
                 <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">Consultations</h1>
-                <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">I'm happy to answer any questions you may have.</h2>
+                <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">Book some time with me to talk about your project.</h2>
             </div>
             <!--container-fluid end-->
         </div>
@@ -51,7 +51,7 @@
   <h3>Book a consultation</h3>
   <div class="row" data-aos="fade-up" data-aos-delay="300">
       <div class="col-md-12 text-left">
-          <p>Let's chat about your next project. Usually, 45 minutes is enough for an intital consultation. However, if we go over a little bit, that's no problem. All consultations are free and my calendar is always up-to-date.</p>
+          <p>Let's chat about your next project. Usually, 45 minutes is enough for an intital consultation. Website builds are all a little different but the process is more or less the same. I can walk you through the steps it takes to build a site or any design project. All consultations are free and my calendar is always up-to-date.</p>
           <p><strong>Simply check the box next to consultation, then click "Continue".</strong></p>
       </div>
   </div>
