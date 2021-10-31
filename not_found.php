@@ -38,7 +38,7 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">Uh oh 404!</h1>
+                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">Ruh roh 404!</h1>
                 <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">Something ain't right.</h2>
             </div>
             <!--container-fluid end-->
@@ -47,11 +47,9 @@
 
 <div id="about-us">
         <div class="container">
-           <h3>404 Something went sideways.</h3>
-            <div class="row" style="margin-right: 0; margin-left: 0;" data-aos="fade-up" data-aos-delay="300">
-                <div>
-                 <img src="images/bigG.jpg" alt="Dog Gone it!" class="fluid image thumbnail">
-                  
+            <div class="row" data-aos="fade-up" data-aos-delay="300">
+                <div class="col-md-6 mx-auto">
+                    <img src="images/bigG.png" alt="Dog Gone it!" class="img-fluid">
                 </div>
              </div>
         </div>

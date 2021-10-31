@@ -48,7 +48,7 @@
 <!-- Contact section Start -->
 <div id="contact">
   <div class="container">
-  <h3>Book A Consultation</h3>
+  <h3>Book a consultation</h3>
   <div class="row" data-aos="fade-up" data-aos-delay="300">
       <div class="col-md-12 text-left">
           <p>Let's chat about your next project. Usually, 45 minutes is enough for an intital consultation. However, if we go over a little bit, that's no problem. All consultations are free and my calendar is always up-to-date.</p>
