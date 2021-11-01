@@ -60,7 +60,7 @@
      <div class="container py-5">
       <div class="row" data-aos="fade-up" data-aos-delay="300">
           <div class="col-md-12">
-          <form action="contact-process.php" id="contact-form" method="post">
+          <form action="/form/contact-process.php" id="contact-form" method="post">
              <input type="text" class="form-control form-control-custom" tabindex="-1" id="text-field" name="text-field">
                 <!-- Input Name -->
                   <div class="form-group row">

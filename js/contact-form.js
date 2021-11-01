@@ -40,7 +40,7 @@
     // process the form
     $.ajax({
       type: 'POST',
-      url: '/contact-process.php',
+      url: 'form/contact-process.php',
       data: formData,
       dataType: 'json',
       encode: true
