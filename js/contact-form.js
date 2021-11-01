@@ -58,6 +58,10 @@
           errorAll = errorAll + ' ' + data.errors.email;
         }
 
+        if (data.errors.phone) {  
+          $('#phone-field').addClass('error');
+          errorAll = errorAll + ' ' + data.errors.phone;
+
         if (data.errors.message) {
           $('#message-field').addClass('error');
           errorAll = errorAll + ' ' + data.errors.message;

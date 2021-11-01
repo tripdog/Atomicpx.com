@@ -60,24 +60,24 @@
      <div class="container py-5">
       <div class="row" data-aos="fade-up" data-aos-delay="300">
           <div class="col-md-12">
-          <form action="php/contact-process.php" id="contact-form" method="post">
-          <input type="text" class="form-control form-control-custom" tabindex="-1" id="text-field" name="text-field">
+          <form action="contact-process.php" id="contact-form" method="post">
+             <input type="text" class="form-control form-control-custom" tabindex="-1" id="text-field" name="text-field">
                 <!-- Input Name -->
                   <div class="form-group row">
-                      <div class="col-sm-6">
-                          <input type="text" class="form-control" id="form-name" name="form-name" placeholder="Your Name" required/>
+                      <div class="col-sm-6" id="name-field">
+                          <input type="text" class="form-control" id="form-name" name="form-name" placeholder="Your Name" >
                       </div>
                 <!-- /End Input Name -->
-                          <div class="col-sm-6">
+                          <div class="col-sm-6" id="email-field">
                           <input type="email" class="form-control" id="form-email" name="form-email" placeholder="Email">
                       </div>
-                      <div class="col-sm-12">
+                      <div class="col-sm-12" id="phone-field">
                           <input type="text" class="form-control" placeholder="Your Phone Number" name="form-phone" id="form-phone">
                       </div>
                   </div>
                   <div class="form-group row">
-                      <div class="col-xs-12 col-md-12">
-                        <textarea class="form-control" rows="1" id="form-message" name="form-message" placeholder="Your Message" required></textarea>
+                      <div class="col-xs-12 col-md-12" id="message-field">
+                        <textarea class="form-control" id="form-message" name="form-message" placeholder="Your Message" required></textarea>
                       </div>
                   </div>
                   <button type="submit" class="btn btn-primary">Alright Submit it</button>
