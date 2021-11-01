@@ -55,7 +55,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
 
         $data['success'] = true;
-        $data['confirmation'] = 'Congratulations. Your message has been sent successfully';
+        $data['confirmation'] = 'Thank You! Your message has been sent successfully';
     }
 
     // return all our data to an AJAX call

@@ -60,23 +60,24 @@
      <div class="container py-5">
       <div class="row" data-aos="fade-up" data-aos-delay="300">
           <div class="col-md-12">
-              <form action="contact-process.php" id="contact-form" method="post">
+          <form action="php/contact-process.php" id="contact-form" method="post">
                 <!-- Input Name -->
                   <div class="form-group row">
                       <div class="col-sm-6">
-                          <input type="text" tabindex="-1" id="text-field" class="form-control" placeholder="Your Name" required>
+                          <input type="text" tabindex="-1" id="text-field" class="form-control" name="text-field" placeholder="Your Name" >
+                          <input type="text" class="form-control" id="form-name" name="form-name" placeholder="Your Name" required/>
                       </div>
                 <!-- /End Input Name -->
                           <div class="col-sm-6">
-                          <input type="text" id="form-email" class="form-control" placeholder="Your Email" required>
+                          <input type="email" class="form-control" id="form-email" name="form-email" placeholder="Email">
                       </div>
                       <div class="col-sm-12">
-                          <input type="number" class="form-control" placeholder="Your Phone Number" required>
+                          <input type="text" class="form-control" placeholder="Your Phone Number" name="form-phone" id="form-phone">
                       </div>
                   </div>
                   <div class="form-group row">
                       <div class="col-xs-12 col-md-12">
-                          <textarea type="text" class="form-control" placeholder="Your Message" rows="6" required></textarea>
+                        <textarea class="form-control" rows="1" id="form-message" name="form-message" placeholder="Your Message" required></textarea>
                       </div>
                   </div>
                   <button type="submit" class="btn btn-primary">Alright Submit it</button>
