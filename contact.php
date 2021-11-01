@@ -61,10 +61,10 @@
       <div class="row" data-aos="fade-up" data-aos-delay="300">
           <div class="col-md-12">
           <form action="php/contact-process.php" id="contact-form" method="post">
+          <input type="text" class="form-control form-control-custom" tabindex="-1" id="text-field" name="text-field">
                 <!-- Input Name -->
                   <div class="form-group row">
                       <div class="col-sm-6">
-                          <input type="text" tabindex="-1" id="text-field" class="form-control" name="text-field" placeholder="Your Name" >
                           <input type="text" class="form-control" id="form-name" name="form-name" placeholder="Your Name" required/>
                       </div>
                 <!-- /End Input Name -->

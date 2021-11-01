@@ -951,6 +951,15 @@ textarea.form-control {
     box-shadow: none;
 }
 
+#contact .form-control-custom {
+    border: 0;
+    height: 2px;
+    padding: 0;
+    -webkit-appearance: none;
+    -moz-appearance:    none;
+    appearance:         none;
+  }
+
 /*=============================
      Portfolio Styles
 =============================*/
