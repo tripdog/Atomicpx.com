@@ -1763,7 +1763,7 @@ textarea.form-control {
     .navbar-light .navbar-nav .nav-link,
     .navbar-light .navbar-nav .active > .nav-link {
         font-size: 12px;
-        padding: 10px 10px;
+        padding: 15px 10px;
     }
     header .navbar-brand img {
         width: 75%;
@@ -1953,7 +1953,7 @@ textarea.form-control {
         height: 330px;
     }
     #about-us p {
-        font-size: 12px;
+        font-size: 16px;
         margin-bottom: 30px;
     }
     #about-us h3 {
@@ -1964,7 +1964,7 @@ textarea.form-control {
         font-size: 26px;
     }
     #contact p {
-        font-size: 12px;
+        font-size: 16px;
         letter-spacing: 0.5px;
         line-height: 25px;
         padding-bottom: 0;
@@ -2125,7 +2125,7 @@ textarea.form-control {
     .services p {
         color: #848484;
         line-height: 25px;
-        font-size: 14px;
+        font-size: 16px;
     }
 }
 
@@ -2377,7 +2377,6 @@ textarea.form-control {
     .navbar-light .navbar-toggler {
         color: rgb(0, 0, 0, 0.5);
         border-color: rgba(255, 255, 255, 0.1);
-        background: #fc7e2f;
     }
     .navbar-toggler {
         padding: .15rem .25rem;
