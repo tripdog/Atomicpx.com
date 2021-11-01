@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <!-- Required meta tags -->
+    <!-- Necessary meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -26,8 +26,13 @@
     <meta name="theme-color" content="#ffffff">
 
     <title>Services</title>
+
+    <meta name="description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting."/>
+    <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
+    <meta name="author" content="Atomic/TomPhillips">
+
     <style>
-    .jumbotron {width: 100%;height: 250px;}
+        .jumbotron {width: 100%;height: 250px;}
         .jumbotron h2 {padding-bottom: 0;}
     </style>
 </head>

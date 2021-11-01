@@ -32,7 +32,6 @@
     var formData = {
       'name': $('input[name="form-name"]').val(),
       'email': $('input[name="form-email"]').val(),
-      'phone': $('input[name="form-phone"]').val(),
       'message': $('textarea[name="form-message"]').val(),
       'textfield': $('input[name="text-field"]').val()
     };
@@ -56,11 +55,6 @@
         if (data.errors.email) {
           $('#email-field').addClass('error');
           errorAll = errorAll + ' ' + data.errors.email;
-        }
-
-        if (data.errors.phone) {  
-          $('#phone-field').addClass('error');
-          errorAll = errorAll + ' ' + data.errors.phone;
         }
 
         if (data.errors.message) {

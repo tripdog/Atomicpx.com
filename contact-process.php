@@ -9,7 +9,6 @@ $data   = array(); // array to pass back data
 if($_SERVER['REQUEST_METHOD'] === 'POST') {
     $name    = stripslashes(trim($_POST['name']));
     $email   = stripslashes(trim($_POST['email']));
-    $phone   = stripslashes(trim($_POST['phone']));
     $message = stripslashes(trim($_POST['message']));
     $spam    = $_POST['textfield'];
 
@@ -34,7 +33,6 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
         $body    = '
             <strong>Name: </strong>'.$name.'<br />
             <strong>Email: </strong>'.$email.'<br />
-            <strong>Phone: </strong>'.$phone.'<br />
             <strong>Message: </strong>'.nl2br($message).'<br />
         ';
 
