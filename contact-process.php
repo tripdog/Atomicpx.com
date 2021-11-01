@@ -1,6 +1,6 @@
 <?php
 
-$subjectPrefix = 'Atomic Inquiry';
+$subjectPrefix = 'Mail from Atomic';
 $emailTo       = 'tom@atomicpx.com';
 
 $errors = array(); // array to hold validation errors

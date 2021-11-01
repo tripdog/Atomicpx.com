@@ -960,6 +960,26 @@ textarea.form-control {
     appearance:         none;
   }
 
+  .error .form-control:-moz-placeholder {
+    color: #c0392b;
+  }
+  
+  .error .form-control::-moz-placeholder {
+    color: #c0392b;
+  }
+  
+  .error .form-control:-ms-input-placeholder {
+    color: #c0392b;
+  }
+  
+  .error .form-control::-webkit-input-placeholder {
+    color: #c0392b;
+  }
+  
+  .error .form-control {
+    color: #c0392b;
+  }
+
 /*=============================
      Portfolio Styles
 =============================*/

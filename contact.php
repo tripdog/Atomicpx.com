@@ -81,6 +81,11 @@
                       </div>
                   </div>
                   <button type="submit" class="btn btn-primary">Alright Submit it</button>
+                  <!-- Contact Alert -->
+                 <div id="message-contact" class="message-wrapper text-white message">
+                     <i class="icon icon-sm icon-arrows-slim-right-dashed"></i>
+                     <span class="message-text"></span>
+                </div>
               </form>
           </div>
       </div>

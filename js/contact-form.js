@@ -8,7 +8,7 @@
  + version 1.0.1
  + Copyright 2014 Pedro Rogerio
  + Licensed under the MIT license
- + https://github.com/pinceladasdaweb/Ajax-Contact-Form
+ + https://github.com/pinceladasdaweb/Ajax-Contact-Form ATOMIC!!
  */
 
 (function ($, window, document, undefined) {
@@ -40,7 +40,7 @@
     // process the form
     $.ajax({
       type: 'POST',
-      url: 'contact-process.php',
+      url: '/contact-process.php',
       data: formData,
       dataType: 'json',
       encode: true
@@ -61,6 +61,7 @@
         if (data.errors.phone) {  
           $('#phone-field').addClass('error');
           errorAll = errorAll + ' ' + data.errors.phone;
+        }
 
         if (data.errors.message) {
           $('#message-field').addClass('error');
