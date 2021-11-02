@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 
 <head>
@@ -63,8 +62,8 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 data-aos="fade-right" data-aos-delay="300">SEO and Brand Visibility</h1>
-                <h2 data-aos="fade-left" data-aos-delay="300">Tips for new charitable orgs and small businesses.</h2>
+                <h1 data-aos="fade-right" data-aos-delay="300">Static website or CMS</h1>
+                <h2 data-aos="fade-left" data-aos-delay="300">Advantages and disadvantages of the CMS</h2>
             </div>
             <!--container-fluid end-->
         </div>
@@ -83,9 +82,9 @@
         <div class="container">
             <div class="row" data-aos="fade-up" data-aos-duration="700">
                 <div class="col-sm-12">
-                    <img src="images/wikipediaImg.jpg" alt="Wikipedia Image" class="img-thumbnail image">
+                    <img src="images/CMS.jpg" alt="Wikipedia Image" class="img-thumbnail image">
                     <div class="heading">
-                        <h2>How Wikipedia can help your business or charity.</h2>
+                        <h2>Do you really need a CMS?</h2>
                     </div>
                 </div>
             </div>
@@ -93,27 +92,21 @@
                 <div class="row">
                     <div class="col-sm-5 col-md-6">
                         <div class="inner-text">
-                            <h3>October 23, 2021 Posted by <span>Tom</span> In : <span>Branding</span></h3>
+                            <h3>October 15, 2021 Posted by <span>Tom</span> In : <span>Tech</span></h3>
                         </div>
                     </div>
                 </div>
             </div>    
             <div class="row row justify-content-md-center" data-aos="fade-up" data-aos-duration="700">
                 <div class="col-8 box">
-                    <p>I love wikipedia and usually I’m looking up who was the drummer for Velvet Underground in ‘71, or how many episodes of Handmaid’s Tale were made for season three.</p>
-                    <p>But most people don’t know that there are some great benefits to registering your business or charity with Wikipedia. Not the least of which is a bump in SEO or search engine rankings on Google. It is a little known fact that Wikipedia is one of the best third-party sources for <a href="https://blog.hubspot.com/marketing/blogging-for-seo" target="_blank">ranking on page one of Google.</a></p>
-                    <p>Having a presence on Wikipedia also lends legitimacy to both new businesses and charities. Customers or donors will often search for an entity before donating or doing business and you can think of it as another channel for brand awareness.</p>
-                    <p>All of these things combined make the effort worthwhile, because it will give your organization a boost in online visibility.</p>
-                    <p>Registering is fairly painless. Just follow these steps.</p>
-                    <ol>
-                        <li><a href="https://en.m.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wikipedia:Why_create_an_account%3F" target="_blank">Go to the Wikipedia account creation page.</a></li>
-                        <li>Create an account.</li>
-                        <li>Create the page.</li>
-                        <li>Provide citations.</li>    
-                        <li>Submit the page for review.</li>
-                        <li>Update it as often as you can.</li>
-                    </ol>
-                    <p>A little bit of work up-front can go a long way to both lending your business or org credibility and enhancing your SEO scores, and beefing up brand visibility.</p><i class="fa fa-lightbulb" aria-hidden="true"></i>
+                    <p>During the mid to late 2000’s CMS’ we’re all the rage. It didn’t seem to matter much whether the project called for it or not, everybody had one. But with the advent of a thing called the JamStack (JavaScript, API and Markup or HTML) Things are beginning to change though. This new streamlined approach to making web sites isn’t actually new. In many ways, it’s where we were before CMS’s became popular. And they have some real advantages.
+</p>
+                    <p>JamStack websites are very fast and that matters because now, Google uses page-load speed as a significant metric in deciding where your website ends up on any given Google search engine result page (SERP). The advantages don’t stop there either, since JamStack websites don’t use databases or run server-side code, their much more secure. Sites running on PHP like WordPress, need to take extra precautions to prevent a breach in security. </p>
+
+                    <p>The other disadvantage to having a CMS is that no matter which one you have, they all have their quirks and you’ll experience varying learning curves for each. Aside from that, just because you can post images, graphics and copy, that doesn’t necessarily mean that you’ll be making good design decisions when you perform any of these operations. So, a well designed website that’s connected to a CMS can degrade rather rapidly if careful attention isn’t paid to solid design principals of the site.</p>
+
+                    <p>Having a CMS isn’t all bad though there are certain advantages that come along with something like a WordPress site. Often when you host a WordPress site, it comes with email accounts which you’d otherwise have to pay for on a JamStack website. Lastly, having a database to track things like form submissions, payments and the like is a big factor in making a decision about whether or not you need a CMS. The point is as always using the correct tool for the correct job. When it comes to a CMS one size doesn’t fit all.</p>
+                   <i class="fa fa-lightbulb" aria-hidden="true"></i>
                 </div>
             </div>
         </div>

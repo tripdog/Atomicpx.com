@@ -196,13 +196,13 @@
                     <div class="row" >
                         <div class="col-sm-6 col-12 box-2">
                             <figure class="figure">
-                                <a href="blog.php"><img src="images/blog-2.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="do_you_need_a_cms.php"><img src="images/blog-2.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-3">
-                            <h4><a href="blog.php">Do you really <em>need</em> a CMS?</a></h4>
+                            <h4><a href="do_you_need_a_cms.php">Do you really <em>need</em> a CMS?</a></h4>
                             <h5>The answer isn't always yes. WordPress and other CMS platforms have a great many benefits, but they have some disadvantages as well.</h5>
-                            <a href="blog_single.php" class="btn btn-success">+ more</a>
+                            <a href="do_you_need_a_cms.php" class="btn btn-success">+ more</a>
                         </div>
                     </div>
                     <div class="row">
