@@ -62,8 +62,8 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 data-aos="fade-right" data-aos-delay="300">Welcome to more.</h1>
-                <h2 data-aos="fade-left" data-aos-delay="300">the multipurpose psd wordrpess theme</h2>
+                <h1 data-aos="fade-right" data-aos-delay="300">Blog Articles</h1>
+                <h2 data-aos="fade-left" data-aos-delay="300">Musings on the web, design, branding and tech.</h2>
             </div>
             <!--container-fluid end-->
         </div>
@@ -85,7 +85,7 @@
                     <figure class="figure">
                         <a href="wikipedia_for_the_win.php"><img src="images/blog-1.jpg" class="figure-img img-fluid" alt="blog"></a>
                         <figcaption class="figure-caption">
-                            <h2><a href="blog.php">How Wikipedia can help legitimize your charity.</a></h2>
+                            <h2><a href="wikipedia_for_the_win.php">How Wikipedia can help legitimize your charity.</a></h2>
                             <p>It can be difficult to gain legitimacy when starting a new charitable venture. But with the help of Wikipedia, you can help build your brand's story.</p>
                             <a href="wikipedia_for_the_win.php" class="btn btn-success">+ more</a>
                         </figcaption>

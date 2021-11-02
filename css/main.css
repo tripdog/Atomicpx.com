@@ -12,6 +12,7 @@ body {
     font-size: 20px;
     line-height: 1.5;
     margin: 0 auto;
+    font-weight: 300;
 }
 
 .caption {
@@ -53,6 +54,15 @@ samp {
 
 ul > li {
     list-style: none;
+}
+
+ol > li {
+    font-size: 17px;
+    margin-bottom: 6px
+}
+
+ol {
+    margin-bottom: 2em;
 }
 
 .btn-primary:focus {
@@ -1385,9 +1395,8 @@ textarea.form-control {
 #blog-single .box p {
     margin: 0;
     color: #636363;
-    font-size: 17px;
+    font-size: 18px;
     line-height: 30px;
-    text-align: justify;
     word-spacing: -1px;
     margin-top: -7px;
     padding-bottom: 40px;
@@ -1396,8 +1405,8 @@ textarea.form-control {
 }
 
 #blog-single .box a {
-    color: #ed1c24;
-    border-bottom: 1px solid #ed1c24;
+    color: #fc7e2f;
+    border-bottom: 1px solid #000;
 }
 
 .social-buttons .inner-text span:first-child {
@@ -1832,7 +1841,7 @@ textarea.form-control {
         font-size: 25px;
     }
     .section-2 p {
-        font-size: 14px;
+        font-size: 17px;
     }
     .section-2 .box {
         padding: 20px 10px;
@@ -1883,7 +1892,7 @@ textarea.form-control {
         padding-bottom: 5px;
     }
     .section-4 figure figcaption p {
-        font-size: 14px;
+        font-size: 16px;
         line-height: 25px;
     }
     .section-4 h5 {
@@ -2051,7 +2060,7 @@ textarea.form-control {
         padding-bottom: 5px;
     }
     .blog figure figcaption p {
-        font-size: 14px;
+        font-size: 17px;
         line-height: 25px;
     }
     .blog h5 {
@@ -2107,7 +2116,7 @@ textarea.form-control {
     }
     #blog-single .box p {
         margin: 0;
-        font-size: 14px;
+        font-size: 17px;
         line-height: 25px;
         word-spacing: 0;
         margin-top: 0;
@@ -2126,7 +2135,7 @@ textarea.form-control {
         font-size: 16px;
     }
     .section4 .card .card-body a {
-        font-size: 14px;
+        font-size: 17px;
     }
     #blog-single .image {
         margin: 20px 0;
@@ -2526,7 +2535,7 @@ textarea.form-control {
         font-weight: 400;
     }
     .blog figure figcaption p {
-        font-size: 14px;
+        font-size: 16px;
         font-weight: 400;
     }
     .blog .btn-success {
@@ -2564,7 +2573,7 @@ textarea.form-control {
         font-weight: 400;
     }
     .section-4 figure figcaption p {
-        font-size: 14px;
+        font-size: 16px;
         font-weight: 400;
     }
     .section-4 .btn-success {

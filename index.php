@@ -184,11 +184,11 @@
             <div class="row">
                 <div class="col-lg-4 col-sm-12 col-12 box-1"  data-aos="fade-right" data-aos-delay="300">
                     <figure class="figure">
-                        <a href="blog.php"><img src="images/blog-1.jpg" class="figure-img img-fluid" alt="blog"></a>
+                        <a href="wikipedia_for_the_win.php"><img src="images/blog-1.jpg" class="figure-img img-fluid" alt="Wikipedia"></a>
                         <figcaption class="figure-caption">
-                            <h2><a href="blog.php">How Wikipedia can help legitimize your charity.</a></h2>
+                            <h2><a href="wikipedia_for_the_win.php">How Wikipedia can help legitimize your charity.</a></h2>
                             <p>It can be difficult to gain legitimacy when starting a new charitable venture. But with the help of Wikipedia you can help build your brand's story.</p>
-                            <a href="blog_single.php" class="btn btn-success">+ more</a>
+                            <a href="wikipedia_for_the_win.php" class="btn btn-success">+ more</a>
                         </figcaption>
                     </figure>
                 </div>
