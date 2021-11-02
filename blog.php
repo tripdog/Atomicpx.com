@@ -95,7 +95,7 @@
                     <div class="row">
                         <div class="col-sm-6 col-12 box-2">
                             <figure class="figure">
-                                <a href="blog.php"><img src="images/blog-2.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="do_you_need_a_cms.php"><img src="images/blog-2.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-3">
@@ -109,7 +109,7 @@
                     <div class="row">
                         <div class="col-sm-6 col-12 box-4">
                             <figure class="figure">
-                                <a href="blog_single.html"><img src="images/blog-3.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="make_my_logo_bigger.php"><img src="images/blog-3.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-5">

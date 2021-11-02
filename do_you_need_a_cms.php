@@ -97,10 +97,10 @@
                     </div>
                 </div>
             </div>    
-            <div class="row row justify-content-md-center" data-aos="fade-up" data-aos-duration="700">
-                <div class="col-8 box">
-                    <p>During the mid to late 2000’s CMS’ we’re all the rage. It didn’t seem to matter much whether the project called for it or not, everybody had one. But with the advent of a thing called the JamStack (JavaScript, API and Markup or HTML) Things are beginning to change though. This new streamlined approach to making web sites isn’t actually new. In many ways, it’s where we were before CMS’s became popular. And they have some real advantages.
-</p>
+            <div class="row justify-content-md-center" data-aos="fade-up" data-aos-duration="700">
+                <div class="col-xs-12 col-md-8">
+                    <p>During the mid to late 2000’s CMS’ we’re all the rage. It didn’t seem to matter much whether the project called for it or not, everybody had one. But with the advent of a thing called the JamStack (JavaScript, API and Markup or HTML) Things are beginning to change though. This new streamlined approach to making web sites isn’t actually new. In many ways, it’s where we were before CMS’s became popular. And they have some real advantages.</p>
+
                     <p>JamStack websites are very fast and that matters because now, Google uses page-load speed as a significant metric in deciding where your website ends up on any given Google search engine result page (SERP). The advantages don’t stop there either, since JamStack websites don’t use databases or run server-side code, their much more secure. Sites running on PHP like WordPress, need to take extra precautions to prevent a breach in security. </p>
 
                     <p>The other disadvantage to having a CMS is that no matter which one you have, they all have their quirks and you’ll experience varying learning curves for each. Aside from that, just because you can post images, graphics and copy, that doesn’t necessarily mean that you’ll be making good design decisions when you perform any of these operations. So, a well designed website that’s connected to a CMS can degrade rather rapidly if careful attention isn’t paid to solid design principals of the site.</p>

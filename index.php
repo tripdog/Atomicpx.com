@@ -208,13 +208,13 @@
                     <div class="row">
                         <div class="col-sm-6 col-12 box-4">
                             <figure class="figure">
-                                <a href="blog.php"><img src="images/blog-3.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="make_my_logo_bigger.php"><img src="images/blog-3.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-5">
-                            <h4><a href="blog.php">Make your logo bigger?</a></h4>
+                            <h4><a href="make_my_logo_bigger.php">Make your logo bigger?</a></h4>
                             <h5>In the design game, a bigger logo isn't always better. Most often a modest, sophisticated approach is the way to go. </h5>
-                            <a href="blog_single.php" class="btn btn-success">+ more</a>
+                            <a href="make_my_logo_bigger.php" class="btn btn-success">+ more</a>
                         </div>
                     </div>
                     <div class="row">

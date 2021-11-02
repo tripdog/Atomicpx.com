@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 
 <head>
@@ -63,8 +62,8 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 data-aos="fade-right" data-aos-delay="300">SEO and Brand Visibility</h1>
-                <h2 data-aos="fade-left" data-aos-delay="300">Tips for new charitable orgs and small businesses.</h2>
+                <h1 data-aos="fade-right" data-aos-delay="300">Logos</h1>
+                <h2 data-aos="fade-left" data-aos-delay="300">The temptation to make them ever bigger</h2>
             </div>
             <!--container-fluid end-->
         </div>
@@ -83,9 +82,9 @@
         <div class="container">
             <div class="row" data-aos="fade-up" data-aos-duration="700">
                 <div class="col-sm-12">
-                    <img src="images/wikipediaImg.jpg" alt="Wikipedia Image" class="img-thumbnail image">
+                    <img src="images/logoBigger.jpg" alt="Wikipedia Image" class="img-thumbnail image">
                     <div class="heading">
-                        <h2>How Wikipedia can help your business or charity.</h2>
+                        <h2>Make your logo bigger?</h2>
                     </div>
                 </div>
             </div>
@@ -93,27 +92,19 @@
                 <div class="row">
                     <div class="col-sm-5 col-md-6">
                         <div class="inner-text">
-                            <h3>October 23, 2021 Posted by <span>Tom</span> In : <span>Branding</span></h3>
+                            <h3>November 02, 2021 Posted by <span>Tom</span> In : <span>Tech</span></h3>
                         </div>
                     </div>
                 </div>
             </div>    
-            <div class="row row justify-content-md-center" data-aos="fade-up" data-aos-duration="700">
+            <div class="row justify-content-md-center" data-aos="fade-up" data-aos-duration="700">
                 <div class="col-xs-12 col-md-8">
-                    <p>I love wikipedia and usually I’m looking up who was the drummer for Velvet Underground in ‘71, or how many episodes of Handmaid’s Tale were made for season three.</p>
-                    <p>But most people don’t know that there are some great benefits to registering your business or charity with Wikipedia. Not the least of which is a bump in SEO or search engine rankings on Google. It is a little known fact that Wikipedia is one of the best third-party sources for <a href="https://blog.hubspot.com/marketing/blogging-for-seo" target="_blank">ranking on page one of Google.</a></p>
-                    <p>Having a presence on Wikipedia also lends legitimacy to both new businesses and charities. Customers or donors will often search for an entity before donating or doing business and you can think of it as another channel for brand awareness.</p>
-                    <p>All of these things combined make the effort worthwhile, because it will give your organization a boost in online visibility.</p>
-                    <p>Registering is fairly painless. Just follow these steps.</p>
-                    <ol>
-                        <li><a href="https://en.m.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wikipedia:Why_create_an_account%3F" target="_blank">Go to the Wikipedia account creation page.</a></li>
-                        <li>Create an account.</li>
-                        <li>Create the page.</li>
-                        <li>Provide citations.</li>    
-                        <li>Submit the page for review.</li>
-                        <li>Update it as often as you can.</li>
-                    </ol>
-                    <p>A little bit of work up-front can go a long way to both lending your business or org credibility and enhancing your SEO scores, and beefing up brand visibility.</p><i class="fa fa-lightbulb" aria-hidden="true"></i>
+                    <p>I get it, your logo is indeed beautiful, I may have even designed it myself. However, design is a balancing act where elements need a certain amount of asymmetrical balance. </p>
+
+                    <p>Throw that balance out of whack, and it’s  a quick way to bring to mind the feeling of those throw away ads in the Sunday paper. The more we nudge the logo ever larger, the more slippery the design slope so to speak. </p>
+
+                    <p>It’s not some kind of unwritten rule in graphic design that logos adhere to a specific size. But the client-designer relationship is one of trust. No matter how tempting it may be to improve on a good design but punching up the size of the logo, it’s definitely best to err on the side of modest elegance as opposed to that used car ad look from the Sunday paper. </p>
+                   <i class="fa fa-lightbulb" aria-hidden="true"></i>
                 </div>
             </div>
         </div>
