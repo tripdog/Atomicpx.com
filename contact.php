@@ -30,6 +30,26 @@
     <meta name="description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
+
+    <!--- Open Graph data -->
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Where design and technoolgy intersect." />
+    <meta property="og:description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting." />
+    <meta property="og:url" content="https://atomicpx.com/" />
+    <meta property="og:site_name" content="Atomic" />
+    <meta property="article:publisher" content="https://www.facebook.com/amikasBridgeHousing" />
+    <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
+    <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
+    <meta property="og:image:width" content="2560" />
+    <meta property="og:image:height" content="1751" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Where design and technology intersect" />
+    <meta name="twitter:description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting" />
+    <meta name="twitter:image" content="https://atomicpx.com/images/OG-twitter.jpg" />
+    <meta name="twitter:site" content="@tripdog" />
+    <meta name="twitter:label1" content="Est. reading time" />
+    <meta name="twitter:data1" content="3 minutes" />
     
     <style>
         .jumbotron {width: 100%;height: 250px;}
@@ -65,48 +85,49 @@
      <div class="container py-5">
       <div class="row" data-aos="fade-up" data-aos-delay="300">
           <div class="col-md-12">
-                        <!-- Contact Form -->
-                        <form action="php/contact-process.php" id="contact-form" method="post">
-                        <input type="text" class="form-control form-control-custom" tabindex="-1"
-                            id="text-field" name="text-field">
+            <!-- Contact Form -->
+            <form action="php/contact-process.php" id="contact-form" method="post">
 
-                        <!-- Input Name -->
-                        <div class="form-group" id="name-field">
-                        <label for="form-name" class="sr-only">Name</label>
-                        <input type="text" class="form-control form-control-dark"
-                                id="form-name" name="form-name" placeholder="Name">
-                        </div>
-                        <!-- /End Input Name -->
+            <input type="text" class="form-control form-control-custom" tabindex="-1"
+                id="text-field" name="text-field">
 
-                        <!-- Input Email -->
-                        <div class="form-group" id="email-field">
-                        <label for="form-email" class="sr-only">Email</label>
-                        <input type="email" class="form-control form-control-dark"
-                                id="form-email" name="form-email" placeholder="Email">
-                        </div>
-                        <!-- /End Input Email -->
+            <!-- Input Name -->
+            <div class="form-group" id="name-field">
+            <label for="form-name" class="sr-only">Name</label>
+            <input type="text" class="form-control form-control-dark"
+                    id="form-name" name="form-name" placeholder="Name">
+            </div>
+            <!-- /End Input Name -->
 
-                        <!-- Input Message -->
-                        <div class="form-group" id="message-field">
-                        <label for="form-message" class="sr-only">Message</label>
-                                        <textarea class="form-control form-control-dark" rows="1"
-                                                id="form-message" name="form-message"
-                                                placeholder="Message"></textarea>
-                        </div>
-                        <!-- /End Input Message -->
+            <!-- Input Email -->
+            <div class="form-group" id="email-field">
+            <label for="form-email" class="sr-only">Email</label>
+            <input type="email" class="form-control form-control-dark"
+                    id="form-email" name="form-email" placeholder="Email">
+            </div>
+            <!-- /End Input Email -->
 
-                        <!-- Submit Button -->
-                        <div class="btn-row">
-                        <div class="form-group">
-                            <button type="submit" class="btn btn-dark" role="button">
-                            Send Message
-                            </button>
-                        </div>
-                        </div>
-                        <!-- /End Submit Button -->
+            <!-- Input Message -->
+            <div class="form-group" id="message-field">
+            <label for="form-message" class="sr-only">Message</label>
+            <textarea class="form-control form-control-dark" rows="1" id="form-message" name="form-message" placeholder="Message"></textarea>
+            </div>
 
-                        </form>
-                        <!-- /End Contact Form -->
+            <!-- /End Input Message -->
+
+            <!-- Submit Button -->
+            <div class="btn-row">
+            <div class="form-group">
+                <button type="submit" class="btn btn-dark" role="button">
+                Send Message
+                </button>
+            </div>
+            </div>
+            <!-- /End Submit Button -->
+
+            </form>
+            <!-- /End Contact Form -->
+
           </div>
       </div>
      </div>
