@@ -1203,10 +1203,11 @@ textarea.form-control {
 }
 
 .blog figure figcaption p {
-    font-size: 16px;
-    color: black;
+    font-size: 1.25rem;
+    color: #6c757d;
     font-weight: 300;
     line-height: 27px;
+    padding-bottom: 30px;
 }
 
 .blog .box-1 img {
@@ -1224,12 +1225,12 @@ textarea.form-control {
     object-fit: cover;
     padding-left: 30px;
 }
-
+/* 
 .blog .box-2 figure,
 .blog .box-4 figure,
 .blog .box-6 figure {
     margin: 0 0 55px;
-}
+} */
 
 .blog h4 {
     font-size: 24px;
@@ -1238,7 +1239,7 @@ textarea.form-control {
 }
 
 .blog h5 {
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 300;
     padding-bottom: 30px;
     padding-right: 40px;
@@ -2485,6 +2486,9 @@ textarea.form-control {
     .blog .heading .btn-success {
         margin-bottom: 20px;
     }
+    .blog > .btn-success {
+        margin-bottom: 20px !important;
+    }
     .blog .box-2 img,
     .blog .box-4 img,
     .blog .box-6 img {
@@ -2529,6 +2533,7 @@ textarea.form-control {
         font-size: 12px;
         padding: 5px 15px;
     }
+
     .section-4 h3 {
         font-size: 21px;
         line-height: 25px;
@@ -2659,6 +2664,9 @@ textarea.form-control {
         padding: 20px 20px;
         margin-bottom: 25px;
     }
+    .blog .figure-caption{
+        margin: 0 0 55px !important;
+    }
 }
 
 @media (max-width: 375px) {
@@ -2682,6 +2690,9 @@ textarea.form-control {
     }
     .services {
         padding-bottom: 50px;
+    }
+    .blog .figure-caption{
+        margin: 0 0 55px !important;
     }
 }
 
