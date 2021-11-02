@@ -98,7 +98,7 @@
                 </div>
             </div>    
             <div class="row justify-content-md-center" data-aos="fade-up" data-aos-duration="700">
-                <div class="col-xs-12 col-md-8">
+                <div class="col-xs-12 col-md-8 box">
                     <p>I get it, your logo is indeed beautiful, I may have even designed it myself. However, design is a balancing act where elements need a certain amount of asymmetrical balance. </p>
 
                     <p>Throw that balance out of whack, and it’s  a quick way to bring to mind the feeling of those throw away ads in the Sunday paper. The more we nudge the logo ever larger, the more slippery the design slope so to speak. </p>

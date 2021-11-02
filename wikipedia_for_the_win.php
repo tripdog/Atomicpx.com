@@ -99,7 +99,7 @@
                 </div>
             </div>    
             <div class="row row justify-content-md-center" data-aos="fade-up" data-aos-duration="700">
-                <div class="col-xs-12 col-md-8">
+                <div class="col-xs-12 col-md-8 box">
                     <p>I love wikipedia and usually I’m looking up who was the drummer for Velvet Underground in ‘71, or how many episodes of Handmaid’s Tale were made for season three.</p>
                     <p>But most people don’t know that there are some great benefits to registering your business or charity with Wikipedia. Not the least of which is a bump in SEO or search engine rankings on Google. It is a little known fact that Wikipedia is one of the best third-party sources for <a href="https://blog.hubspot.com/marketing/blogging-for-seo" target="_blank">ranking on page one of Google.</a></p>
                     <p>Having a presence on Wikipedia also lends legitimacy to both new businesses and charities. Customers or donors will often search for an entity before donating or doing business and you can think of it as another channel for brand awareness.</p>
