@@ -65,7 +65,7 @@
                             <i class="fa fa-desktop" aria-hidden="true"></i>
                         </div>
                         <div class="col-lg-10 col-sm-12">
-                            <h3><a href="services.html">design.</a></h3>
+                            <h3><a href="services.php">design.</a></h3>
                             <p>I consider myself a designer first. With over 20 years of design experience, I can design everything from logos to magazines, to brochures and websites.</p>
                             <p><a href="services.php"><img src="images/plus.png" alt="plus"></a></p>
                         </div>

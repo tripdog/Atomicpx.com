@@ -87,7 +87,7 @@
                         <div class="col-sm-11 col-12">
                             <h3>Graphic Design</h3>
                             <p>I started my career as a graphic designer and it's still something I'm passionate about. I design magazines from cover to cover, brochures, direct-mail pieces, logos, stationery, posters and banners. I have great connections with local San Diego printers and as well as trade printers for those on a tight budget.</p>
-                            <p>A favorite part of my job is learning about new businesses or charities and the goals of each. Once I learn your story, then I get to go about the business of telling it in a compelling visual way.</p><a class="contact-link" href="contact.html">Let's talk about your story.</a>
+                            <p>A favorite part of my job is learning about new businesses or charities and the goals of each. Once I learn your story, then I get to go about the business of telling it in a compelling visual way.</p><a class="contact-link" href="contact.php">Let's talk about your story.</a>
                         </div>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                         <div class="col-sm-11 col-12">
                             <h3>Hosting & Maintenance</h3>
                             <p>I offer hosting to all of my clients. You don't have to host with Atomic, but I can offer competitive prices and I offer a 10% discounted rate for maintenance on sites that are hosted with Atomic. The base plan is $20 per month and it includes: 20 GB Web Space •100,000 Visits Monthly •Unmetered Traffic •Free SSL Cert •Daily Backup, •Free CDN •Free Email, •Enhanced Security, •Ecommerce Enabled, •Managed WordPress, •Out-of-the-box Caching, •Unlimited Databases, *100% renewable energy match and on demand backups.</p>
-                            <p>I purchase hosting in bulk from a top level provider so it's dependable and cost effective for small businesses. If you have a need for a more custom package, I can provide that as well.</p><a class="contact-link" href="contact.html">Host your site with Atomic</a>
+                            <p>I purchase hosting in bulk from a top level provider so it's dependable and cost effective for small businesses. If you have a need for a more custom package, I can provide that as well.</p><a class="contact-link" href="contact.php">Host your site with Atomic</a>
                         </div>
                     </div>
                 </div>
