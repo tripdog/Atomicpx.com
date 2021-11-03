@@ -1228,6 +1228,7 @@ textarea.form-control {
 }
 
 .blog .box-2 img,
+.blog .box-5 img,
 .blog .box-6 img,
 .blog .box-4 img {
     width: 100%;
@@ -1235,12 +1236,13 @@ textarea.form-control {
     object-fit: cover;
     padding-left: 30px;
 }
-/* 
-.blog .box-2 figure,
+
+/* .blog .box-2 figure,
 .blog .box-4 figure,
-.blog .box-6 figure {
-    margin: 0 0 55px;
-} */
+.blog .box-6 figure,
+ {
+    margin-bottom: 55px;
+}  */
 
 .blog h4 {
     font-size: 24px;
@@ -2079,7 +2081,7 @@ textarea.form-control {
     }
     .blog .box-2 figure,
     .blog .box-4 figure {
-        margin: 0 0 20px;
+        margin: 20px 0 20px !important;
     }
     .blog {
         padding-top: 50px;
@@ -2478,7 +2480,7 @@ textarea.form-control {
     }
     .section-5 .btn-success,
     .section-4 .heading .btn-success {
-        margin-bottom: 20px;
+        margin-bottom: 20px !important;
     }
     .section-3 ul > li {
         font-size: 16px;
@@ -2500,6 +2502,7 @@ textarea.form-control {
     }
     .blog .box-2 img,
     .blog .box-4 img,
+    .blog .box-5 img,
     .blog .box-6 img {
         height: 200px;
         width: 100%;
@@ -2519,9 +2522,11 @@ textarea.form-control {
         padding-bottom: 30px;
     }
     .blog .box-1 figure,
-    .blog .box-4 figure {
-        margin: 0 0 30px;
+    .blog .box-4 figure, 
+    .blog .box-5 figure{
+        margin: 30 0 30px;
     }
+
     .blog .box-1 h2 {
         font-size: 18px;
         padding-bottom: 0;
@@ -2674,7 +2679,7 @@ textarea.form-control {
         margin-bottom: 25px;
     }
     .blog .figure-caption{
-        margin: 0 0 55px !important;
+        margin-bottom: 55px;
     }
 }
 

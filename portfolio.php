@@ -88,28 +88,28 @@
        
         <div class="container-fluid">
             <div class="row" data-aos="fade-up" data-aos-delay="300">
-                <a href="https://rockaraoke.com" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="example-gallery" data-width="1200" data-height="900" class="col-sm-3 box">
+                <a href="https://rockaraoke.com" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="gallery" data-width="1200" data-height="900" class="col-sm-3 box">
                   <img src="images/portfolio-2.jpg" class="img-fluid" alt="What does this do?">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Website Design + Dev <span>Rockaraoke.com</span></h4></div>
                   </div>
                 </a>
-                <a href="images/ucsdHS-spread.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box" data-title="Amy Winehouse Tribute Logo">
+                <a href="images/ucsdHS-spread.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/UCSDHS.jpg" class="img-fluid" alt="What does this do?">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Publication Design <span>UCSD Health Sciences</span></h4></div>
                   </div>
                 </a>
-                <a href="https://amikas.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="example-gallery" data-width="1200" data-height="900" class="col-sm-3 box">
+                <a href="https://amikas.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="gallery" data-width="1200" data-height="900" class="col-sm-3 box">
                   <img src="images/portfolio-4.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Website Design + Dev<span>Amikas.org</span></h4></div>
                   </div>
                 </a>
-                <a href="https://palbarling.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="example-gallery" data-width="1300" data-height="900" class="col-sm-3 box">
+                <a href="https://palbarling.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="gallery" data-width="1300" data-height="900" class="col-sm-3 box">
                   <img src="images/palBar1.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
@@ -119,28 +119,28 @@
             </div>
             <!--/row-->
             <div class="row" data-aos="fade-up" data-aos-delay="300">
-                <a href="images/DraculaInvitation.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box"">
+                <a href="images/DraculaInvitation.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"">
                   <img src="images/DracCover.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Dracula The Musical Invitation<span>La Jolla Playhouse</span></h4></div>
                   </div>
                 </a>
-                <a href="images/climbSmart.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
+                <a href="images/climbSmart.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/portfolio-5.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Poster Design-Climb Smart<span>Adventure 16</span></h4></div>
                   </div>
                 </a>
-                <a href="images/fridaCover.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
+                <a href="images/fridaCover.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/frida1.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Frida Kahlo Invitation<span>MCASD Exhibition</span></h4></div>
                   </div>
                 </a>
-                <a href="images/songCat2.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
+                <a href="images/songCat2.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/songCat1.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
@@ -150,28 +150,28 @@
             </div>
             <!--/row-->
             <div class="row" data-aos="fade-up" data-aos-delay="300">
-                <a href="images/buddhaForYou2.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
+                <a href="images/buddhaForYou2.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/buddhaForYou1.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Instagram Ad <span>Buddha For You</span></h4></div>
                   </div>
                 </a>
-                <a href="images/backtoblack2.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
+                <a href="images/backtoblack2.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/backtoblack1.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Logo Design <span>Amy Winehouse Tribute</span></h4></div>
                   </div>
                 </a>
-                <a href="images/girlscoutsSpread.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
+                <a href="images/girlscoutsSpread.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/girlScouts1.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Annual Report Design <span>San Diego/Imperial Girl Scouts</span></h4></div>
                   </div>
                 </a>
-                <a href="images/masons50thinside.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
+                <a href="images/masons50thinside.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/masonsInviteCover.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">

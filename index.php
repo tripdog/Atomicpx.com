@@ -129,11 +129,12 @@
                 <div class="col-lg-7 col-sm-8">
                     <h3>View my portfolio <span>samples of my best work.</span></h3>
                 </div>
-                <div class="col-lg-5 col-sm-4">
+                <div class="col-lg-5 col-sm-4 space">
                     <a href="portfolio.php" class="btn btn-success">Full portfolio</a>
                 </div>
             </div>
         </div>
+        <br />
         <div class="container-fluid">
             <div class="row"  data-aos="fade-up" data-aos-delay="300">
                 <a href="https://rockaraoke.com" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="example-gallery" data-width="1200" data-height="1400" class="col-sm-3 box">
@@ -170,7 +171,7 @@
         <!--container-->
     </section>
 
-    <section class="section-4">
+    <section class="section-4 space">
         <div class="container">
             <div class="row heading">
                 <div class="col-sm-6 col-12">
@@ -180,29 +181,33 @@
                     <a href="blog.php" class="btn btn-success">Read the blog</a>
                 </div>
             </div>
+            <br />
             <!--/row-->
             <div class="row">
                 <div class="col-lg-4 col-sm-12 col-12 box-1"  data-aos="fade-right" data-aos-delay="300">
                     <figure class="figure">
-                        <a href="wikipedia_for_the_win.php"><img src="images/blog-1.jpg" class="figure-img img-fluid" alt="Wikipedia"></a>
+                        <a href="wikipedia_for_the_win.php"><img src="images/blog-1.jpg" class="figure-img img-fluid" alt="blog"></a>
                         <figcaption class="figure-caption">
                             <h2><a href="wikipedia_for_the_win.php">How Wikipedia can help legitimize your charity.</a></h2>
-                            <p>It can be difficult to gain legitimacy when starting a new charitable venture. But with the help of Wikipedia you can help build your brand's story.</p>
+                            <p>It can be difficult to gain legitimacy when starting a new charitable venture. But with the help of Wikipedia, you can help build your brand's story.</p>
                             <a href="wikipedia_for_the_win.php" class="btn btn-success">+ more</a>
                         </figcaption>
                     </figure>
                 </div>
-                <div class="col-lg-8 col-sm-12 col-12" data-aos="fade-left" data-aos-delay="300">
-                    <div class="row" >
+                <div class="col-lg-8 col-sm-12 col-12"  data-aos="fade-left" data-aos-delay="300">
+                    <div class="row">
                         <div class="col-sm-6 col-12 box-2">
                             <figure class="figure">
                                 <a href="do_you_need_a_cms.php"><img src="images/blog-2.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-3">
-                            <h4><a href="do_you_need_a_cms.php">Do you really <em>need</em> a CMS?</a></h4>
-                            <h5>The answer isn't always yes. WordPress and other CMS platforms have a great many benefits, but they have some disadvantages as well.</h5>
-                            <a href="do_you_need_a_cms.php" class="btn btn-success">+ more</a>
+                            <figcaption class="figure-caption">
+                                <h4><a href="do_you_need_a_cms.php">Do you really <em>need</em> a CMS?</a></h4>
+                                <p>The answer isn't always yes. WordPress and other CMS platforms have a great many benefits, but they have some disadvantages as well.</p>
+                                <a href="do_you_need_a_cms.php" class="btn btn-success btn-more">+ more</a>
+                            </figcaption>
+                            <br />
                         </div>
                     </div>
                     <div class="row">
@@ -212,9 +217,12 @@
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-5">
-                            <h4><a href="make_my_logo_bigger.php">Make your logo bigger?</a></h4>
-                            <h5>In the design game, a bigger logo isn't always better. Most often a modest, sophisticated approach is the way to go. </h5>
-                            <a href="make_my_logo_bigger.php" class="btn btn-success">+ more</a>
+                            <figcaption id="space" class="figure-caption">
+                                <h4><a href="make_my_logo_bigger.php">Make your logo bigger?</a></h4>
+                                <p>In the design game, a bigger logo isn't always better. Most often a modest, sophisticated approach is the way to go. </p>
+                                <a href="make_my_logo_bigger.php" class="btn btn-success btn-more">+ more</a>
+                            </figcaption>
+                            <br />
                         </div>
                     </div>
                     <div class="row">
@@ -224,9 +232,11 @@
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-7">
-                            <h4><a href="blog.php">Is print dying?</a></h4>
-                            <h5>Sometimes it may seem that way, but it's hard to compete digitally with the tactile quality of paper. Print has it's place and it's here to stay.</h5>
-                            <a href="blog_single.php" class="btn btn-success">+ more</a>
+                            <figcaption class="figure-caption">
+                                <h4><a href="future_of_pring.php">Is print dying?</a></h4>
+                                <p>Sometimes it may seem that way, but it's hard to compete digitally with the tactile quality of paper. Print has it's place and it's here to stay.</p>
+                                <a href="future_of_pring.php" class="btn btn-success btn-more">+ more</a>
+                            </figcaption>
                         </div>
                     </div>
                 </div>

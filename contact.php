@@ -86,7 +86,7 @@
       <div class="row" data-aos="fade-up" data-aos-delay="300">
           <div class="col-md-12">
             <!-- Contact Form -->
-            <form action="php/contact-process.php" id="contact-form" method="post">
+            <form action="form-submit.php" id="contact-form" method="POST">
 
             <input type="text" class="form-control form-control-custom" tabindex="-1"
                 id="text-field" name="text-field">
@@ -95,7 +95,7 @@
             <div class="form-group" id="name-field">
             <label for="form-name" class="sr-only">Name</label>
             <input type="text" class="form-control form-control-dark"
-                    id="form-name" name="form-name" placeholder="Name">
+                    id="form-name" name="name" placeholder="Name">
             </div>
             <!-- /End Input Name -->
 
@@ -103,14 +103,14 @@
             <div class="form-group" id="email-field">
             <label for="form-email" class="sr-only">Email</label>
             <input type="email" class="form-control form-control-dark"
-                    id="form-email" name="form-email" placeholder="Email">
+                    id="form-email" name="email" placeholder="Email">
             </div>
             <!-- /End Input Email -->
 
             <!-- Input Message -->
             <div class="form-group" id="message-field">
             <label for="form-message" class="sr-only">Message</label>
-            <textarea class="form-control form-control-dark" rows="1" id="form-message" name="form-message" placeholder="Message"></textarea>
+            <textarea class="form-control form-control-dark" rows="1" id="form-message" name="message" placeholder="Message"></textarea>
             </div>
 
             <!-- /End Input Message -->

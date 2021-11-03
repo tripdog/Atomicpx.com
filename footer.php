@@ -46,6 +46,9 @@
                             <li>
                                 <a href="consult.php">Book a consultation</a>
                             </li>
+                            <li>
+                                <a href="blog.php">Blog</a>
+                            </li>
                         </ul>
 
                     </div>
@@ -67,7 +70,7 @@
                                 <a href="https://square.link/u/o2zbMuO5">Purchase Hosting</a>
                             </li>
                             <li>
-                                <a href="#!">Make a Payment</a>
+                                <a href="https://me.and.co/A7e31MbL">Make a Payment</a>
                             </li>
                         </ul>
 
@@ -84,10 +87,13 @@
 
                         <ul class="list-unstyled">
                             <li>
-                                <a href="#!">Terms & Conditions </a>
+                                <a href="#!">Terms & Conditions</a>
                             </li>
                             <li>
                                 <a href="#!">Privacy policy</a>
+                            </li>
+                            <li>
+                                <a href="tel:619-964-6678">Call: 619-964-6678</a>
                             </li>
                         </ul>
 

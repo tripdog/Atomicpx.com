@@ -113,11 +113,12 @@
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-5">
-                            <figcaption class="figure-caption">
+                            <figcaption id="space" class="figure-caption">
                                 <h4><a href="make_my_logo_bigger.php">Make your logo bigger?</a></h4>
                                 <p>In the design game, a bigger logo isn't always better. Most often a modest, sophisticated approach is the way to go. </p>
                                 <a href="make_my_logo_bigger.php" class="btn btn-success btn-more">+ more</a>
                             </figcaption>
+                            <br />
                         </div>
                     </div>
                     <div class="row">
