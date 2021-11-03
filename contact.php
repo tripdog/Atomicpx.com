@@ -118,7 +118,7 @@
             <!-- Submit Button -->
             <div class="btn-row">
             <div class="form-group">
-                <button type="submit" class="btn btn-dark" role="button">
+                <button type="submit" class="btn btn-primary" role="button">
                 Send Message
                 </button>
             </div>

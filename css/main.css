@@ -166,8 +166,8 @@ header .fa {
 
 .fa-linkedin {color: #4867aa;}
 .fa-twitter {color: #1da1f2;}
-.fa-pinterest {color: #bd081b;}
-.fa-youtube {color: #f00;}
+.fa-github {color: #333232;}
+
 
 .sticky-top {
     transition: all 0.25s ease-in;
@@ -890,6 +890,11 @@ header .fa {
     text-transform: uppercase;
 }
 
+#contact .btn-primary {
+    background-color: #7e57c6;
+    border-color: #7e57c6;
+}
+
 #contact .btn-primary:hover {
     background-color: #fc7e2f;
     border-color: #fc7e2f;
@@ -1596,53 +1601,6 @@ textarea.form-control {
     border-top-color: #00abdc;
 }
 
-.mbm_social .social-facebook {
-    background: #325c94;
-    border-radius: 5px;
-    background: -webkit-linear-gradient(#4562a0, #385693);
-    background: linear-gradient(#4562a0, #385693);
-    border-bottom: 1px solid #2f487c;
-}
-
-.mbm_social .social-facebook:hover {
-    color: #fff;
-    text-shadow: 0px 1px 0px #2f487c;
-}
-
-.mbm_social .social-facebook span {
-    background: #3b5a9b;
-    background: -webkit-linear-gradient(#5873aa, #3b5a9b);
-    background: linear-gradient(#5873aa, #3b5a9b);
-    color: #fff;
-}
-
-.mbm_social .social-facebook span:after {
-    border-top-color: #325c94;
-}
-
-.mbm_social .social-google-plus {
-    background: #cb2027;
-    background: -webkit-linear-gradient(#cb2027, #cb2027);
-    background: linear-gradient(#cb2027, #cb2027);
-    border-bottom: 1px solid #cb2027;
-}
-
-.mbm_social .social-google-plus:hover {
-    color: #fff;
-    text-shadow: 0px 1px 0px #ea4335;
-}
-
-.mbm_social .social-google-plus span {
-    background: #cb2027;
-    background: -webkit-linear-gradient(#cb2027, #cb2027);
-    background: linear-gradient(#cb2027, #cb2027);
-    color: #fff;
-}
-
-.mbm_social .social-google-plus span:after {
-    border-top-color: #cb2027;
-}
-
 .mbm_social i {
     position: relative;
     top: 1px;
@@ -1703,10 +1661,7 @@ textarea.form-control {
     padding: 8px 20px;
     border-radius: 6px;
     border: none;
-    background: -moz-linear-gradient(-45deg, rgba(252, 126, 47, 0.8) 0%, rgba(51, 209, 210, 0.8) 100%);
-    background: -webkit-linear-gradient(-45deg, rgba(252, 126, 47, 0.8) 0%, rgba(51, 209, 210, 0.8) 100%);
-    background: linear-gradient(135deg, rgba(252, 126, 47, 0.8) 0%, rgba(51, 209, 210, 0.8) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc9dc433', endColorstr='#cc33d1d2', GradientType=1);
+    background: rgba(252, 126, 47, 0.8);
 }
 
 .section4 .card-deck .card {
