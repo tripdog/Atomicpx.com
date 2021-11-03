@@ -25,7 +25,7 @@
     <meta name="msapplication-TileColor" content="#603cba">
     <meta name="theme-color" content="#ffffff">
 
-    <title>Contact</title>
+    <title>Thank You!</title>
 
     <meta name="description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
@@ -64,8 +64,8 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">Let's get in touch!</h1>
-                <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">I'm looking forward to hearing from you.</h2>
+                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">Thanks!</h1>
+                <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">Your message has been successfully sent.</h2>
             </div>
             <!--container-fluid end-->
         </div>
@@ -74,60 +74,18 @@
 <!-- Contact section Start -->
 <div id="contact">
   <div class="container">
-  <h3>Contact Me</h3>
-  <div class="row" data-aos="fade-up" data-aos-delay="300">
-      <div class="col-md-12 text-left">
-          <p>Drop me a line!  If you prefer to chat via Phone, Skype, Whatsapp or Zoom head over to the <a href="consultation.php"><strong>consultation</strong></a> page and book some face time with me. I'm always happy to hear from you. You can also contact me via Twitter, LinkedIn or GitHub.</p>
-          <p>Some folks prefer to talk on the phone, <a href="tel:619-964-6678"><strong>619-964-6678</strong></a>. I'm up for that as well.</p>
+  <div class="row justify-content-md-center" data-aos="fade-up" data-aos-delay="300">
+      <div class="col-xs-12 col-md-8 box">
+      <h3>Thanks, your message has been delivered.</h3>
       </div>
   </div>
     </div>
      <div class="container py-5">
-      <div class="row" data-aos="fade-up" data-aos-delay="300">
-          <div class="col-md-12">
-            <!-- Contact Form -->
-            <form action="form-submit.php" id="contact-form" method="POST">
-
-            <input type="text" class="form-control form-control-custom" tabindex="-1"
-                id="text-field" name="text-field">
-
-            <!-- Input Name -->
-            <div class="form-group" id="name-field">
-            <label for="form-name" class="sr-only">Name</label>
-            <input type="text" class="form-control form-control-dark"
-                    id="form-name" name="name" placeholder="Name">
-            </div>
-            <!-- /End Input Name -->
-
-            <!-- Input Email -->
-            <div class="form-group" id="email-field">
-            <label for="form-email" class="sr-only">Email</label>
-            <input type="email" class="form-control form-control-dark"
-                    id="form-email" name="email" placeholder="Email">
-            </div>
-            <!-- /End Input Email -->
-
-            <!-- Input Message -->
-            <div class="form-group" id="message-field">
-            <label for="form-message" class="sr-only">Message</label>
-            <textarea class="form-control form-control-dark" rows="1" id="form-message" name="message" placeholder="Message"></textarea>
-            </div>
-
-            <!-- /End Input Message -->
-
-            <!-- Submit Button -->
-            <div class="btn-row">
-            <div class="form-group">
-                <button type="submit" class="btn btn-dark" role="button">
-                Send Message
-                </button>
-            </div>
-            </div>
-            <!-- /End Submit Button -->
-
-            </form>
-            <!-- /End Contact Form -->
-
+      <div class="row justify-content-md-center" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-xs-12 col-md-8 box">
+            <img class="img-fluid" src="images/success.png" alt="Message Successfully Sent">
+            <p>I will contact you ASAP with my response to your inquiry.</p>
+            <p>If you'd like a faster response call <a href="tel:619-964-6678"><strong>619-964-6678</strong></a>.</p>
           </div>
       </div>
      </div>

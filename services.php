@@ -99,7 +99,7 @@
                         <div class="col-sm-11 col-12">
                             <h3><a href="blog.html">Web Development</a></h3>
                             <p>Web devleopment is often about problem solving and learning new technologies. I excell at crafting websites because every project brings its own challenges and I enjoy figuring out how to put the pieces together. I specialize in sites that are grounded in solid design principals and communicate your service, product or charity in a way that makes sense to consumers.</p>
-                            <p>I am well versed in best practices for SEO and user interface design and I can create/configure <strong>Google Analytics</strong> and <strong>Google Tag Manager</strong> accounts for you so that you can track user behavior in your app or website to make it even more effective. I can build with <strong>WordPress</strong> or site comprised of <strong>JavaScript, PHP, HTML and CSS.</strong></p>
+                            <p>I am well versed in best practices for SEO and user interface design and I can create/configure <strong>Google Analytics</strong> and <strong>Google Tag Manager</strong> accounts for you so that you can track user behavior in your app or website to make it even more effective. I can build with <strong>WordPress</strong> or a site comprised of <strong>JavaScript, PHP, HTML and CSS.</strong></p>
                         </div>
                     </div>
                 </div>
