@@ -61,7 +61,7 @@
                 <h1 class="shadows" data-aos="fade-up" data-aos-delay="100">Welcome to atomic</h1>
                 <h2 class="shadows data-aos="fade-up" data-aos-delay="300">Where design and technology intersect.</h2>
                
-                <p data-aos="fade-up" data-aos-delay="500"><a href="about.html" class="btn btn-success">Let's Go</a></p>
+                <p data-aos="fade-up" data-aos-delay="500"><a href="about.php" class="btn btn-success">Let's Go</a></p>
             </div>
             <!--container-fluid end-->
         </div>
