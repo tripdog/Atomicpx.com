@@ -75,7 +75,7 @@
             <div class="gradient"></div>
             <div class="container-fluid content">
                 <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">Let's get in touch!</h1>
-                <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">I'm looking forward to hearing from you.</h2>
+                <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">A proposal is the next step.</h2>
             </div>
             <!--container-fluid end-->
         </div>
@@ -84,11 +84,11 @@
 <!-- Contact section Start -->
 <div id="contact">
   <div class="container">
-  <h3>Contact Me</h3>
+  <h3>Let's get a proposal started for you.</h3>
   <div class="row" data-aos="fade-up" data-aos-delay="300">
       <div class="col-md-12 text-left">
-          <p>Drop me a line!  If you prefer to chat via Phone, Skype, Whatsapp or Zoom head over to the <a href="consultation.php"><strong>consultation</strong></a> page and book some face time with me. I'm always happy to hear from you. You can also contact me via Twitter, LinkedIn or GitHub.</p>
-          <p>Some folks prefer to talk on the phone, <a href="tel:619-964-6678"><strong>619-964-6678</strong></a>. I'm up for that as well.</p>
+          <p>The first step is learning about your business and goals. If you prefer to chat via Phone, Skype, Whatsapp or Zoom head over to the <a href="consultation.php"><strong>consultation</strong></a> page and book some face time with me. I'm always happy to hear from you. You can also contact me via Twitter, LinkedIn or GitHub.</p>
+          <p>Some folks prefer to talk on the phone, <a href="tel:1-619-964-6678"><strong>619-964-6678</strong></a>. I'm up for that as well.</p>
       </div>
   </div>
     </div>
