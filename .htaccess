@@ -16,7 +16,7 @@ RewriteEngine On
 RewriteCond %{HTTP_HOST} ^atomicpx.com [NC]
 RewriteRule ^(.*)$ http://www.atomicpx.com/$1 [L,R=301]
 
-## Remove php extension from url
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L] 
