@@ -132,7 +132,7 @@
                         </div>
                         <div class="col-sm-11 col-12">
                             <h3>What I don't do.</h3>
-                            <p>Everyone has thier strong suit, and writing copy isn't mine. When it comes to developing the content for your website, you or your staff are the best candidates for that position. If you need the services of a talented writer and can budget that into your project, I collaborate with colleagues in that space and I'm able to make a referral for you. Most clients opt to write their own content however.</p>
+                            <p>Everyone has their strong suit, and writing copy isn't mine. When it comes to developing the content for your website, you or your staff are the best candidates for that position. If you need the services of a talented writer and can budget that into your project, I collaborate with colleagues in that space and I'm able to make a referral for you. Most clients opt to write their own content however.</p>
 
                             <p>I can provide you with a clear and understandable site map that will help you begin to develop the content of your website. I will provide guidance about how to weave in targeted keywords to your headlines and body content so that your content is of high quality in terms of SEO rankings.</p>
                         </div>
