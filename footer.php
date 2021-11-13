@@ -14,7 +14,7 @@
 
                         <!-- Content -->
                         <a href="index.html"><img src="images/footer-logo.png" alt="footer-logo"></a>
-                        <p>I aim to bring creativity, technology and design to support the growth of small businesses. I have a soft-spot for charities and regularly provided discounted services to causes in which I believe.</p>
+                        <p>I aim to bring creativity, technology and design to support the growth of small businesses. I have a soft-spot for non-profit organizations and causes in which I believe.</p>
 
                     </div>
                     <!-- Grid column -->
