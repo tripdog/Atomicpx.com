@@ -688,7 +688,6 @@ header .fa {
       Section-6 Deleted
 ==============================*/
 
-
 /*==============================
       //footer Styles //
 ==============================*/
@@ -1480,6 +1479,34 @@ textarea.form-control {
 #blog_single .heading h2 {
     font-size: 33px;
 }
+
+/*==============================
+      Privacy_policy
+==============================*/
+#privacy_policy {
+    padding-top: 0;
+    padding-bottom: 200px;
+    text-align: left;
+    border-bottom: 1px solid #b2b2b2;
+}
+
+#privacy_policy h3 {
+    color: #737373;
+    font-size: 33px;
+    padding-bottom: 15px;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+.privacy-bullets{
+    list-style-type: disc;
+    margin-bottom: 8px;
+}
+
+.privacy-last{
+    margin-bottom: 40px;
+}
+
 
 /*-- social buttons --*/
 

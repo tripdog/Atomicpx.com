@@ -14,7 +14,7 @@
 
                         <!-- Content -->
                         <a href="index.html"><img src="images/footer-logo.png" alt="footer-logo"></a>
-                        <p>I aim to bring creativity, technology and design to support the growth of small businesses. I have a soft-spot for non-profit organizations and causes in which I believe.</p>
+                        <p>I aim to bring creativity, technology and design to support the growth of small businesses. I have a soft spot for non-profit organizations and causes in which I believe.</p>
 
                     </div>
                     <!-- Grid column -->
@@ -87,10 +87,7 @@
 
                         <ul class="list-unstyled">
                             <li>
-                                <a href="#!">Terms & Conditions</a>
-                            </li>
-                            <li>
-                                <a href="#!">Privacy policy</a>
+                                <a href="privacy.php">Privacy policy</a>
                             </li>
                             <li>
                                 <a href="tel:619-964-6678">Call: 619-964-6678</a>
