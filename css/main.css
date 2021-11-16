@@ -2377,6 +2377,16 @@ textarea.form-control {
     .services h3 {
         padding-bottom: 0;
     }
+    #privacy_policy p{
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .privacy-bullets {
+        list-style-type: disc;
+        margin-bottom: 8px;
+        font-size: 16px;
+    }
 }
 
 @media(max-width:425px) {
