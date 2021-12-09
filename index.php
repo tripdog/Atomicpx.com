@@ -247,7 +247,7 @@
                             <figcaption class="figure-caption">
                                 <h4><a href="alpine.php">Alpine.js, first impressions.</a></h4>
                                 <p>There's yet another JavaScript framework in town. Some call it the Tailwind of javascript while others call it the new jQuery. I just call it awesome.</p>
-                                <a href="future_of_pring.php" class="btn btn-success btn-more">+ more</a>
+                                <a href="alpine.php" class="btn btn-success btn-more">+ more</a>
                             </figcaption>
                         </div>
                     </div>

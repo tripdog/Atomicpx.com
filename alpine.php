@@ -92,7 +92,7 @@
         <div class="container">
             <div class="row" data-aos="fade-up" data-aos-duration="700">
                 <div class="col-sm-12">
-                    <img src="images/logoBigger.jpg" alt="Wikipedia Image" class="img-thumbnail image">
+                    <img src="images/alpine.jpg" alt="Wikipedia Image" class="img-thumbnail image">
                     <div class="heading">
                         <h2>Alpine.js</h2>
                     </div>
@@ -111,11 +111,11 @@
                 <div class="col-xs-12 col-md-8 box">
                     <p>When I first read about Alpine.js, it was described as “Tailwind for JavaScript”, and I can see how that correlation can be made. You do have to add some data attributes to make use of this very lightweight JavaScript framework. But that’s where the similarities end, and if you’re a developer, you know that data attributes and classes are two different things.</p>
 
-                    <p>When you begin to read the <a href="https://alpinejs.dev/start-here">Alpine.js</a> documentation, right away developers will notice that there are quite a few data attributes being employed by this framework that look quite similar to Vue.js attributes. There’s x-bind (similar to v-bind), x-on (v-on) and others that are exactly the same such as the @click directive. Suffice it to say that if you’re at all familiar with Vue.js, you’ll feel right at home with Alpine.js. The main difference between the two though is that there is no virtual DOM being utilized, Alpine.js operates on the actual DOM of your page. Vue has a great many more features and is more appropriate for a highly interactive SPA whereas Alpine is fantastic for a static HTML site that needs a sprinkling of JavaScript throughout the site to make things look and feel more interactive.</p>
+                    <p>When you begin to read the <a href="https://alpinejs.dev/start-here" target="_blank">Alpine.js documentation</a>, right away developers will notice that there are quite a few data attributes being employed by this framework that look quite similar to Vue.js attributes. There’s x-bind (similar to v-bind), x-on (v-on) and others that are exactly the same such as the @click directive. Suffice it to say that if you’re at all familiar with Vue.js, you’ll feel right at home with Alpine.js. The main difference between the two though is that there is no virtual DOM being utilized, Alpine.js operates on the actual DOM of your page. Vue has a great many more features and is more appropriate for something like a highly interactive SPA, whereas Alpine is fantastic for a static HTML site that needs a sprinkling of JavaScript throughout the site to make things look and feel more interactive.</p>
 
-                    <p>The documentation is clear, concise and they have discussions turned on for their <a href="https://github.com/alpinejs/alpine/discussions">GitHub repository</a> which has a lot of activity. If you have some kind of issue you should be able to find the answer or simply ask and they’re quick to respond. </p>
+                    <p>The documentation is clear, concise and they have discussions turned on for their <a href="https://github.com/alpinejs/alpine/discussions" target="_blank">GitHub repository</a>, which has a lot of activity. If you have some kind of issue, you should be able to find the answer or simply ask and they’re quick to respond. </p>
 
-                    <p>At only 6.4kb you get a lot of JavaScript power for the cost in kilobytes and there’s no need to compile it. When it comes to JavaScript Frameworks there are many choices out there but this one feels like it’s hitting the mark just right.</p>
+                    <p>At only 7.1kB, you get a lot of JavaScript power for the cost in kilobytes and there’s no need to compile it. When it comes to JavaScript Frameworks there are many choices out there, but this one feels like it’s hitting the mark just right.</p>
                    <i class="fa fa-lightbulb" aria-hidden="true"></i>
                 </div>
             </div>
