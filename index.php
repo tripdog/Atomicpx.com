@@ -245,8 +245,8 @@
                         </div>
                         <div class="col-sm-6 col-12 box-7">
                             <figcaption class="figure-caption">
-                                <h4><a href="future_of_pring.php">Is print dying?</a></h4>
-                                <p>Sometimes it may seem that way, but it's hard to compete digitally with the tactile quality of paper. Print has it's place and it's here to stay.</p>
+                                <h4><a href="alpine.php">Alpine.js, first impressions.</a></h4>
+                                <p>There's yet another JavaScript framework in town. Some call it the Tailwind of javascript while others call it the new jQuery. I just call it awesome.</p>
                                 <a href="future_of_pring.php" class="btn btn-success btn-more">+ more</a>
                             </figcaption>
                         </div>
