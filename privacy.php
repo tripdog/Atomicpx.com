@@ -33,6 +33,7 @@
     <meta name="description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting." />
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
+    <link rel="canonical" href="https://atomicwebsites.com/privacy.php" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
