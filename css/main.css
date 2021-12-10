@@ -73,6 +73,16 @@ ol {
     box-shadow: none;
 }
 
+.btn-primary{
+    background-color: ;#7e57c6 !important;
+    color: #fff;
+}
+
+.btn-primary:hover{
+    color: #ffffff;
+    background-color: #fc7e2f;
+}
+
 /*======
     Nav-bar
     ======*/
