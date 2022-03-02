@@ -5,7 +5,7 @@
                     <h6>Design + Technology</h6>
                 </div>
                 <div class="col-sm-4 col-12 align-self-center box-1 text-center">
-                    <a class="navbar-brand" href="index.html"><img src="images/header-logo.png" alt="logo"></a>
+                    <a class="navbar-brand" href="index.php"><img src="images/header-logo.png" alt="logo"></a>
                 </div>
                 <div class="col-sm-4 align-self-center text-right">
                 <div class="social-icons">
