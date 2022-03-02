@@ -102,7 +102,7 @@
                         </div>
                         <div class="col-lg-10 col-sm-12">
                             <h3><a href="services.php">hosting.</a></h3>
-                            <p>I purchase hosting in bulk from premium hosting providers, which allows me to pass the savings on to your business. Plans start at $20/month plus perks to sweeten the deal.</p>
+                            <p>I purchase hosting in bulk from premium hosting providers, which allows me to pass the savings on to your business. Business plans start at $35/month plus perks to sweeten the deal.</p>
                             <p><a href="services.php"><img src="images/plus.png" alt="plus"></a></p>
                         </div>
                     </div>
