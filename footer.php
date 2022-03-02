@@ -13,7 +13,7 @@
                     <div class="col-lg-5 col-sm-12 mx-auto box-1">
 
                         <!-- Content -->
-                        <a href="index.html"><img src="images/footer-logo.png" alt="footer-logo"></a>
+                        <a href="index.php"><img src="images/footer-logo.png" alt="footer-logo"></a>
                         <p>I aim to bring creativity, technology and design to support the growth of small businesses. I have a soft spot for non-profit organizations and causes in which I believe.</p>
 
                     </div>
@@ -67,7 +67,7 @@
                                 <a href="consult.php">Book a Consultation</a>
                             </li>
                             <li>
-                                <a href="https://square.link/u/o2zbMuO5">Purchase Hosting</a>
+                                <a href="https://checkout.square.site/merchant/ML05Q7CWH15N7/checkout/OXERYVTRCHCSSC3364ZKE3K3">Purchase Hosting</a>
                             </li>
                             <li>
                                 <a href="https://me.and.co/A7e31MbL">Make a Payment</a>
