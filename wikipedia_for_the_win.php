@@ -24,26 +24,27 @@
     <meta name="msapplication-TileColor" content="#603cba">
     <meta name="theme-color" content="#ffffff">
 
-    <title>Blog</title>
-    <meta name="description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting."/>
+    <title>Wikipedia for the win!</title>
+    <meta name="description" content="Creating a Wikipedia page for your non-profit can lend credibility and pay SEO dividends."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
+    <link rel="canonical" href="https://www.atomicpx.com/wikipedia_for_the_win" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
-    <meta property="og:description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting." />
-    <meta property="og:url" content="https://atomicpx.com/" />
+    <meta property="og:description" content="Creating a Wikipedia page for your non-profit can lend credibility and pay SEO dividends." />
+    <meta property="og:url" content="https://www.atomicpx.com/wikipedia_for_the_win" />
     <meta property="og:site_name" content="Atomic" />
-    <meta property="article:publisher" content="https://www.facebook.com/amikasBridgeHousing" />
+
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
     <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
     <meta property="og:image:width" content="2560" />
     <meta property="og:image:height" content="1751" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Where design and technology intersect" />
-    <meta name="twitter:description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting" />
+    <meta name="twitter:description" content="Creating a Wikipedia page for your non-profit can lend credibility and pay SEO dividends." />
     <meta name="twitter:image" content="https://atomicpx.com/images/OG-twitter.jpg" />
     <meta name="twitter:site" content="@tripdog" />
     <meta name="twitter:label1" content="Est. reading time" />

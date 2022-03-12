@@ -14,7 +14,7 @@
 
                         <!-- Content -->
                         <a href="index.php"><img src="images/footer-logo.png" alt="footer-logo"></a>
-                        <p>I aim to bring creativity, technology and design to support the growth of small businesses. I have a soft spot for non-profit organizations and causes in which I believe.</p>
+                        <p>We to bring creativity, technology and design to support the growth of small businesses. I have a soft spot for non-profit organizations and causes in which I believe.</p>
 
                     </div>
                     <!-- Grid column -->
@@ -29,25 +29,25 @@
 
                         <ul class="list-unstyled">
                             <li>
-                                <a href="index.php">Home</a>
+                                <a href="http://www.atomicpx.com">Home</a>
                             </li>
                             <li>
-                                <a href="about.php">about</a>
+                                <a href="/about">about</a>
                             </li>
                             <li>
-                                <a href="services.php">services</a>
+                                <a href="/services">services</a>
                             </li>
                             <li>
-                                <a href="portfolio.php">portfolio</a>
+                                <a href="/portfolio">portfolio</a>
                             </li>
                             <li>
-                                <a href="contact.php">contact us</a>
+                                <a href="/contact">contact us</a>
                             </li>
                             <li>
-                                <a href="consult.php">Book a consultation</a>
+                                <a href="/consult">Book a consultation</a>
                             </li>
                             <li>
-                                <a href="blog.php">Blog</a>
+                                <a href="/blog">Blog</a>
                             </li>
                         </ul>
 

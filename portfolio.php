@@ -26,30 +26,26 @@
 
     <title>Portfolio</title>
 
-    <meta name="description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting."/>
-    <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
-    <meta name="author" content="Atomic/TomPhillips">
-    <link rel="canonical" href="https://www.atomicpx.com/portfolio" />
-
-    <meta name="description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting."/>
+    <meta name="description" content="We've worked an a huge variety of design projects, have a look at the portfolio to see the best of our web design and graphic design work."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
+    <link rel="canonical" href="https://www.atomicpx.com/portfolio" />
+
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
-    <meta property="og:description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting." />
-    <meta property="og:url" content="https://atomicpx.com/" />
+    <meta property="og:description" content="We've worked an a huge variety of projects, have a look at the portfolio to see the breadth and depth of our work." />
+    <meta property="og:url" content="https://www.atomicpx.com/portfolio" />
     <meta property="og:site_name" content="Atomic" />
-    <meta property="article:publisher" content="https://www.facebook.com/amikasBridgeHousing" />
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
     <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
     <meta property="og:image:width" content="2560" />
     <meta property="og:image:height" content="1751" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Where design and technology intersect" />
-    <meta name="twitter:description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting" />
+    <meta name="twitter:description" content="We've worked an a huge variety of projects, have a look at the portfolio to see the breadth and depth of our work." />
     <meta name="twitter:image" content="https://atomicpx.com/images/OG-twitter.jpg" />
     <meta name="twitter:site" content="@tripdog" />
     <meta name="twitter:label1" content="Est. reading time" />
@@ -79,7 +75,7 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">Check out the folio.</h1>
+                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">View our portfolio.</h1>
                 <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">I've had a diverse clientelle, which makes me a diverse designer.</h2>
             </div>
             <!--container-fluid end-->
@@ -91,36 +87,36 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-12">
-                    <h3>portfolio</h3>
+                    <h3>Samples of our best web design and print work.</h3>
                 </div>
             </div>
         </div>
        
         <div class="container-fluid">
             <div class="row" data-aos="fade-up" data-aos-delay="300">
+                <a href="https://www.losrancheroskiwanis.org" target="_blank" data-toggle="lightbox" data-type="url" data-gallery="gallery" data-width="1200" data-height="900" class="col-sm-3 box">
+                  <img src="images/folio-los-rancheros-kiwanis.jpg" class="img-fluid" alt="A website for losrancheroskiwanis.org">
+                  <div class="overlay">
+                  <img src="images/plus-img.png" alt="plus-icon">
+                  <div class="inner-text"><h4>Website Design + Dev <span>Los Rancheros Kiwanis website</span></h4></div>
+                  </div>
+                </a>
                 <a href="https://rockaraoke.com" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="gallery" data-width="1200" data-height="900" class="col-sm-3 box">
-                  <img src="images/portfolio-2.jpg" class="img-fluid" alt="What does this do?">
+                  <img src="images/portfolio-2.jpg" class="img-fluid" alt="A website for rockaraoke.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Website Design + Dev <span>Rockaraoke.com</span></h4></div>
                   </div>
                 </a>
-                <a href="images/ucsdHS-spread.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/UCSDHS.jpg" class="img-fluid" alt="What does this do?">
-                  <div class="overlay">
-                  <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Publication Design <span>UCSD Health Sciences</span></h4></div>
-                  </div>
-                </a>
                 <a href="https://amikas.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="gallery" data-width="1200" data-height="900" class="col-sm-3 box">
-                  <img src="images/portfolio-4.jpg" class="img-fluid">
+                  <img src="images/portfolio-4.jpg" class="img-fluid" alt="A website for amikas.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Website Design + Dev<span>Amikas.org</span></h4></div>
                   </div>
                 </a>
                 <a href="https://palbarling.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="gallery" data-width="1300" data-height="900" class="col-sm-3 box">
-                  <img src="images/palBar1.jpg" class="img-fluid">
+                  <img src="images/palBar1.jpg" class="img-fluid" alt="A website for palbarling.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Website Design <span>Palbarling.org</span></h4></div>
@@ -130,24 +126,24 @@
             <!--/row-->
             <div class="row" data-aos="fade-up" data-aos-delay="300">
                 <a href="images/DraculaInvitation.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"">
-                  <img src="images/DracCover.jpg" class="img-fluid">
+                  <img src="images/DracCover.jpg" class="img-fluid" alt="An invitation for Dracula at La Jolla Playhouse.">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Dracula The Musical Invitation<span>La Jolla Playhouse</span></h4></div>
                   </div>
                 </a>
                 <a href="images/climbSmart.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/portfolio-5.jpg" class="img-fluid">
+                  <img src="images/portfolio-5.jpg" class="img-fluid" alt="A poster design for A16's Climb Smart series in Joshua Tree">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Poster Design-Climb Smart<span>Adventure 16</span></h4></div>
                   </div>
                 </a>
-                <a href="images/fridaCover.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/frida1.jpg" class="img-fluid">
+                <a href="images/masons50thinside.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
+                  <img src="images/masonsInviteCover.jpg" class="img-fluid" alt="An invitation for the 50th anniversary of the building of the Masonic Temple in San Franciso">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Frida Kahlo Invitation<span>MCASD Exhibition</span></h4></div>
+                  <div class="inner-text"><h4>Invitation for 50th Anniversary the Masonic Temple<span>Invitation and Logo Design</span></h4></div>
                   </div>
                 </a>
                 <a href="images/songCat2.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
@@ -181,11 +177,11 @@
                   <div class="inner-text"><h4>Annual Report Design <span>San Diego/Imperial Girl Scouts</span></h4></div>
                   </div>
                 </a>
-                <a href="images/masons50thinside.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/masonsInviteCover.jpg" class="img-fluid">
+                <a href="images/ucsdHS-spread.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
+                  <img src="images/UCSDHS.jpg" class="img-fluid" alt="What does this do?">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Invitation / Logo Design <span>Masonic Temple San Francisco</span></h4></div>
+                  <div class="inner-text"><h4>Publication Design <span>UCSD Health Sciences</span></h4></div>
                   </div>
                 </a>
             </div>

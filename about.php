@@ -26,25 +26,26 @@
     <meta name="theme-color" content="#ffffff">
 
     <title>About</title>
-    <meta name="description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting."/>
+    <meta name="description" content="With 20 years of experience in the digital design and advertising arena, you can feel confident that atomic can deliver."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
+    <link rel="canonical" href="https://www.atomicpx.com/about" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
-    <meta property="og:description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting." />
-    <meta property="og:url" content="https://atomicpx.com/" />
+    <meta property="og:description" content="With 20 years of experience in the digital design and advertising arena, you can feel confident that atomic can deliver.." />
+    <meta property="og:url" content="https://www.atomicpx.com/about" />
     <meta property="og:site_name" content="Atomic" />
-    <meta property="article:publisher" content="https://www.facebook.com/amikasBridgeHousing" />
+   
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
     <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
     <meta property="og:image:width" content="2560" />
     <meta property="og:image:height" content="1751" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Where design and technology intersect" />
-    <meta name="twitter:description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting" />
+    <meta name="twitter:description" content="With 20 years of experience in the digital design and advertising arena, you can feel confident that atomic can deliver." />
     <meta name="twitter:image" content="https://atomicpx.com/images/OG-twitter.jpg" />
     <meta name="twitter:site" content="@tripdog" />
     <meta name="twitter:label1" content="Est. reading time" />
@@ -83,15 +84,15 @@
     <!-- About Section Start -->
     <div id="about-us">
         <div class="container">
-           <h3>Hi there, I'm Tom. Freelance designer and developer.</h3>
+           <h3>Hi there, I'm Tom. Designer and developer.</h3>
             <div class="row" style="margin-right: 0; margin-left: 0;" data-aos="fade-up" data-aos-delay="300">
                 <div>
                  <img src="images/about.jpg" alt="about-bg" class="thumbnail image">
-                  <p>I began my career with a degree in Advertising from the Advertising Arts College, La Jolla in 2000 and began working as a graphic designer for a small design firm in San Diego. <br><br>
+                  <p>I began my career here in San Diego with a degree in Advertising from the Advertising Arts College, La Jolla in 2000 and began working as a graphic designer for a small design firm in San Diego. <br><br>
                 
                   Since then I've worked as a front-end developer at Jacob Tyler, a digital marketing specialist at San Diego's largest employer, Sharp Healthcare and as a designer at my favorite mountain shop, Adventure 16. <br><br>
                   
-                  Today, I am able to benefit small businesses with the wealth of knowledge that I've accrued over these more than 20 years of experience working in marketing and advertising. <br><br>
+                  Today, I benefit small businesses with the wealth of knowledge that I've accrued over these more than 20 years of experience working in marketing and advertising. <br><br>
                   
                   In short I can design a brand identity, and translate that identity into all of the collateral and marketing pieces your business depends on to communicate effectively with your target market. From logos, to brochures, websites photos and video, I have experience working with them all. <br><br>
                   

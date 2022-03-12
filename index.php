@@ -25,11 +25,10 @@
     <meta name="msapplication-TileColor" content="#603cba">
     <meta name="theme-color" content="#ffffff">
 
+    <title>atomic - Website design for small businesses and non-profits</title>
 
-    <title>atomic</title>
-    
-    <meta name="description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting."/>
-    <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
+    <meta name="description" content="Website design for small businesses and non-profits that convert. We offer graphic design, site design, development and website hosting.">
+    <meta name="keywords" content="Web Design, Hosting, Web Development, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
     <link rel="canonical" href="https://www.atomicpx.com" />
 
@@ -37,17 +36,17 @@
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
-    <meta property="og:description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting." />
-    <meta property="og:url" content="https://atomicpx.com/" />
+    <meta property="og:description" content="Building fast, effective websites for small businesses and non-profits that convert. We offer graphic design, site design, development and web hosting." />
+    <meta property="og:url" content="https://www.atomicpx.com" />
     <meta property="og:site_name" content="Atomic" />
-    <meta property="article:publisher" content="https://www.facebook.com/amikasBridgeHousing" />
+ 
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
     <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
     <meta property="og:image:width" content="2560" />
     <meta property="og:image:height" content="1751" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Where design and technology intersect" />
-    <meta name="twitter:description" content="Atomic is known for building fast and effective websites for small businesses. We offer graphic design, site design, development and web hosting" />
+    <meta name="twitter:description" content="Building fast, effective websites for small businesses and non-profits that convert. We offer graphic design, site design, development and web hosting." />
     <meta name="twitter:image" content="https://atomicpx.com/images/OG-twitter.jpg" />
     <meta name="twitter:site" content="@tripdog" />
     <meta name="twitter:label1" content="Est. reading time" />
@@ -78,7 +77,7 @@
                         </div>
                         <div class="col-lg-10 col-sm-12">
                             <h3><a href="services.php">design.</a></h3>
-                            <p>I consider myself a designer first. With over 20 years of design experience, I can design everything from logos to magazines, to brochures and websites.</p>
+                            <p>We specialize in design for small businesses and non-profits. From website design & development to graphic design, atomic is your go-to agency for web design and traditional design projects.</p>
                             <p><a href="services.php"><img src="images/plus.png" alt="plus"></a></p>
                         </div>
                     </div>
@@ -90,7 +89,7 @@
                         </div>
                         <div class="col-lg-10 col-sm-12">
                             <h3><a href="services.php">development.</a></h3>
-                            <p>I am a self-taught developer with 10+ years developing for WordPress. Today, I specialize in JavaScript, HTML, and CSS based-sites for speed, security and flexibility.</p>
+                            <p>With over 10 years of WordPress development experience and the ability to hand-craft highly performant static websites, atomic can design, develop, maintain and manage your website.</p>
                             <p><a href="services.php"><img src="images/plus.png" alt="plus"></a></p>
                         </div>
                     </div>
@@ -102,7 +101,7 @@
                         </div>
                         <div class="col-lg-10 col-sm-12">
                             <h3><a href="services.php">hosting.</a></h3>
-                            <p>I purchase hosting in bulk from premium hosting providers, which allows me to pass the savings on to your business. Business plans start at $35/month plus perks to sweeten the deal.</p>
+                            <p>Atomic provides basic Managed WordPress hosting packages, while other businesses need higher performance Virtual Private Servers. Let us make a recommendation for you.</p>
                             <p><a href="services.php"><img src="images/plus.png" alt="plus"></a></p>
                         </div>
                     </div>
@@ -114,7 +113,7 @@
         <div class="container">
             <div class="row m-0">
                 <div class="col-lg-5 col-md-12 p-0" data-aos="fade-right" data-aos-delay="300">
-                    <h2>What I do <span>and why choose atomic?</span></h2>
+                    <h2>We provide these services.</span></h2>
                     <ul>
                         <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Web Design</a> </li>
                         <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Hosting</a></li>
@@ -139,7 +138,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-sm-8">
-                    <h3>View my portfolio <span>samples of my best work.</span></h3>
+                    <h3>View our deisgn portfolio</h3>
                 </div>
                 <div class="col-lg-5 col-sm-4 space">
                     <a href="portfolio.php" class="btn btn-success">Full portfolio</a>
@@ -149,18 +148,18 @@
         <br />
         <div class="container-fluid">
             <div class="row"  data-aos="fade-up" data-aos-delay="300">
+            <a href="https://www.losrancheroskiwanis.org" target="_blank" data-toggle="lightbox" data-type="url" data-gallery="gallery" data-width="1200" data-height="900" class="col-sm-3 box">
+                  <img src="images/folio-los-rancheros-kiwanis.jpg" class="img-fluid" alt="A website for losrancheroskiwanis.org">
+                  <div class="overlay">
+                  <img src="images/plus-img.png" alt="plus-icon">
+                  <div class="inner-text"><h4>Website Design + Dev <span>Los Rancheros Kiwanis website</span></h4></div>
+                  </div>
+                </a>
                 <a href="https://rockaraoke.com" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="example-gallery" data-width="1200" data-height="1400" class="col-sm-3 box">
                   <img src="images/portfolio-2.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Website Design + App Development <span>Rockaraoke.com</span></h4></div>
-                  </div>
-                </a>
-                <a href="images/ucsdHS-spread.jpg" data-toggle="lightbox" data-gallery="atomic-gallery" class="col-sm-3 box">
-                  <img src="images/UCSDHS.jpg" class="img-fluid">
-                  <div class="overlay">
-                  <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Publication Design<span>UCSD Health Sciences</span></h4></div>
                   </div>
                 </a>
                 <a href="https://amikas.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="atomic-gallery" data-width="1200" data-height="1400" class="col-sm-3 box">

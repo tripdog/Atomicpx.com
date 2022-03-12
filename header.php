@@ -28,25 +28,25 @@
             <div class="collapse navbar-collapse" id="navbar1">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" href="index.php">Home</a>
+                        <a class="nav-link active" href="http://www.atomicpx.com">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.php">About Me</a>
+                        <a class="nav-link" href="/about">About Me</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="portfolio.php">Portfolio</a>
+                        <a class="nav-link" href="/portfolio">Portfolio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="services.php">Services</a>
+                        <a class="nav-link" href="/services">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.php">Contact</a>
+                        <a class="nav-link" href="/contact">Contact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="consult.php">Consultation</a>
+                        <a class="nav-link" href="/consult">Consultation</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="blog.php">blog</a>
+                        <a class="nav-link" href="/blog">blog</a>
                     </li> 
                 </ul>
             </div>
@@ -59,7 +59,7 @@
             <div class="gradient"></div>
             <div class="container-fluid content">
                 <h1 class="shadows" data-aos="fade-up" data-aos-delay="100">Welcome to atomic</h1>
-                <h2 class="shadows" data-aos="fade-up" data-aos-delay="300">Where design and technology intersect.</h2>
+                <h2 class="shadows" data-aos="fade-up" data-aos-delay="300">A web design firm where design and technology intersect.</h2>
                
                 <p data-aos="fade-up" data-aos-delay="500"><a href="about.php" class="btn btn-success">Let's Go</a></p>
             </div>
