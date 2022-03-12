@@ -35,7 +35,7 @@
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
-    <meta property="og:description" content="With 20 years of experience in the digital design and advertising arena, you can feel confident that atomic can deliver.." />
+    <meta property="og:description" content="With 20 years of experience in the digital design and advertising arena, you can feel confident that atomic can deliver." />
     <meta property="og:url" content="https://www.atomicpx.com/about" />
     <meta property="og:site_name" content="Atomic" />
    
@@ -74,7 +74,7 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">About me.</h1>
+                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">Experienced Creative Pro.</h1>
                 <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">Freelancer, designer, developer.</h2>
             </div>
             <!--container-fluid end-->
@@ -84,7 +84,7 @@
     <!-- About Section Start -->
     <div id="about-us">
         <div class="container">
-           <h3>Hi there, I'm Tom. Designer and developer.</h3>
+           <h3>With 20 years of experience in the digital design and advertising arena, you can feel confident that atomic can deliver.</h3>
             <div class="row" style="margin-right: 0; margin-left: 0;" data-aos="fade-up" data-aos-delay="300">
                 <div>
                  <img src="images/about.jpg" alt="about-bg" class="thumbnail image">

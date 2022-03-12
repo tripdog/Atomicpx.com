@@ -36,7 +36,7 @@
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
-    <meta property="og:description" content="We've worked an a huge variety of projects, have a look at the portfolio to see the breadth and depth of our work." />
+    <meta property="og:description" content="We've worked an a huge variety of design projects, have a look at the portfolio to see the best of our web design and graphic design work." />
     <meta property="og:url" content="https://www.atomicpx.com/portfolio" />
     <meta property="og:site_name" content="Atomic" />
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
@@ -45,7 +45,7 @@
     <meta property="og:image:height" content="1751" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Where design and technology intersect" />
-    <meta name="twitter:description" content="We've worked an a huge variety of projects, have a look at the portfolio to see the breadth and depth of our work." />
+    <meta name="twitter:description" content="We've worked an a huge variety of design projects, have a look at the portfolio to see the best of our web design and graphic design work." />
     <meta name="twitter:image" content="https://atomicpx.com/images/OG-twitter.jpg" />
     <meta name="twitter:site" content="@tripdog" />
     <meta name="twitter:label1" content="Est. reading time" />
@@ -75,7 +75,7 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">View our portfolio.</h1>
+                <h1 class="shadows" data-aos="fade-right" data-aos-delay="300">View my portfolio.</h1>
                 <h2 class="shadows" data-aos="fade-left" data-aos-delay="300">I've had a diverse clientelle, which makes me a diverse designer.</h2>
             </div>
             <!--container-fluid end-->
@@ -86,8 +86,9 @@
     <section class="portfolio">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12 col-12">
-                    <h3>Samples of our best web design and print work.</h3>
+                <div class="col-md-8 offset-md-2">
+                    <h3>Samples of my best web design and print work.</h3>
+                    <p style="margin-bottom: 4rem;">I've worked an a large variety of design projects, have a look at the portfolio to see the best of my web design and graphic design work.</p>
                 </div>
             </div>
         </div>
@@ -98,28 +99,28 @@
                   <img src="images/folio-los-rancheros-kiwanis.jpg" class="img-fluid" alt="A website for losrancheroskiwanis.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Website Design + Dev <span>Los Rancheros Kiwanis website</span></h4></div>
+                  <div class="inner-text"><h4>Website Design + Development <span>losrancheroskiwanis.org</span></h4></div>
                   </div>
                 </a>
                 <a href="https://rockaraoke.com" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="gallery" data-width="1200" data-height="900" class="col-sm-3 box">
                   <img src="images/portfolio-2.jpg" class="img-fluid" alt="A website for rockaraoke.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Website Design + Dev <span>Rockaraoke.com</span></h4></div>
+                  <div class="inner-text"><h4>Website Design + Development <span>Rockaraoke.com</span></h4></div>
                   </div>
                 </a>
                 <a href="https://amikas.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="gallery" data-width="1200" data-height="900" class="col-sm-3 box">
                   <img src="images/portfolio-4.jpg" class="img-fluid" alt="A website for amikas.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Website Design + Dev<span>Amikas.org</span></h4></div>
+                  <div class="inner-text"><h4>WordPress theme customization<span>Amikas.org</span></h4></div>
                   </div>
                 </a>
                 <a href="https://palbarling.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="gallery" data-width="1300" data-height="900" class="col-sm-3 box">
                   <img src="images/palBar1.jpg" class="img-fluid" alt="A website for palbarling.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Website Design <span>Palbarling.org</span></h4></div>
+                  <div class="inner-text"><h4>Website Design + Development <span>Palbarling.org</span></h4></div>
                   </div>
                 </a>
             </div>
