@@ -84,9 +84,9 @@
 <!-- Contact section Start -->
 <div id="contact">
   <div class="container">
-  <h3>Book a consultation</h3>
   <div class="row" data-aos="fade-up" data-aos-delay="300">
-      <div class="col-md-12 text-left">
+      <div class="col-md-8 offset-md-2">
+      <h3>Book a consultation</h3>
           <p>Let's chat about your next project. Usually, 45 minutes is enough for an intital consultation. Website builds are all a little different but the process is more or less the same. I can walk you through the steps it takes to build a site or any design project. All consultations are free and my calendar is always up-to-date.</p>
           <p><strong>Simply check the box next to consultation, then click "Continue".</strong></p>
       </div>
