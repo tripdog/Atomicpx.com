@@ -148,28 +148,28 @@
         <br />
         <div class="container-fluid">
             <div class="row"  data-aos="fade-up" data-aos-delay="300">
-            <a href="https://www.losrancheroskiwanis.org" target="_blank" data-toggle="lightbox" data-type="url" data-gallery="gallery" data-width="1200" data-height="900" class="col-sm-3 box">
+            <a href="https://www.losrancheroskiwanis.org" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box">
                   <img src="images/folio-los-rancheros-kiwanis.jpg" class="img-fluid" alt="A website for losrancheroskiwanis.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Website Design + Dev <span>Los Rancheros Kiwanis website</span></h4></div>
                   </div>
                 </a>
-                <a href="https://rockaraoke.com" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="example-gallery" data-width="1200" data-height="1400" class="col-sm-3 box">
+                <a href="https://rockaraoke.com" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box">
                   <img src="images/portfolio-2.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Website Design + App Development <span>Rockaraoke.com</span></h4></div>
                   </div>
                 </a>
-                <a href="https://amikas.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="atomic-gallery" data-width="1200" data-height="1400" class="col-sm-3 box">
+                <a href="https://amikas.org" target="_blank"data-gallery="atomic-gallery" class="col-sm-3 box">
                   <img src="images/portfolio-4.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>WordPress Development <span>Amikas.org</span></h4></div>
                   </div>
                 </a>
-                <a href="https://palbarling.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="atomic-gallery" data-width="1200" data-height="1400" class="col-sm-3 box">
+                <a href="https://palbarling.org" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box">
                   <img src="images/palBar1.jpg" class="img-fluid">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
@@ -199,7 +199,7 @@
                     <figure class="figure">
                         <a href="wikipedia_for_the_win.php"><img src="images/blog-1.jpg" class="figure-img img-fluid" alt="blog"></a>
                         <figcaption class="figure-caption">
-                            <h2><a href="wikipedia_for_the_win.php">How Wikipedia can help legitimize your charity.</a></h2>
+                            <h2><a href="wikipedia_for_the_win.php">How Wikipedia can help legitimize your new non-profit organization.</a></h2>
                             <p>It can be difficult to gain legitimacy when starting a new charitable venture. But with the help of Wikipedia, you can help build your brand's story.</p>
                             <a href="wikipedia_for_the_win.php" class="btn btn-success">+ more</a>
                         </figcaption>

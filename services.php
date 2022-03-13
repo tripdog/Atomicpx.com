@@ -93,7 +93,7 @@
                         <div class="col-sm-11 col-12">
                             <h3>Graphic Design</h3>
                             <p>I started my career as a graphic designer and it's still something I'm passionate about. I design magazines from cover to cover, brochures, direct-mail pieces, logos, stationery, posters and banners. I have great connections with local San Diego printers and as well as trade printers for those on a tight budget.</p>
-                            <p>A favorite part of my job is learning about new businesses or charities and the goals of each. Once I learn your story, then I get to go about the business of telling it in a compelling visual way.</p>
+                            <p>A favorite part of my job is learning about new businesses or non-profits and the mission for each. Once I learn your story, then I get to put all of the pieces together to tell it in a compelling visual way.</p>
                                 <form action="contact.php">
                                     <input class="btn btn-primary" type="submit" value="Get a Quote" />
                                 </form>
@@ -107,7 +107,7 @@
                         </div>
                         <div class="col-sm-11 col-12">
                             <h3>Web Development</h3>
-                            <p>Web development is often about problem solving and learning new technologies. I excel at crafting websites because every project brings its own challenges and I enjoy figuring out how to put the pieces together. I specialize in sites that are grounded in solid design principals and communicate your service, product or charity in a way that makes sense to consumers.</p>
+                            <p>Web development is often about problem solving and learning new technologies. I excel at crafting websites because every project brings its own challenges and I enjoy figuring out how to put the pieces together. I specialize in sites that are grounded in solid design principals and communicate your service, product or non-profit in a way that makes sense to consumers.</p>
                             <p>I am well versed in best practices for SEO and user interface design and I can create/configure <strong>Google Analytics</strong> and <strong>Google Tag Manager</strong> accounts for you so that you can track user behavior in your app or website to make it even more effective. I can build with <strong>WordPress</strong> or a site comprised of <strong>JavaScript, PHP, HTML and CSS.</strong></p>
                                 <form action="contact.php">
                                     <input class="btn btn-primary" type="submit" value="Get a Quote" />
@@ -128,19 +128,6 @@
                                     <input class="btn btn-primary" type="submit" value="Get Hosting" />
                                 </form>
 
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-12 col-12 box-2"  data-aos="fade-up" data-aos-delay="300">
-                    <div class="row box">
-                        <div class="col-sm-1 col-12">
-                            <i class="fa fas fa-ban" aria-hidden="true"></i>
-                        </div>
-                        <div class="col-sm-11 col-12">
-                            <h3>What I don't do.</h3>
-                            <p>Everyone has their strong suit, and writing copy isn't mine. When it comes to developing the content for your website, you or your staff are the best candidates for that position. If you need the services of a talented writer and can budget that into your project, I collaborate with colleagues in that space and I'm able to make a referral for you. Most clients opt to write their own content however.</p>
-
-                            <p>I can provide you with a clear and understandable site map that will help you begin to develop the content of your website. I will provide guidance about how to weave in targeted keywords to your headlines and body content so that your content is of high quality in terms of SEO rankings.</p>
                         </div>
                     </div>
                 </div>

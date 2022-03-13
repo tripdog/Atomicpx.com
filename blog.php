@@ -94,7 +94,7 @@
                     <figure class="figure">
                         <a href="wikipedia_for_the_win.php"><img src="images/blog-1.jpg" class="figure-img img-fluid" alt="blog"></a>
                         <figcaption class="figure-caption">
-                            <h2><a href="wikipedia_for_the_win.php">How Wikipedia can help legitimize your charity.</a></h2>
+                            <h2><a href="wikipedia_for_the_win.php">How Wikipedia can help legitimize your non-profit.</a></h2>
                             <p>It can be difficult to gain legitimacy when starting a new charitable venture. But with the help of Wikipedia, you can help build your brand's story.</p>
                             <a href="wikipedia_for_the_win.php" class="btn btn-success">+ more</a>
                         </figcaption>

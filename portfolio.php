@@ -95,28 +95,28 @@
        
         <div class="container-fluid">
             <div class="row" data-aos="fade-up" data-aos-delay="300">
-                <a href="https://www.losrancheroskiwanis.org" target="_blank" data-toggle="lightbox" data-type="url" data-gallery="gallery" data-width="1200" data-height="900" class="col-sm-3 box">
+                <a href="https://www.losrancheroskiwanis.org" target="_blank"  data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/folio-los-rancheros-kiwanis.jpg" class="img-fluid" alt="A website for losrancheroskiwanis.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Website Design + Development <span>losrancheroskiwanis.org</span></h4></div>
                   </div>
                 </a>
-                <a href="https://rockaraoke.com" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="gallery" data-width="1200" data-height="900" class="col-sm-3 box">
+                <a href="https://rockaraoke.com" target="_blank" data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/portfolio-2.jpg" class="img-fluid" alt="A website for rockaraoke.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Website Design + Development <span>Rockaraoke.com</span></h4></div>
                   </div>
                 </a>
-                <a href="https://amikas.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="gallery" data-width="1200" data-height="900" class="col-sm-3 box">
+                <a href="https://amikas.org" target="_blank" data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/portfolio-4.jpg" class="img-fluid" alt="A website for amikas.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>WordPress theme customization<span>Amikas.org</span></h4></div>
                   </div>
                 </a>
-                <a href="https://palbarling.org" target="_blank" data-toggle="lightbox"  data-type="url" data-gallery="gallery" data-width="1300" data-height="900" class="col-sm-3 box">
+                <a href="https://palbarling.org" target="_blank" data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/palBar1.jpg" class="img-fluid" alt="A website for palbarling.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
