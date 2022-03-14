@@ -23,34 +23,34 @@
     <meta name="msapplication-TileColor" content="#603cba">
     <meta name="theme-color" content="#ffffff">
 
-    <title>Make my logo bigger</title>
-    <meta name="description" content="When it comes to logos, it's often better to err on the side of understated and elegant."/>
+    <title>How much does a website cost?</title>
+    <meta name="description" content="10 Things that factor into the cost of a website."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://www.atomicpx.com/make_my_logo_bigger" />
+    <link rel="canonical" href="https://www.atomicpx.com/do_you_need_a_cms" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
-    <meta property="og:description" content="When it comes to logos, it's often better to err on the side of understated and elegant." />
-    <meta property="og:url" content="https://www.atomicpx.com/make_my_logo_bigger" />
+    <meta property="og:description" content="10 Things that factor into the cost of a website." />
+    <meta property="og:url" content="https://www.atomicpx.com/do_you_need_a_cms" />
     <meta property="og:site_name" content="Atomic" />
-    
+  
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
     <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
     <meta property="og:image:width" content="2560" />
     <meta property="og:image:height" content="1751" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Where design and technology intersect" />
-    <meta name="twitter:description" content="When it comes to logos, it's often better to err on the side of understated and elegant." />
+    <meta name="twitter:description" content="10 Things that factor into the cost of a website." />
     <meta name="twitter:image" content="https://atomicpx.com/images/OG-twitter.jpg" />
     <meta name="twitter:site" content="@tripdog" />
     <meta name="twitter:label1" content="Est. reading time" />
-    <meta name="twitter:data1" content="3 minutes" />
+    <meta name="twitter:data1" content="5 minutes" />
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K76XZXLGH3"></script>
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K76XZXLGH3"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
@@ -91,8 +91,8 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 data-aos="fade-right" data-aos-delay="300">Logos</h1>
-                <h2 data-aos="fade-left" data-aos-delay="300">The temptation to make them ever bigger</h2>
+                <h1 data-aos="fade-right" data-aos-delay="300">10 Elements that factor into the cost of a website.</h1>
+                <h2 data-aos="fade-left" data-aos-delay="300">A response to the common, "How much does a website cost?" question.</h2>
             </div>
             <!--container-fluid end-->
         </div>
@@ -111,9 +111,9 @@
         <div class="container">
             <div class="row" data-aos="fade-up" data-aos-duration="700">
                 <div class="col-sm-12">
-                    <img src="images/logoBigger.jpg" alt="Wikipedia Image" class="img-thumbnail image">
+                    <img src="images/web_cost.jpg" alt="Wikipedia Image" class="img-thumbnail image">
                     <div class="heading">
-                        <h2>Make your logo bigger?</h2>
+                        <h2>How much does a website cost?</h2>
                     </div>
                 </div>
             </div>
@@ -121,18 +121,33 @@
                 <div class="row">
                     <div class="col-sm-5 col-md-6">
                         <div class="inner-text">
-                            <h3>November 02, 2021 Posted by <span>Tom</span> In : <span>Tech</span></h3>
+                            <h3>March 13, 2022 Posted by <span>Tom</span> In : <span>Tech</span></h3>
                         </div>
                     </div>
                 </div>
             </div>    
             <div class="row justify-content-md-center" data-aos="fade-up" data-aos-duration="700">
                 <div class="col-xs-12 col-md-8 box">
-                    <p>I get it, your logo is indeed beautiful, I may have even designed it myself. However, design is a balancing act where elements need a certain amount of asymmetrical balance. </p>
+                    <p>I am often asked, “how much does a website cost?”. It’s a fair enough question, but it’s about as nebulous as asking how much a car or a house costs. These things can run the gamut, from the very inexpensive to some very mind-boggling sums. Why? Because not all websites are created equally and because when we talk about a website, it's is not just one thing. Much like a car or a house, it’s many things that when combined become the sum of all its parts.</p>
 
-                    <p>Throw that balance out of whack, and it’s  a quick way to bring to mind the feeling of those throw away ads in the Sunday paper. The more we nudge the logo ever larger, the more slippery the design slope so to speak. </p>
+                    <h5>Let’s break it down. Every website is comprised of these 10 things. </h5>
 
-                    <p>It’s not some kind of unwritten rule in graphic design that logos adhere to a specific size. But the client-designer relationship is one of trust. No matter how tempting it may be to improve on a good design but punching up the size of the logo, it’s definitely best to err on the side of modest elegance as opposed to that used car ad look from the Sunday paper. </p>
+                    <ol>
+                        <li>Discovery/Strategy-learning what the website needs to achieve business goals</li>
+                        <li>Set up and onboarding-the organization that needs to happen on every build</li>
+                        <li>UX (User experience)-Design and animations that create a pleasant experience</li>
+                        <li>UI (User Interface) How people interface with the design</li>
+                        <li>Development (Programming)-The code that makes the website work</li>
+                        <li>Project Management-Calls and emails with the client to keep the project on track</li>
+                        <li>SEO-the notion that if you build it people will come is false</li>
+                        <li>Copywriting (Creating effective copy that creates buyers and donors but also ranks with high SEO scores)</li>
+                        <li>DNS Management-aiming your domain at the new hosting server</li>
+                        <li>Hosting-Procurring a place for your website to live</li>
+                    </ol>
+
+                    <p>If you leave out any one of these items you have no website. On top of these 10 essential elements, there are specific types of websites that do very different things. For example, an online store has much more functionality, design, UI, and UX baked into it than a simple 5-page brochure-based website. Once we start assigning value to each item on the list it becomes a very different reality than somebody who perhaps prices “a web design” as one thing. Let’s be honest, web design is only a small part of a website that will generate income for a business or donations for a charity.</p>
+
+                    <p>I hope this helps paint a more clear picture that helps you understand the kind of question you're asking when you ask, “how much does a website cost ?”, my answer might be, "Do you want a used pickup truck or a brand new Mack Truck that’s going to deliver loads of results to your front door?"</p>
                    <i class="fa fa-lightbulb" aria-hidden="true"></i>
                 </div>
             </div>

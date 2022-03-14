@@ -27,7 +27,7 @@
 
     <title>atomic - Website design for small businesses and non-profits</title>
 
-    <meta name="description" content="Website design for small businesses and non-profits that convert. We offer graphic design, site design, development and website hosting.">
+    <meta name="description" content="We help businesses and non-profits achieve their mission by creating websites that convert visitors into customers and donors."> 
     <meta name="keywords" content="Web Design, Hosting, Web Development, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
     <link rel="canonical" href="https://www.atomicpx.com" />
@@ -36,7 +36,7 @@
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
-    <meta property="og:description" content="Building fast, effective websites for small businesses and non-profits that convert. We offer graphic design, site design, development and web hosting." />
+    <meta property="og:description" content="We help businesses and non-profits achieve their mission by creating websites that convert visitors into customers and donors." />
     <meta property="og:url" content="https://www.atomicpx.com" />
     <meta property="og:site_name" content="Atomic" />
  
@@ -46,7 +46,7 @@
     <meta property="og:image:height" content="1751" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Where design and technology intersect" />
-    <meta name="twitter:description" content="Building fast, effective websites for small businesses and non-profits that convert. We offer graphic design, site design, development and web hosting." />
+    <meta name="twitter:description" content="We help businesses and non-profits achieve their mission by creating design that converts visitors into customers and donors." />
     <meta name="twitter:image" content="https://atomicpx.com/images/OG-twitter.jpg" />
     <meta name="twitter:site" content="@tripdog" />
     <meta name="twitter:label1" content="Est. reading time" />
@@ -62,28 +62,25 @@
     gtag('config', 'G-K76XZXLGH3');
     </script>
 
-<script type='application/ld+json'>
-    {
-    "@context": "http://www.schema.org",
-    "@type": "LocalBusiness",
-    "name": "atomic",
-    "url": "https://www.atomicpx.com",
-    "sameAs": [
-        ""
-    ],
-    "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
-    "image": "https://atomicpx.com/images/3.jpg",
-    "description": "Website design for small businesses and non-profits that convert. We offer graphic design, site design, development and website hosting.",
-    "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "San Diego",
-        "addressRegion": "California",
-        "postalCode": "92115",
-        "addressCountry": "United States of America"
-    },
-    "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00"
-    }
-</script>
+    <script type='application/ld+json'>
+        {
+        "@context": "http://www.schema.org",
+        "@type": "LocalBusiness",
+        "name": "atomic",
+        "url": "https://www.atomicpx.com",
+        "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
+        "image": "https://atomicpx.com/images/3.jpg",
+        "description": "Website design for small businesses and non-profits that convert. We offer graphic design, site design, development and website hosting.",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "San Diego",
+            "addressRegion": "California",
+            "postalCode": "92115",
+            "addressCountry": "United States of America"
+        },
+        "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00"
+        }
+    </script>
 
 
 </head>
@@ -221,10 +218,9 @@
             <div class="row">
                 <div class="col-lg-4 col-sm-12 col-12 box-1"  data-aos="fade-right" data-aos-delay="300">
                     <figure class="figure">
-                        <a href="wikipedia_for_the_win.php"><img src="images/blog-1.jpg" class="figure-img img-fluid" alt="blog"></a>
+                        <a href="how_much_does_a_website_cost.php"><img src="images/web-cost-vert.jpg" class="figure-img img-fluid" alt="blog"></a>
                         <figcaption class="figure-caption">
-                            <h2><a href="wikipedia_for_the_win.php">How Wikipedia can help legitimize your new non-profit organization.</a></h2>
-                            <p>It can be difficult to gain legitimacy when starting a new charitable venture. But with the help of Wikipedia, you can help build your brand's story.</p>
+                            <h2><a href="how_much_does_a_website_cost.php">I am often asked, “how much does a website cost?”. It’s a fair enough question, but it’s about as nebulous as asking how much a car or a house costs.</p>
                             <a href="wikipedia_for_the_win.php" class="btn btn-success">+ more</a>
                         </figcaption>
                     </figure>

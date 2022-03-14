@@ -66,9 +66,6 @@
         "@type": "LocalBusiness",
         "name": "atomic",
         "url": "https://www.atomicpx.com",
-        "sameAs": [
-            ""
-        ],
         "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
         "image": "https://atomicpx.com/images/3.jpg",
         "description": "Website design for small businesses and non-profits that convert. We offer graphic design, site design, development and website hosting.",
