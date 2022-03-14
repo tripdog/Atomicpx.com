@@ -142,14 +142,14 @@
                         <li><strong>SEO</strong> - The notion that if you build it people will come is false</li>
                         <li><strong>Copywriting</strong> - Creating effective copy that creates buyers and donors but also ranks with high SEO scores</li>
                         <li><strong>DNS Management</strong> - Aiming your domain at the new hosting server</li>
-                        <li><strong>Hosting</strong> - Procurring a place for your website to live</li>
+                        <li><strong>Hosting</strong> - Finding a place for your website to live</li>
                     </ol>
 
                     <p>If you leave out any one of these items you have no website. On top of these 10 essential factors, there are specific types of websites that do very different things. For example, an online store has much more functionality, design, UI, and UX baked into it than a simple 5-page brochure-based website.</p>
                     
-                    <p>Once we start assigning a value to each item on the list, it becomes a very different reality than the cost of a "web design". Let’s be honest, web design is only a small part of a website that is supposed generate income for a business or donations for a non-profit. And if you're doing it right, you're not selling "web design" you're selling results, bottom line. Because a website that has solid copywriting and SEO, will always outperfom a pretty website that has cut the corners on just those two factors.</p>
+                    <p>Once we start assigning a value to each item on the list, it becomes a very different reality than the cost of a "web design". Let’s be honest, web design is only a small part of a website that is supposed generate income for a business or donations for a non-profit. Because a website that has solid copywriting and SEO, will always outperfom a visually compelling website that has cut the corners on just those two factors alone.</p>
 
-                    <p>I hope this helps paint a more clear picture that helps you understand how incredibly broad a question you're asking when you ask, “how much does a website cost ?”, my answer might be, "Do you want a used pickup truck or a brand new Mack Truck?"</p>
+                    <p>I hope this helps folks understand how incredibly broad a question they're asking when they ask, “how much does a website cost?”, my answer might be, "Do you want a used pickup truck or a brand new Mack Truck?"</p>
                    <i class="fa fa-lightbulb" aria-hidden="true"></i>
                 </div>
             </div>

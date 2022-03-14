@@ -116,7 +116,7 @@
         <div class="container-fluid">
             <div class="row" data-aos="fade-up" data-aos-delay="300">
                 <a href="https://www.losrancheroskiwanis.org" target="_blank"  data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/folio-los-rancheros-kiwanis.jpg" class="img-fluid" alt="A website for losrancheroskiwanis.org">
+                  <img src="images/folio-los-rancheros-kiwanis.jpg" class="img-fluid" alt="A website for the non-profit losrancheroskiwanis.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Website Design + Development <span>losrancheroskiwanis.org</span></h4></div>
@@ -130,14 +130,14 @@
                   </div>
                 </a>
                 <a href="https://amikas.org" target="_blank" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/portfolio-4.jpg" class="img-fluid" alt="A website for amikas.org">
+                  <img src="images/portfolio-4.jpg" class="img-fluid" alt="A website for the non-profit amikas.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>WordPress theme customization<span>Amikas.org</span></h4></div>
                   </div>
                 </a>
                 <a href="https://palbarling.org" target="_blank" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/palBar1.jpg" class="img-fluid" alt="A website for palbarling.org">
+                  <img src="images/palBar1.jpg" class="img-fluid" alt="A website for the non-profit palbarling.org">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Website Design + Development <span>Palbarling.org</span></h4></div>
@@ -168,7 +168,7 @@
                   </div>
                 </a>
                 <a href="images/songCat2.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/songCat1.jpg" class="img-fluid">
+                  <img src="images/songCat1.jpg" class="img-fluid" alt="Song catalog design for Rockaraoke">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Song Catalog <span>Catalog Design</span></h4></div>
@@ -178,28 +178,28 @@
             <!--/row-->
             <div class="row" data-aos="fade-up" data-aos-delay="300">
                 <a href="images/buddhaForYou2.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/buddhaForYou1.jpg" class="img-fluid">
+                  <img src="images/buddhaForYou1.jpg" class="img-fluid" alt="Instagram Ad for Buddha For You">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Instagram Ad <span>Buddha For You</span></h4></div>
                   </div>
                 </a>
                 <a href="images/backtoblack2.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/backtoblack1.jpg" class="img-fluid">
+                  <img src="images/backtoblack1.jpg" class="img-fluid" alt="Logo design for Amy Winehouse Tribute Band, Back to Black">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Logo Design <span>Amy Winehouse Tribute</span></h4></div>
                   </div>
                 </a>
                 <a href="images/girlscoutsSpread.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/girlScouts1.jpg" class="img-fluid">
+                  <img src="images/girlScouts1.jpg" class="img-fluid" alt="Annual Report Design for Girl Scouts of San Diego Imperial Valley">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Annual Report Design <span>San Diego/Imperial Girl Scouts</span></h4></div>
                   </div>
                 </a>
                 <a href="images/ucsdHS-spread.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/UCSDHS.jpg" class="img-fluid" alt="What does this do?">
+                  <img src="images/UCSDHS.jpg" class="img-fluid" alt="Publication Design for UCSD Health Sciences">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Publication Design <span>UCSD Health Sciences</span></h4></div>

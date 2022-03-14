@@ -13,7 +13,7 @@
                     <div class="col-lg-5 col-sm-12 mx-auto box-1">
 
                         <!-- Content -->
-                        <a href="index.php"><img src="images/footer-logo.png" alt="footer-logo"></a>
+                        <a href="https://www.atomicpx.com"><img src="images/footer-logo.png" alt="footer-logo"></a>
                         <p>We to bring creativity, technology and design to support the growth of small businesses. I have a soft spot for non-profit organizations and causes in which I believe.</p>
 
                     </div>
@@ -29,7 +29,7 @@
 
                         <ul class="list-unstyled">
                             <li>
-                                <a href="http://www.atomicpx.com">Home</a>
+                                <a href="https://www.atomicpx.com">Home</a>
                             </li>
                             <li>
                                 <a href="/about">about</a>
@@ -64,7 +64,7 @@
 
                         <ul class="list-unstyled">
                             <li>
-                                <a href="consult.php">Book a Consultation</a>
+                                <a href="/consult">Book a Consultation</a>
                             </li>
                             <li>
                                 <a href="https://checkout.square.site/merchant/ML05Q7CWH15N7/checkout/OXERYVTRCHCSSC3364ZKE3K3">Purchase Hosting</a>
@@ -87,7 +87,7 @@
 
                         <ul class="list-unstyled">
                             <li>
-                                <a href="privacy.php">Privacy policy</a>
+                                <a href="/privacy">Privacy policy</a>
                             </li>
                             <li>
                                 <a href="tel:619-964-6678">Call: 619-964-6678</a>
