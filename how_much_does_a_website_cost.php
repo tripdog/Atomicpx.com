@@ -24,27 +24,27 @@
     <meta name="theme-color" content="#ffffff">
 
     <title>How much does a website cost?</title>
-    <meta name="description" content="10 Things that factor into the cost of a website."/>
+    <meta name="description" content="These 10 things determine the cost of a website."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://www.atomicpx.com/do_you_need_a_cms" />
+    <link rel="canonical" href="https://www.atomicpx.com/how_much_does_a_website_cost" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Where design and technoolgy intersect." />
+    <meta property="og:title" content="These 10 things determine the cost of a website." />
     <meta property="og:description" content="10 Things that factor into the cost of a website." />
-    <meta property="og:url" content="https://www.atomicpx.com/do_you_need_a_cms" />
+    <meta property="og:url" content="https://www.atomicpx.com/how_much_does_a_website_cost.php" />
     <meta property="og:site_name" content="Atomic" />
   
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
-    <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
+    <meta property="og:image" content="https://atomicpx.com/images/cost-og.png" />
     <meta property="og:image:width" content="2560" />
     <meta property="og:image:height" content="1751" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Where design and technology intersect" />
+    <meta name="twitter:title" content="These 10 things determine the cost of a website." />
     <meta name="twitter:description" content="10 Things that factor into the cost of a website." />
-    <meta name="twitter:image" content="https://atomicpx.com/images/OG-twitter.jpg" />
+    <meta name="twitter:image" content="https://atomicpx.com/images/cost-og.png" />
     <meta name="twitter:site" content="@tripdog" />
     <meta name="twitter:label1" content="Est. reading time" />
     <meta name="twitter:data1" content="5 minutes" />
@@ -91,7 +91,7 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 data-aos="fade-right" data-aos-delay="300">10 Elements that factor into the cost of a website.</h1>
+                <h1 data-aos="fade-right" data-aos-delay="300">These 10 things determine the cost of a website.</h1>
                 <h2 data-aos="fade-left" data-aos-delay="300">A response to the common, "How much does a website cost?" question.</h2>
             </div>
             <!--container-fluid end-->
@@ -128,26 +128,28 @@
             </div>    
             <div class="row justify-content-md-center" data-aos="fade-up" data-aos-duration="700">
                 <div class="col-xs-12 col-md-8 box">
-                    <p>I am often asked, “how much does a website cost?”. It’s a fair enough question, but it’s about as nebulous as asking how much a car or a house costs. These things can run the gamut, from the very inexpensive to some very mind-boggling sums. Why? Because not all websites are created equally and because when we talk about a website, it's is not just one thing. Much like a car or a house, it’s many things that when combined become the sum of all its parts.</p>
+                    <p>I am often asked, “how much does a website cost?”. It’s a fair enough question, but it’s about as vague a question as asking "how much does a car or house cost?" These things can run the gamut, from the very inexpensive to some very mind-boggling sums. Why? Because not all websites are created equally and because when we talk about a website, it's is not just one thing. Much like a car or a house, it’s many things that when combined become the sum of all its parts.</p>
 
                     <h5>Let’s break it down. Every website is comprised of these 10 things. </h5>
 
                     <ol>
-                        <li>Discovery/Strategy-learning what the website needs to achieve business goals</li>
-                        <li>Set up and onboarding-the organization that needs to happen on every build</li>
-                        <li>UX (User experience)-Design and animations that create a pleasant experience</li>
-                        <li>UI (User Interface) How people interface with the design</li>
-                        <li>Development (Programming)-The code that makes the website work</li>
-                        <li>Project Management-Calls and emails with the client to keep the project on track</li>
-                        <li>SEO-the notion that if you build it people will come is false</li>
-                        <li>Copywriting (Creating effective copy that creates buyers and donors but also ranks with high SEO scores)</li>
-                        <li>DNS Management-aiming your domain at the new hosting server</li>
-                        <li>Hosting-Procurring a place for your website to live</li>
+                        <li><strong>Discovery/Strategy</strong> - Learning what the website needs to achieve business goals</li>
+                        <li><strong>Set up and onboarding</strong> - The organization that needs to happen on every build</li>
+                        <li><strong>UX (User experience)</strong> - Design and animations that create a pleasant experience</li>
+                        <li><strong>UI (User Interface)</strong> - How people interface with the design</li>
+                        <li><strong>Development (Programming)</strong> - The code that makes the website work</li>
+                        <li><strong>Project Management</strong> - Calls and emails with the client to keep the project on track</li>
+                        <li><strong>SEO</strong> - The notion that if you build it people will come is false</li>
+                        <li><strong>Copywriting</strong> - Creating effective copy that creates buyers and donors but also ranks with high SEO scores</li>
+                        <li><strong>DNS Management</strong> - Aiming your domain at the new hosting server</li>
+                        <li><strong>Hosting</strong> - Procurring a place for your website to live</li>
                     </ol>
 
-                    <p>If you leave out any one of these items you have no website. On top of these 10 essential elements, there are specific types of websites that do very different things. For example, an online store has much more functionality, design, UI, and UX baked into it than a simple 5-page brochure-based website. Once we start assigning value to each item on the list it becomes a very different reality than somebody who perhaps prices “a web design” as one thing. Let’s be honest, web design is only a small part of a website that will generate income for a business or donations for a charity.</p>
+                    <p>If you leave out any one of these items you have no website. On top of these 10 essential factors, there are specific types of websites that do very different things. For example, an online store has much more functionality, design, UI, and UX baked into it than a simple 5-page brochure-based website.</p>
+                    
+                    <p>Once we start assigning a value to each item on the list, it becomes a very different reality than the cost of a "web design". Let’s be honest, web design is only a small part of a website that is supposed generate income for a business or donations for a non-profit. And if you're doing it right, you're not selling "web design" you're selling results, bottom line. Because a website that has solid copywriting and SEO, will always outperfom a pretty website that has cut the corners on just those two factors.</p>
 
-                    <p>I hope this helps paint a more clear picture that helps you understand the kind of question you're asking when you ask, “how much does a website cost ?”, my answer might be, "Do you want a used pickup truck or a brand new Mack Truck that’s going to deliver loads of results to your front door?"</p>
+                    <p>I hope this helps paint a more clear picture that helps you understand how incredibly broad a question you're asking when you ask, “how much does a website cost ?”, my answer might be, "Do you want a used pickup truck or a brand new Mack Truck?"</p>
                    <i class="fa fa-lightbulb" aria-hidden="true"></i>
                 </div>
             </div>

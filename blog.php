@@ -113,7 +113,7 @@
                     <figure class="figure">
                         <a href="how_much_does_a_website_cost.php"><img src="images/web-cost-vert.jpg" class="figure-img img-fluid" alt="blog"></a>
                         <figcaption class="figure-caption">
-                            <h2><a href="how_much_does_a_website_cost.php">I am often asked, “how much does a website cost?”. It’s a fair enough question, but it’s about as nebulous as asking how much a car or a house costs.</p>
+                            <h2><a href="how_much_does_a_website_cost.php">These 10 things determine the cost of a website.</h2>
                             <a href="how_much_does_a_website_cost.php" class="btn btn-success">+ more</a>
                         </figcaption>
                     </figure>
