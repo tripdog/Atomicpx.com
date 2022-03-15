@@ -142,8 +142,8 @@
                         </div>
                         <div class="col-sm-11 col-12">
                             <h3>Hosting & Maintenance</h3>
-                            <p>I offer hosting to all of my clients. You don't have to host with Atomic, but I can offer competitive prices and I offer a 10% discounted rate for maintenance on sites that are hosted with Atomic. The base plan is $20 per month and it includes: 20 GB Web Space •100,000 Visits Monthly •Unmetered Traffic •Free SSL Cert •Daily Backup, •Free CDN •Free Email, •Enhanced Security, •Ecommerce Enabled, •Managed WordPress, •Out-of-the-box Caching, •Unlimited Databases, *100% renewable energy match and on demand backups.</p>
-                            <p>I purchase hosting in bulk from a top level provider so it's dependable and cost effective for small businesses. If you have a need for a more custom package, I can provide that as well.</p>
+                            <p>Our base plan is $25 per month and it includes: 20 GB Web Space • 100,000 Visits Monthly • Unmetered Traffic • Free SSL Cert •Daily Backup, • Free CDN by CloudFlare • Enhanced Security, • Ecommerce Enabled, • Managed WordPress, • Out-of-the-box Caching, • Unlimited Databases, *100% renewable energy match and on demand backups.</p>
+                            <p>I purchase hosting in bulk from a top-tier provider so it's dependable and cost effective for small businesses. If you have a need for a more custom package, I can provide that as well.</p>
                                 <form action="contact.php">
                                     <input class="btn btn-primary" type="submit" value="Get Hosting" />
                                 </form>

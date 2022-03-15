@@ -27,7 +27,7 @@
 
     <title>atomic - Website design for small businesses and non-profits</title>
 
-    <meta name="description" content="We help businesses and non-profits achieve their mission by creating websites that convert visitors into customers and donors."> 
+    <meta name="description" content="We design websites for small businesses and non-profits to help them achieve their missions and grow."> 
     <meta name="keywords" content="Web Design, Hosting, Web Development, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
     <link rel="canonical" href="https://www.atomicpx.com" />
@@ -36,7 +36,7 @@
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
-    <meta property="og:description" content="We help businesses and non-profits achieve their mission by creating websites that convert visitors into customers and donors." />
+    <meta property="og:description" content="We design websites for small businesses and non-profits to help them achieve their missions and grow." />
     <meta property="og:url" content="https://www.atomicpx.com" />
     <meta property="og:site_name" content="Atomic" />
  
@@ -46,7 +46,7 @@
     <meta property="og:image:height" content="1751" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Where design and technology intersect" />
-    <meta name="twitter:description" content="We help businesses and non-profits achieve their mission by creating design that converts visitors into customers and donors." />
+    <meta name="twitter:description" content="We design websites for small businesses and non-profits to help them achieve their missions and grow." />
     <meta name="twitter:image" content="https://atomicpx.com/images/OG-twitter.jpg" />
     <meta name="twitter:site" content="@tripdog" />
     <meta name="twitter:label1" content="Est. reading time" />
@@ -98,7 +98,7 @@
                         </div>
                         <div class="col-lg-10 col-sm-12">
                             <h3><a href="services.php">design.</a></h3>
-                            <p>We specialize in design for small businesses and non-profits. From website design & development to graphic design, atomic is your go-to agency for web design and traditional design projects.</p>
+                            <p>We design websites for small businesses and non-profits to help them achieve their missions and grow. From web design & development to graphic design, atomic is your go-to agency for growth.</p>
                             <p><a href="services.php"><img src="images/plus.png" alt="plus"></a></p>
                         </div>
                     </div>
