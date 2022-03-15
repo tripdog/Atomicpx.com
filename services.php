@@ -143,7 +143,9 @@
                         <div class="col-sm-11 col-12">
                             <h3>Hosting & Maintenance</h3>
                             <p>Our base plan is $25 per month and it includes: 20 GB Web Space • 100,000 Visits Monthly • Unmetered Traffic • Free SSL Cert •Daily Backup, • Free CDN by CloudFlare • Enhanced Security, • Ecommerce Enabled, • Managed WordPress, • Out-of-the-box Caching, • Unlimited Databases, *100% renewable energy match and on demand backups.</p>
-                            <p>I purchase hosting in bulk from a top-tier provider so it's dependable and cost effective for small businesses. If you have a need for a more custom package, I can provide that as well.</p>
+                            <p>I purchase hosting in bulk from a top-tier provider, it's dependable and cost effective for small businesses. If you have a need for a more custom package, ask us for a recommendation about virtual private servers (VPS).</p>
+
+                            <p>Maintenance packages start at $50 per month and includes one hour of site updates, for sites with lower content update needs.</p>
                                 <form action="contact.php">
                                     <input class="btn btn-primary" type="submit" value="Get Hosting" />
                                 </form>
