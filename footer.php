@@ -93,7 +93,7 @@
                                 <a href="tel:619-964-6678">Call: 619-964-6678</a>
                             </li>
                             <li>
-                                <img class="agency-partner" src="images/data-privacy-certified-agency-partner.png" alt="Data privacy certified agency partner" />
+                                <img style="margin:15px 0; height:110px; width:102px;" src="images/data-privacy-certified-agency-partner.png"  alt="Data privacy certified agency partner" />
                             </li>
                         </ul>
 

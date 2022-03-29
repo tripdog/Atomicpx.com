@@ -2039,9 +2039,9 @@ textarea.form-control {
   }
 
   /* This is for the data privacy certified agency partner badge */
-  .agency-partner {
+  #agency-partner {
     height: 100px;
-    width: auto;
+    width: 94px;
     margin: 25px 0;
   }
   #about-us {
