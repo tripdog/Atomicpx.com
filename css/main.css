@@ -2037,6 +2037,13 @@ textarea.form-control {
     font-size: 12px;
     letter-spacing: 0.5px;
   }
+
+  /* This is for the data privacy certified agency partner badge */
+  .agency-partner {
+    height: 100px;
+    width: auto;
+    margin: 25px 0;
+  }
   #about-us {
     padding-top: 30px;
   }
