@@ -27,10 +27,10 @@
 
     <title>atomic - Website design for small businesses and non-profits</title>
 
-    <meta name="description" content="We design websites for small businesses and non-profits to help them achieve their missions and grow."> 
+    <meta name="description" content="We design websites for small businesses and non-profits to help them achieve their missions and grow.">
     <meta name="keywords" content="Web Design, Hosting, Web Development, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://www.atomicpx.com" />
+    <link rel="canonical" href="https://atomicpx.com" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
@@ -39,7 +39,7 @@
     <meta property="og:description" content="We design websites for small businesses and non-profits to help them achieve their missions and grow." />
     <meta property="og:url" content="https://www.atomicpx.com" />
     <meta property="og:site_name" content="Atomic" />
- 
+
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
     <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
     <meta property="og:image:width" content="2560" />
@@ -277,5 +277,4 @@
     </section>
     <?php include("footer.php"); ?>
 
-   
-   
+

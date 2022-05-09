@@ -70,7 +70,7 @@
                                 <a href="https://checkout.square.site/merchant/ML05Q7CWH15N7/checkout/OXERYVTRCHCSSC3364ZKE3K3">Purchase Hosting</a>
                             </li>
                             <li>
-                                <a href="https://me.and.co/A7e31MbL">Make a Payment</a>
+                                <a href="https://square.link/u/T2XtCetE">Make a Payment</a>
                             </li>
                         </ul>
 
