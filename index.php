@@ -62,12 +62,12 @@
     gtag('config', 'G-K76XZXLGH3');
     </script>
 
-    <script type='application/ld+json'>
+<script type='application/ld+json'>
         {
         "@context": "http://www.schema.org",
         "@type": "LocalBusiness",
         "name": "atomic",
-        "url": "https://www.atomicpx.com",
+        "url": "https://atomicpx.com",
         "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
         "image": "https://atomicpx.com/images/3.jpg",
         "description": "Website design for small businesses and non-profits that convert. We offer graphic design, site design, development and website hosting.",
@@ -80,7 +80,7 @@
         },
         "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00"
         }
-    </script>
+</script>
 
 
 </head>

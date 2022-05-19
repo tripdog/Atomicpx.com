@@ -27,7 +27,7 @@
     <meta name="description" content="Uh oh, something went wrong. Go Back."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://www.atomicpx.com/not_found" />
+    <link rel="canonical" href="https://atomicpx.com/not_found" />
 
 
 

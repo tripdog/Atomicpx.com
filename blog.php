@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
 
-    
+
     <!-- Site Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
@@ -28,7 +28,7 @@
     <meta name="description" content="I blog occasionally about web design, web development and tech in general."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://www.atomicpx.com/blog" />
+    <link rel="canonical" href="https://atomicpx.com/blog" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
@@ -57,7 +57,7 @@
     gtag('js', new Date());
     gtag('config', 'G-K76XZXLGH3');
     </script>
-    
+
     <script type='application/ld+json'>
         {
         "@context": "http://www.schema.org",
@@ -96,7 +96,7 @@
             <!--container-fluid end-->
         </div>
     </section>
-    
+
     <section class="blog">
         <div class="container">
             <div class="row">
@@ -104,7 +104,7 @@
                     <h3>Blog Articles</h3>
                 </div>
             </div>
-        </div>    
+        </div>
         <hr>
         <div class="container">
             <!--/row-->

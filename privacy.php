@@ -29,7 +29,7 @@
     <meta name="description" content="Atomic takes your privacy very seriously." />
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://www.atomicpx.com/privacy" />
+    <link rel="canonical" href="https://atomicpx.com/privacy" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
@@ -60,7 +60,7 @@
         gtag('js', new Date());
         gtag('config', 'G-K76XZXLGH3');
     </script>
-    
+
     <script type='application/ld+json'>
         {
         "@context": "http://www.schema.org",
@@ -113,10 +113,10 @@
             <div class="row" data-aos="fade-up" data-aos-delay="300">
                 <div class="col-md-12 text-left">
 
-                <div id="policy" width="11100" height="760" data-policy-key="YlRCcE5HdHRVekl6VTNwRVZuYzlQUT09" data-extra="email-links=true&h-align=left&h-depth=3&no-title=true" > </div><script src="https://app.termageddon.com/js/termageddon.js"></script> 
+                <div id="policy" width="11100" height="760" data-policy-key="YlRCcE5HdHRVekl6VTNwRVZuYzlQUT09" data-extra="email-links=true&h-align=left&h-depth=3&no-title=true" > </div><script src="https://app.termageddon.com/js/termageddon.js"></script>
 
 
-                   
+
                 </div>
             </div>
         </div>

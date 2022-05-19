@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
 
-    
+
     <!-- Site Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
@@ -27,7 +27,7 @@
     <meta name="description" content="Not everybody needs or wants a CMS, do you need one?"/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://www.atomicpx.com/do_you_need_a_cms" />
+    <link rel="canonical" href="https://atomicpx.com/do_you_need_a_cms" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
@@ -36,7 +36,7 @@
     <meta property="og:description" content="Not everybody needs or wants a CMS, do you need one?" />
     <meta property="og:url" content="https://www.atomicpx.com/do_you_need_a_cms" />
     <meta property="og:site_name" content="Atomic" />
-  
+
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
     <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
     <meta property="og:image:width" content="2560" />
@@ -77,7 +77,7 @@
         "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00"
         }
     </script>
-    
+
     <style>
     .jumbotron {width: 100%;height: 250px !important;}
         .jumbotron h2 {padding-bottom: 0;}
@@ -125,7 +125,7 @@
                         </div>
                     </div>
                 </div>
-            </div>    
+            </div>
             <div class="row justify-content-md-center" data-aos="fade-up" data-aos-duration="700">
                 <div class="col-xs-12 col-md-8 box">
                     <p>During the mid to late 2000’s CMS’ we’re all the rage. It didn’t seem to matter much whether the project called for it or not, everybody had one. But with the advent of a thing called the JamStack (JavaScript, API and Markup or HTML) Things are beginning to change though. This new streamlined approach to making web sites isn’t actually new. In many ways, it’s where we were before CMS’s became popular. And they have some real advantages.</p>

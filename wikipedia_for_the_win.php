@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
 
-    
+
     <!-- Site Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
@@ -28,7 +28,7 @@
     <meta name="description" content="Creating a Wikipedia page for your non-profit can lend credibility and pay SEO dividends."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://www.atomicpx.com/wikipedia_for_the_win" />
+    <link rel="canonical" href="https://atomicpx.com/wikipedia_for_the_win" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
@@ -59,7 +59,7 @@
 
     gtag('config', 'G-K76XZXLGH3');
     </script>
-    
+
     <style>
     .jumbotron {width: 100%;height: 250px !important;}
         .jumbotron h2 {padding-bottom: 0;}
@@ -107,7 +107,7 @@
                         </div>
                     </div>
                 </div>
-            </div>    
+            </div>
             <div class="row row justify-content-md-center" data-aos="fade-up" data-aos-duration="700">
                 <div class="col-xs-12 col-md-8 box">
                     <p>I love wikipedia and usually I’m looking up who was the drummer for Velvet Underground in ‘71, or how many episodes of Handmaid’s Tale were made for season three.</p>
@@ -119,7 +119,7 @@
                         <li><a href="https://en.m.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wikipedia:Why_create_an_account%3F" target="_blank">Go to the Wikipedia account creation page.</a></li>
                         <li>Create an account.</li>
                         <li>Create the page.</li>
-                        <li>Provide citations.</li>    
+                        <li>Provide citations.</li>
                         <li>Submit the page for review.</li>
                         <li>Update it as often as you can.</li>
                     </ol>

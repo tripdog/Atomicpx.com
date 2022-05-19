@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
 
-    
+
     <!-- Site Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
@@ -29,7 +29,7 @@
     <meta name="description" content="With 20 years of experience in the digital design and advertising arena, you can feel confident that atomic can deliver."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://www.atomicpx.com/about" />
+    <link rel="canonical" href="https://atomicpx.com/about" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
@@ -38,7 +38,7 @@
     <meta property="og:description" content="With 20 years of experience in the digital design and advertising arena, you can feel confident that atomic can deliver." />
     <meta property="og:url" content="https://www.atomicpx.com/about" />
     <meta property="og:site_name" content="Atomic" />
-   
+
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
     <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
     <meta property="og:image:width" content="2560" />
@@ -50,7 +50,7 @@
     <meta name="twitter:site" content="@tripdog" />
     <meta name="twitter:label1" content="Est. reading time" />
     <meta name="twitter:data1" content="3 minutes" />
-    
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K76XZXLGH3"></script>
     <script>
@@ -66,7 +66,7 @@
         "@context": "http://www.schema.org",
         "@type": "LocalBusiness",
         "name": "atomic",
-        "url": "https://www.atomicpx.com",
+        "url": "https://atomicpx.com",
         "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
         "image": "https://atomicpx.com/images/3.jpg",
         "description": "Website design for small businesses and non-profits that convert. We offer graphic design, site design, development and website hosting.",
@@ -80,7 +80,7 @@
         "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00"
         }
     </script>
-    
+
     <style>
     .jumbotron {width: 100%;height: 250px !important;}
         .jumbotron h2 {padding-bottom: 0;}
@@ -100,7 +100,7 @@
             <!--container-fluid end-->
         </div>
     </section>
-    
+
     <!-- About Section Start -->
     <div id="about-us">
         <div class="container">
@@ -109,15 +109,15 @@
                 <div>
                  <img src="images/about.jpg" alt="about-bg" class="thumbnail image">
                   <p>I began my career here in San Diego with a degree in Advertising from the Advertising Arts College, La Jolla in 2000 and began working as a graphic designer for a small but fantastic <a href="http://burrittdesign.com/" target="_blank">design firm</a> where my education about the craft of graphic design truly expanded. <br><br>
-                
+
                   Since then I've worked as a front-end developer at Jacob Tyler, a digital marketing specialist at San Diego's largest employer, Sharp Healthcare and as a designer at my favorite mountain shop, Adventure 16. <br><br>
-                  
+
                   Today, I benefit small businesses with the wealth of knowledge that I've accrued over these more than 20 years of experience working in marketing and advertising. <br><br>
-                  
+
                   In short I can design a brand identity, and translate that identity into all of the collateral and marketing pieces your business depends on to communicate effectively with your target market. From logos, to brochures, websites photos and video, I have experience working with them all. <br><br>
-                  
+
                   Having been in the business as long as I have, I've made many contacts and relationships with writers, illustrators, photographers, local San Diego printers and web hosting companies. If there is a facet of your project where I can't provide the service you you need, I can help bring somebody aboard to your project who will do an excellent job. This makes Atomic a true one stop shop for most all projects. <br><br>
-                  
+
                   During my tenure as a designer I've been fortunate enough to work with The Museum of Contemporary Art, San Diego, The California Freemasons, UCSD Health Sciences, Scripps, Rockaraoke, and many other high profile clients.
                    </p>
                 </div>

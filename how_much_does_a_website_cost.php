@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
 
-    
+
     <!-- Site Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
@@ -27,7 +27,7 @@
     <meta name="description" content="These 10 things determine the cost of a website."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://www.atomicpx.com/how_much_does_a_website_cost" />
+    <link rel="canonical" href="https://atomicpx.com/how_much_does_a_website_cost" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
@@ -36,7 +36,7 @@
     <meta property="og:description" content="10 Things that factor into the cost of a website." />
     <meta property="og:url" content="https://www.atomicpx.com/how_much_does_a_website_cost.php" />
     <meta property="og:site_name" content="Atomic" />
-  
+
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
     <meta property="og:image" content="https://atomicpx.com/images/cost-og.png" />
     <meta property="og:image:width" content="2560" />
@@ -77,7 +77,7 @@
         "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00"
         }
     </script>
-    
+
     <style>
     .jumbotron {width: 100%;height: 250px !important;}
         .jumbotron h2 {padding-bottom: 0;}
@@ -125,7 +125,7 @@
                         </div>
                     </div>
                 </div>
-            </div>    
+            </div>
             <div class="row justify-content-md-center" data-aos="fade-up" data-aos-duration="700">
                 <div class="col-xs-12 col-md-8 box">
                     <p>I am often asked, “how much does a website cost?”. It’s a fair enough question, but it’s about as vague a question as asking "how much does a car or house cost?" These things can run the gamut, from the very inexpensive to some very mind-boggling sums. Why? Because not all websites are created equally and because when we talk about a website, it's is not just one thing. Much like a car or a house, it’s many things that when combined become the sum of all its parts.</p>
@@ -146,7 +146,7 @@
                     </ol>
 
                     <p>If you leave out any one of these items you have no website. On top of these 10 essential factors, there are specific types of websites that do very different things. For example, an online store has much more functionality, design, UI, and UX baked into it than a simple 5-page brochure-based website.</p>
-                    
+
                     <p>Once we start assigning a value to each item on the list, it becomes a very different reality than the cost of a "web design". Let’s be honest, web design is only a small part of a website that is supposed generate income for a business or donations for a non-profit. Because a website that has solid copywriting and SEO, will always outperfom a visually compelling website that has cut the corners on just those two factors alone.</p>
 
                     <p>I hope this helps folks understand how incredibly broad a question they're asking when they ask, “how much does a website cost?”, my answer might be, "Do you want a used pickup truck or a brand new Mack Truck?"</p>

@@ -31,7 +31,7 @@
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
     <meta name="description" content="Forming a good working partnership is about relationships, see if we're a match."/>
-    <link rel="canonical" href="https://www.atomicpx.com/consult" />
+    <link rel="canonical" href="https://atomicpx.com/consult" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
@@ -100,7 +100,7 @@
             <!--container-fluid end-->
         </div>
     </section>
-    
+
 <!-- Contact section Start -->
 <div id="contact">
   <div class="container">
@@ -116,9 +116,9 @@
       <div class="row" data-aos="fade-up" data-aos-delay="300">
           <div class="col-lg-12">
               <!-- Start Square Appointments Embed Code -->
-      
+
               <script src='https://square.site/appointments/buyer/widget/thwhwi8gqpz7gz/LQ124EWKXSM45.js'></script><!-- End Square Appointments Embed Code -->
-         
+
           </div>
       </div>
      </div>

@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
 
-    
+
     <!-- Site Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
@@ -29,7 +29,7 @@
     <meta name="description" content="We can design your brand identity, extend that to your website and then manage and maintain it."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips">
-    <link rel="canonical" href="https://www.atomicpx.com/services" />
+    <link rel="canonical" href="https://atomicpx.com/services" />
 
 
     <!--- Open Graph data -->
@@ -99,7 +99,7 @@
             <!--container-fluid end-->
         </div>
     </section>
-    
+
     <!--Services-->
     <section class="services">
         <div class="container">

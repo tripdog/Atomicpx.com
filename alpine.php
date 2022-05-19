@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
 
-    
+
     <!-- Site Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
@@ -27,7 +27,7 @@
     <meta name="description" content="Alpine.js is a new JavaScript framework that aims to be the new jQuery."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://www.atomicpx.com/alpine" />
+    <link rel="canonical" href="https://atomicpx.com/alpine" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
@@ -36,7 +36,7 @@
     <meta property="og:description" content="Alpine.js is a new JavaScript framework that aims to be the new jQuery." />
     <meta property="og:url" content="https://www.atomicpx.com/alpine" />
     <meta property="og:site_name" content="Atomic" />
-   
+
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
     <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
     <meta property="og:image:width" content="2560" />
@@ -78,7 +78,7 @@
         "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00"
         }
     </script>
-    
+
     <style>
     .jumbotron {width: 100%;height: 250px !important;}
         .jumbotron h2 {padding-bottom: 0;}
@@ -126,7 +126,7 @@
                         </div>
                     </div>
                 </div>
-            </div>    
+            </div>
             <div class="row justify-content-md-center" data-aos="fade-up" data-aos-duration="700">
                 <div class="col-xs-12 col-md-8 box">
                     <p>When I first read about Alpine.js, it was described as “Tailwind for JavaScript”, and I can see how that correlation can be made. You do have to add some data attributes to make use of this very lightweight JavaScript framework. But that’s where the similarities end, and if you’re a developer, you know that data attributes and classes are two different things.</p>

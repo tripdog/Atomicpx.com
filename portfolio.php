@@ -29,7 +29,7 @@
     <meta name="description" content="We've worked an a huge variety of design projects, have a look at the portfolio to see the best of our web design and graphic design work."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://www.atomicpx.com/portfolio" />
+    <link rel="canonical" href="https://atomicpx.com/portfolio" />
 
 
     <!--- Open Graph data -->
@@ -60,7 +60,7 @@
 
     gtag('config', 'G-K76XZXLGH3');
     </script>
-    
+
     <script type='application/ld+json'>
         {
         "@context": "http://www.schema.org",
@@ -89,7 +89,7 @@
 
 <body>
 <?php include("inner-header.php"); ?>
-    
+
     <!--Section-1-->
     <section class="section-1">
         <div class="jumbotron d-flex align-items-center">
@@ -101,7 +101,7 @@
             <!--container-fluid end-->
         </div>
     </section>
-    
+
     <!--Section-5-->
     <section class="portfolio">
         <div class="container">
@@ -112,7 +112,7 @@
                 </div>
             </div>
         </div>
-       
+
         <div class="container-fluid">
             <div class="row" data-aos="fade-up" data-aos-delay="300">
                 <a href="https://www.losrancheroskiwanis.org" target="_blank"  data-gallery="gallery" class="col-sm-3 box">

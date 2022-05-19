@@ -29,7 +29,7 @@
     <meta name="description" content="Get in touch so we can discuss your next project."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://www.atomicpx.com/contact" />
+    <link rel="canonical" href="https://atomicpx.com/contact" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
@@ -82,7 +82,7 @@
         "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00"
         }
     </script>
-    
+
     <style>
         .jumbotron {width: 100%;height: 250px;}
         .jumbotron h2 {padding-bottom: 0;}
@@ -102,7 +102,7 @@
             <!--container-fluid end-->
         </div>
     </section>
-    
+
 <!-- Contact section Start -->
 <div id="contact">
   <div class="container">
