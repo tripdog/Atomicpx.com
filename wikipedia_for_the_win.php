@@ -28,14 +28,14 @@
     <meta name="description" content="Creating a Wikipedia page for your non-profit can lend credibility and pay SEO dividends."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://atomicpx.com/wikipedia_for_the_win" />
+    <link rel="canonical" href="https://atomicpx.com/wikipedia_for_the_win.php" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
     <meta property="og:description" content="Creating a Wikipedia page for your non-profit can lend credibility and pay SEO dividends." />
-    <meta property="og:url" content="https://www.atomicpx.com/wikipedia_for_the_win" />
+    <meta property="og:url" content="https://atomicpx.com/wikipedia_for_the_win.php" />
     <meta property="og:site_name" content="Atomic" />
 
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />

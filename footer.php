@@ -1,4 +1,4 @@
-     
+
     <section class="section-7">
         <!-- Footer -->
         <footer class="page-footer font-small stylish-color-dark">
@@ -13,7 +13,7 @@
                     <div class="col-lg-5 col-sm-12 mx-auto box-1">
 
                         <!-- Content -->
-                        <a href="https://www.atomicpx.com"><img src="images/footer-logo.png" alt="footer-logo"></a>
+                        <a href="https://atomicpx.com"><img src="images/footer-logo.png" alt="footer-logo"></a>
                         <p>We to bring creativity, technology and design to support the growth of small businesses. I have a soft spot for non-profit organizations and causes in which I believe.</p>
 
                     </div>
@@ -29,25 +29,25 @@
 
                         <ul class="list-unstyled">
                             <li>
-                                <a href="https://www.atomicpx.com">Home</a>
+                                <a href="https://atomicpx.com">Home</a>
                             </li>
                             <li>
-                                <a href="/about">about</a>
+                                <a href="/about.php">about</a>
                             </li>
                             <li>
-                                <a href="/services">services</a>
+                                <a href="/services.php">services</a>
                             </li>
                             <li>
-                                <a href="/portfolio">portfolio</a>
+                                <a href="/portfolio.php">portfolio</a>
                             </li>
                             <li>
-                                <a href="/contact">contact us</a>
+                                <a href="/contact.php">contact us</a>
                             </li>
                             <li>
-                                <a href="/consult">Book a consultation</a>
+                                <a href="/consult.php">Book a consultation</a>
                             </li>
                             <li>
-                                <a href="/blog">Blog</a>
+                                <a href="/blog.php">Blog</a>
                             </li>
                         </ul>
 
@@ -64,7 +64,7 @@
 
                         <ul class="list-unstyled">
                             <li>
-                                <a href="/consult">Book a Consultation</a>
+                                <a href="/consult.php">Book a Consultation</a>
                             </li>
                             <li>
                                 <a href="https://checkout.square.site/merchant/ML05Q7CWH15N7/checkout/OXERYVTRCHCSSC3364ZKE3K3">Purchase Hosting</a>
@@ -87,7 +87,7 @@
 
                         <ul class="list-unstyled">
                             <li>
-                                <a href="/privacy">Privacy policy</a>
+                                <a href="/privacy.php">Privacy policy</a>
                             </li>
                             <li>
                                 <a href="tel:619-964-6678">Call: 619-964-6678</a>
@@ -109,7 +109,7 @@
             <!-- Copyright -->
             <div class="footer-copyright text-center">
                 <div class="gradient"></div>
-                <p>© Atomic 2021 all rights reseverved. Designed on a mac with love <i class="fa fas fa-heart" aria-hidden="true"></i></p>
+                <p>© Atomic 2022 all rights reseverved. Designed on a mac with love <i class="fa fas fa-heart" aria-hidden="true"></i></p>
             </div>
             <!-- Copyright -->
 
@@ -118,7 +118,7 @@
     </section>
 
     <!-- Optional JavaScript -->
-  
+
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
@@ -130,7 +130,7 @@
     <script src="js/animate.js"></script>
     <script src="js/custom.js"></script>
 
-   
+
     <script>
         $(document).on('click', '[data-toggle="lightbox"]', function(event) {
             event.preventDefault();

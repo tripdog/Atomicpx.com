@@ -28,26 +28,26 @@
             <div class="collapse navbar-collapse" id="navbar1">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="http://www.atomicpx.com">Home</a>
+                        <a class="nav-link" href="/index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/about">About Me</a>
+                        <a class="nav-link" href="/about.php">About Me</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/portfolio">Portfolio</a>
+                        <a class="nav-link" href="/portfolio.php">Portfolio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/services">Services</a>
+                        <a class="nav-link" href="/services.php">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/contact">Contact</a>
+                        <a class="nav-link" href="/contact.php">Contact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/consult">Consultation</a>
+                        <a class="nav-link" href="/consult.php">Consultation</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/blog">Blog</a>
-                    </li> 
+                        <a class="nav-link" href="/blog.php">Blog</a>
+                    </li>
                 </ul>
             </div>
         </div>

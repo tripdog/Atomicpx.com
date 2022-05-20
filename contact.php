@@ -29,14 +29,14 @@
     <meta name="description" content="Get in touch so we can discuss your next project."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://atomicpx.com/contact" />
+    <link rel="canonical" href="https://atomicpx.com/contact.php" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
     <meta property="og:description" content="Get in touch so we can discuss your next project." />
-    <meta property="og:url" content="https://www.atomicpx.com/contact" />
+    <meta property="og:url" content="https://atomicpx.com/contact.php" />
     <meta property="og:site_name" content="Atomic" />
 
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
@@ -65,13 +65,13 @@
         "@context": "http://www.schema.org",
         "@type": "LocalBusiness",
         "name": "atomic",
-        "url": "https://www.atomicpx.com",
+        "url": "https://atomicpx.com/contact.php",
         "sameAs": [
             ""
         ],
         "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
         "image": "https://atomicpx.com/images/3.jpg",
-        "description": "Website design for small businesses and non-profits that convert. We offer graphic design, site design, development and website hosting.",
+        "description": "Get in touch so we can discuss your next project.",
         "address": {
             "@type": "PostalAddress",
             "addressLocality": "San Diego",

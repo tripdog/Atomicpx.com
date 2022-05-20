@@ -31,14 +31,14 @@
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
     <meta name="description" content="Forming a good working partnership is about relationships, see if we're a match."/>
-    <link rel="canonical" href="https://atomicpx.com/consult" />
+    <link rel="canonical" href="https://atomicpx.com/consult.php" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
     <meta property="og:description" content="Forming a good working partnership is about relationships, see if we're a match." />
-    <meta property="og:url" content="https://www.atomicpx.com/consult" />
+    <meta property="og:url" content="https://atomicpx.com/consult.php" />
     <meta property="og:site_name" content="Atomic" />
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
     <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
@@ -66,10 +66,10 @@
         "@context": "http://www.schema.org",
         "@type": "LocalBusiness",
         "name": "atomic",
-        "url": "https://www.atomicpx.com",
+        "url": "https://atomicpx.com/consult.php",
         "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
         "image": "https://atomicpx.com/images/3.jpg",
-        "description": "Website design for small businesses and non-profits that convert. We offer graphic design, site design, development and website hosting.",
+        "description": "Forming a good working partnership is about relationships, see if we're a match.",
         "address": {
             "@type": "PostalAddress",
             "addressLocality": "San Diego",

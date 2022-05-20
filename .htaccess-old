@@ -1,0 +1,22 @@
+RewriteEngine On
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http(s)?://(.+\.)?atomicpx\.com [NC]
+RewriteRule .*\.(jp(e)?g|gif|bmp|png)$ https://imgur.com/ZtXiCBw.gif [L,R]
+ErrorDocument 404 /not_found.php
+RedirectMatch 404 /\.git
+
+## Don't allow anyone to see my .htaccess file
+<Files .htaccess>
+  Order allow,deny
+  Deny from all
+</Files>
+
+## Redirect to www
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^atomicpx.com [NC]
+RewriteRule ^(.*)$ http://www.atomicpx.com/$1 [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L] 

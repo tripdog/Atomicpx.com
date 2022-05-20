@@ -29,7 +29,7 @@
     <meta name="description" content="We've worked an a huge variety of design projects, have a look at the portfolio to see the best of our web design and graphic design work."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://atomicpx.com/portfolio" />
+    <link rel="canonical" href="https://atomicpx.com/portfolio.php" />
 
 
     <!--- Open Graph data -->
@@ -37,7 +37,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
     <meta property="og:description" content="We've worked an a huge variety of design projects, have a look at the portfolio to see the best of our web design and graphic design work." />
-    <meta property="og:url" content="https://www.atomicpx.com/portfolio" />
+    <meta property="og:url" content="https://atomicpx.com/portfolio.php" />
     <meta property="og:site_name" content="Atomic" />
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
     <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
@@ -66,10 +66,10 @@
         "@context": "http://www.schema.org",
         "@type": "LocalBusiness",
         "name": "atomic",
-        "url": "https://www.atomicpx.com",
+        "url": "https://atomicpx.com/portfolio.php",
         "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
         "image": "https://atomicpx.com/images/3.jpg",
-        "description": "Website design for small businesses and non-profits that convert. We offer graphic design, site design, development and website hosting.",
+        "description": "We've worked an a huge variety of design projects, have a look at the portfolio to see the best of our web design and graphic design work.",
         "address": {
             "@type": "PostalAddress",
             "addressLocality": "San Diego",

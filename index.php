@@ -37,7 +37,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
     <meta property="og:description" content="We design websites for small businesses and non-profits to help them achieve their missions and grow." />
-    <meta property="og:url" content="https://www.atomicpx.com" />
+    <meta property="og:url" content="https://atomicpx.com" />
     <meta property="og:site_name" content="Atomic" />
 
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
@@ -218,10 +218,10 @@
             <div class="row">
                 <div class="col-lg-4 col-sm-12 col-12 box-1"  data-aos="fade-right" data-aos-delay="300">
                     <figure class="figure">
-                        <a href="/how_much_does_a_website_cost"><img src="images/web-cost-vert.jpg" class="figure-img img-fluid" alt="blog"></a>
+                        <a href="/how_much_does_a_website_cost.php"><img src="images/web-cost-vert.jpg" class="figure-img img-fluid" alt="blog"></a>
                         <figcaption class="figure-caption">
-                            <h2><a href="/how_much_does_a_website_cost">These 10 things determine the cost of a website.</h2>
-                            <a href="/how_much_does_a_website_cost" class="btn btn-success">+ more</a>
+                            <h2><a href="/how_much_does_a_website_cost.php">These 10 things determine the cost of a website.</h2>
+                            <a href="/how_much_does_a_website_cost.php" class="btn btn-success">+ more</a>
                         </figcaption>
                     </figure>
                 </div>
@@ -229,14 +229,14 @@
                     <div class="row">
                         <div class="col-sm-6 col-12 box-2">
                             <figure class="figure">
-                                <a href="/do_you_need_a_cms"><img src="images/blog-2.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="/do_you_need_a_cms.php"><img src="images/blog-2.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-3">
                             <figcaption class="figure-caption">
-                                <h4><a href="/do_you_need_a_cms">Do you really <em>need</em> a CMS?</a></h4>
+                                <h4><a href="/do_you_need_a_cms.php">Do you really <em>need</em> a CMS?</a></h4>
                                 <p>The answer isn't always yes. WordPress and other CMS platforms have a great many benefits, but they have some disadvantages as well.</p>
-                                <a href="/do_you_need_a_cms" class="btn btn-success btn-more">+ more</a>
+                                <a href="/do_you_need_a_cms.php" class="btn btn-success btn-more">+ more</a>
                             </figcaption>
                             <br />
                         </div>
@@ -244,14 +244,14 @@
                     <div class="row">
                         <div class="col-sm-6 col-12 box-4">
                             <figure class="figure">
-                                <a href="/make_my_logo_bigger"><img src="images/blog-3.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="/make_my_logo_bigger.php"><img src="images/blog-3.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-5">
                             <figcaption id="space" class="figure-caption">
-                                <h4><a href="/make_my_logo_bigger">Make your logo bigger?</a></h4>
+                                <h4><a href="/make_my_logo_bigger.php">Make your logo bigger?</a></h4>
                                 <p>In the design game, a bigger logo isn't always better. Most often a modest, sophisticated approach is the way to go. </p>
-                                <a href="/make_my_logo_bigger" class="btn btn-success btn-more">+ more</a>
+                                <a href="/make_my_logo_bigger.php" class="btn btn-success btn-more">+ more</a>
                             </figcaption>
                             <br />
                         </div>
@@ -259,14 +259,14 @@
                     <div class="row">
                         <div class="col-sm-6 col-12 box-6">
                             <figure class="figure">
-                                <a href="/alpine"><img src="images/blog-4.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="/alpine.php"><img src="images/blog-4.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-7">
                             <figcaption class="figure-caption">
-                                <h4><a href="/alpine">Alpine.js, first impressions.</a></h4>
+                                <h4><a href="/alpine.php">Alpine.js, first impressions.</a></h4>
                                 <p>There's yet another JavaScript framework in town. Some call it the Tailwind of javascript while others call it the new jQuery. I just call it awesome.</p>
-                                <a href="/alpine" class="btn btn-success btn-more">+ more</a>
+                                <a href="/alpine.php" class="btn btn-success btn-more">+ more</a>
                             </figcaption>
                         </div>
                     </div>

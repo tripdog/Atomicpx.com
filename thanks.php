@@ -30,14 +30,14 @@
     <meta name="description" content="Thanks so much for contacting us, we'll be in touch."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://atomicpx.com/thanks" />
+    <link rel="canonical" href="https://atomicpx.com/thanks.php" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
     <meta property="og:description" content="Thanks so much for contacting us, we'll be in touch." />
-    <meta property="og:url" content="https://www.atomicpx.com/thanks" />
+    <meta property="og:url" content="https://atomicpx.com/thanks.php" />
     <meta property="og:site_name" content="Atomic" />
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
     <meta property="og:image" content="https://atomicpx.com/images/OG-image.jpg" />
@@ -45,7 +45,7 @@
     <meta property="og:image:height" content="1751" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Where design and technology intersect" />
-    <meta name="twitter:description" content="Thanks so much for contacting us, we'll be in touch.g" />
+    <meta name="twitter:description" content="Thanks so much for contacting us, we'll be in touch." />
     <meta name="twitter:image" content="https://atomicpx.com/images/OG-twitter.jpg" />
     <meta name="twitter:site" content="@tripdog" />
     <meta name="twitter:label1" content="Est. reading time" />
@@ -59,25 +59,6 @@
     gtag('js', new Date());
 
     gtag('config', 'G-K76XZXLGH3');
-    </script>
-    <script type='application/ld+json'>
-        {
-        "@context": "http://www.schema.org",
-        "@type": "LocalBusiness",
-        "name": "atomic",
-        "url": "https://www.atomicpx.com",
-        "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
-        "image": "https://atomicpx.com/images/3.jpg",
-        "description": "Website design for small businesses and non-profits that convert. We offer graphic design, site design, development and website hosting.",
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "San Diego",
-            "addressRegion": "California",
-            "postalCode": "92115",
-            "addressCountry": "United States of America"
-        },
-        "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00"
-        }
     </script>
 
     <style>

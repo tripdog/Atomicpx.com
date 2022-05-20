@@ -29,14 +29,14 @@
     <meta name="description" content="With 20 years of experience in the digital design and advertising arena, you can feel confident that atomic can deliver."/>
     <meta name="keywords" content="Web Development, Hosting, Web Design, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
-    <link rel="canonical" href="https://atomicpx.com/about" />
+    <link rel="canonical" href="https://atomicpx.com/about.php" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Where design and technoolgy intersect." />
     <meta property="og:description" content="With 20 years of experience in the digital design and advertising arena, you can feel confident that atomic can deliver." />
-    <meta property="og:url" content="https://www.atomicpx.com/about" />
+    <meta property="og:url" content="https://atomicpx.com/about.php" />
     <meta property="og:site_name" content="Atomic" />
 
     <meta property="article:modified_time" content="2021-11-01T04:24:03+00:00" />
@@ -66,10 +66,10 @@
         "@context": "http://www.schema.org",
         "@type": "LocalBusiness",
         "name": "atomic",
-        "url": "https://atomicpx.com",
+        "url": "https://atomicpx.com/about.php",
         "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
         "image": "https://atomicpx.com/images/3.jpg",
-        "description": "Website design for small businesses and non-profits that convert. We offer graphic design, site design, development and website hosting.",
+        "description": "With 20 years of experience in the digital design and advertising arena, you can feel confident that atomic can deliver.",
         "address": {
             "@type": "PostalAddress",
             "addressLocality": "San Diego",
