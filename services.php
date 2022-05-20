@@ -54,11 +54,17 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K76XZXLGH3"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-K76XZXLGH3');
+    </script>
 
-    gtag('config', 'G-K76XZXLGH3');
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-212277301-1');
     </script>
 
     <script type='application/ld+json'>
@@ -77,7 +83,8 @@
             "postalCode": "92115",
             "addressCountry": "United States of America"
         },
-        "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00"
+        "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00",
+        "telephone": "+1 (619) 374-8691"
         }
     </script>
 

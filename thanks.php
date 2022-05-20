@@ -54,11 +54,17 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K76XZXLGH3"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-K76XZXLGH3');
+    </script>
 
-    gtag('config', 'G-K76XZXLGH3');
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-212277301-1');
     </script>
 
     <style>
@@ -95,7 +101,7 @@
           <div class="col-xs-12 col-md-8 box">
             <img class="img-fluid" src="images/success.png" alt="Message Successfully Sent">
             <p>I will contact you ASAP with my response to your inquiry.</p>
-            <p>If you'd like a faster response call <a href="tel:619-964-6678"><strong>619-964-6678</strong></a>.</p>
+            <p>If you'd like a faster response call <a href="tel:619-374-8691"><strong>619-374-8691</strong></a>.</p>
           </div>
       </div>
      </div>

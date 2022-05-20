@@ -54,10 +54,17 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K76XZXLGH3"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-K76XZXLGH3');
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-K76XZXLGH3');
+    </script>
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-212277301-1');
     </script>
 
     <script type='application/ld+json'>
@@ -79,7 +86,8 @@
             "postalCode": "92115",
             "addressCountry": "United States of America"
         },
-        "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00"
+        "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00",
+        "telephone": "+1 (619) 374-8691"
         }
     </script>
 
@@ -87,6 +95,7 @@
         .jumbotron {width: 100%;height: 250px;}
         .jumbotron h2 {padding-bottom: 0;}
     </style>
+
 </head>
 <body>
 <?php include("inner-header.php"); ?>
@@ -110,7 +119,7 @@
   <div class="row" data-aos="fade-up" data-aos-delay="300">
       <div class="col-md-12 text-left">
           <p>The first step is learning about your business and goals. If you prefer to chat via Phone, Skype, Whatsapp or Zoom head over to the <a href="consult.php"><strong>consultation</strong></a> page and book some face time with me. I'm always happy to hear from you. You can also contact me via Twitter, LinkedIn or GitHub.</p>
-          <p>Some folks prefer to talk on the phone, <a href="tel:1-619-964-6678"><strong>619-964-6678</strong></a>. I'm up for that as well.</p>
+          <p>Some folks prefer to talk on the phone, <a href="tel:1-619-374-8691"><strong>619-374-8691</strong></a>. I'm up for that as well.</p>
       </div>
   </div>
     </div>

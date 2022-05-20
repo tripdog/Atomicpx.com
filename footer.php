@@ -90,7 +90,7 @@
                                 <a href="/privacy.php">Privacy policy</a>
                             </li>
                             <li>
-                                <a href="tel:619-964-6678">Call: 619-964-6678</a>
+                                <a href="tel:619-374-8691">Call: 619-374-8691</a>
                             </li>
                             <li>
                                 <img style="margin:15px 0; height:110px; width:102px;" src="images/data-privacy-certified-agency-partner.png"  alt="Data privacy certified agency partner" />

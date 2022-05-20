@@ -50,19 +50,26 @@
     <meta name="twitter:data1" content="5 minutes" />
 
      <!-- Global site tag (gtag.js) - Google Analytics -->
-     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K76XZXLGH3"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K76XZXLGH3"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-K76XZXLGH3');
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-K76XZXLGH3');
     </script>
 
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-212277301-1');
+    </script>
 
     <style>
-    .jumbotron {width: 100%;height: 250px !important;}
+        .jumbotron {width: 100%;height: 250px !important;}
         .jumbotron h2 {padding-bottom: 0;}
     </style>
+
 </head>
 <body>
 <?php include("inner-header.php"); ?>

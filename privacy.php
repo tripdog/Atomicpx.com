@@ -61,6 +61,13 @@
         gtag('config', 'G-K76XZXLGH3');
     </script>
 
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-212277301-1');
+    </script>
+
     <style>
         .jumbotron {
             width: 100%;
