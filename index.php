@@ -31,6 +31,7 @@
     <meta name="keywords" content="Web Design, Hosting, Web Development, graphic design, brochures, catalogs, websites, logos." />
     <meta name="author" content="Atomic/TomPhillips" />
     <link rel="canonical" href="https://atomicpx.com" />
+    <meta name="yandex-verification" content="dbde26acaada7f2b" />
 
     <!--- Open Graph data -->
     <meta property="og:locale" content="en_US" />
@@ -71,25 +72,49 @@
     </script>
 
 
-<script type='application/ld+json'>
-        {
-        "@context": "http://www.schema.org",
-        "@type": "LocalBusiness",
-        "name": "atomic",
-        "url": "https://atomicpx.com",
-        "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
-        "image": "https://atomicpx.com/images/3.jpg",
-        "description": "Website design for small businesses and non-profits that convert. We offer graphic design, site design, development and website hosting.",
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "San Diego",
-            "addressRegion": "California",
-            "postalCode": "92115",
-            "addressCountry": "United States of America"
-        },
-        "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00",
-        "telephone": "+1 (619) 374-8691"
-        }
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "atomic",
+  "image": "https://atomicpx.com/images/atomic-logo1200.jpg",
+  "@id": "",
+  "url": "https://atomicpx.com",
+  "telephone": "619-374-8691",
+  "priceRange": "$1,000-$10,000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5133 Bocaw PL",
+    "addressLocality": "San Diego",
+    "addressRegion": "CA",
+    "postalCode": "92115",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7717214,
+    "longitude": -117.0502847
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "11:00",
+    "closes": "19:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/atomic619",
+    "https://twitter.com/tripdog",
+    "https://www.linkedin.com/in/tphillips2/",
+    "",
+    "https://atomicpx.com"
+  ]
+}
 </script>
 
 
@@ -179,32 +204,32 @@
         <br />
         <div class="container-fluid">
             <div class="row"  data-aos="fade-up" data-aos-delay="300">
-            <a href="https://www.losrancheroskiwanis.org" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box">
-                  <img src="images/folio-los-rancheros-kiwanis.jpg" class="img-fluid" alt="A website for the non-profit losrancheroskiwanis.org">
-                  <div class="overlay">
-                  <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Website Design + Dev <span>Los Rancheros Kiwanis website</span></h4></div>
-                  </div>
+                <a href="https://underdogheroes.org" target="_blank"data-gallery="atomic-gallery" class="col-sm-3 box">
+                    <img src="images/underdog-heroes.jpg" class="img-fluid" alt="A website developed for the non-profit Underdogheroes.org dog rescue">
+                    <div class="overlay">
+                    <img src="images/plus-img.png" alt="plus-icon">
+                    <div class="inner-text"><h4>Website Design + Dev <span>Underdogheroes.org</span></h4></div>
+                    </div>
+                </a>
+                <a href="https://www.losrancheroskiwanis.org" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box">
+                    <img src="images/folio-los-rancheros-kiwanis.jpg" class="img-fluid" alt="A website for the non-profit losrancheroskiwanis.org">
+                    <div class="overlay">
+                    <img src="images/plus-img.png" alt="plus-icon">
+                    <div class="inner-text"><h4>Website Design + Dev <span>Los Rancheros Kiwanis website</span></h4></div>
+                    </div>
                 </a>
                 <a href="https://www.rockaraoke.com" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box">
-                  <img src="images/portfolio-2.jpg" class="img-fluid" alt="A website built for Rockaraoke.com">
-                  <div class="overlay">
-                  <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Website Design + App Development <span>Rockaraoke.com</span></h4></div>
-                  </div>
-                </a>
-                <a href="https://www.amikas.org" target="_blank"data-gallery="atomic-gallery" class="col-sm-3 box">
-                  <img src="images/portfolio-4.jpg" class="img-fluid" alt="A website built for the non-profit Amikas.org">
-                  <div class="overlay">
-                  <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>WordPress Development <span>Amikas.org</span></h4></div>
-                  </div>
+                    <img src="images/portfolio-2.jpg" class="img-fluid" alt="A website built for Rockaraoke.com">
+                    <div class="overlay">
+                    <img src="images/plus-img.png" alt="plus-icon">
+                    <div class="inner-text"><h4>Website Design + App Development <span>Rockaraoke.com</span></h4></div>
+                    </div>
                 </a>
                 <a href="https://www.palbarling.org" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box">
-                  <img src="images/palBar1.jpg" class="img-fluid" alt="A website built for the non-profit Palbarling Center">
-                  <div class="overlay">
-                  <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Website Design <span>palbarling.org</span></h4></div>
+                    <img src="images/palBar1.jpg" class="img-fluid" alt="A website built for the non-profit Palbarling Center">
+                    <div class="overlay">
+                    <img src="images/plus-img.png" alt="plus-icon">
+                    <div class="inner-text"><h4>Website Design <span>palbarling.org</span></h4></div>
                   </div>
                 </a>
             </div>

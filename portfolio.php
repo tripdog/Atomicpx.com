@@ -67,27 +67,6 @@
         gtag('config', 'UA-212277301-1');
     </script>
 
-    <script type='application/ld+json'>
-        {
-        "@context": "http://www.schema.org",
-        "@type": "LocalBusiness",
-        "name": "atomic",
-        "url": "https://atomicpx.com/portfolio.php",
-        "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
-        "image": "https://atomicpx.com/images/3.jpg",
-        "description": "We've worked an a huge variety of design projects, have a look at the portfolio to see the best of our web design and graphic design work.",
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "San Diego",
-            "addressRegion": "California",
-            "postalCode": "92115",
-            "addressCountry": "United States of America"
-        },
-        "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00",
-        "telephone": "+1 (619) 374-8691"
-        }
-    </script>
-
     <style>
       .jumbotron {width: 100%;height: 250px;}
       .jumbotron h2 {padding-bottom: 0;}
@@ -122,6 +101,13 @@
 
         <div class="container-fluid">
             <div class="row" data-aos="fade-up" data-aos-delay="300">
+                <a href="https://underdogheroes.org" target="_blank"data-gallery="atomic-gallery" class="col-sm-3 box">
+                    <img src="images/underdog-heroes.jpg" class="img-fluid" alt="A website developed for the non-profit Underdogheroes.org dog rescue">
+                    <div class="overlay">
+                    <img src="images/plus-img.png" alt="plus-icon">
+                    <div class="inner-text"><h4>Website Design + Dev <span>Underdogheroes.org</span></h4></div>
+                    </div>
+                </a>
                 <a href="https://www.losrancheroskiwanis.org" target="_blank"  data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/folio-los-rancheros-kiwanis.jpg" class="img-fluid" alt="A website for the non-profit losrancheroskiwanis.org">
                   <div class="overlay">
@@ -136,13 +122,6 @@
                   <div class="inner-text"><h4>Website Design + Development <span>Rockaraoke.com</span></h4></div>
                   </div>
                 </a>
-                <a href="https://amikas.org" target="_blank" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/portfolio-4.jpg" class="img-fluid" alt="A website for the non-profit amikas.org">
-                  <div class="overlay">
-                  <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>WordPress theme customization<span>Amikas.org</span></h4></div>
-                  </div>
-                </a>
                 <a href="https://palbarling.org" target="_blank" data-gallery="gallery" class="col-sm-3 box">
                   <img src="images/palBar1.jpg" class="img-fluid" alt="A website for the non-profit palbarling.org">
                   <div class="overlay">
@@ -153,6 +132,13 @@
             </div>
             <!--/row-->
             <div class="row" data-aos="fade-up" data-aos-delay="300">
+                <a href="https://amikas.org" target="_blank" data-gallery="gallery" class="col-sm-3 box">
+                  <img src="images/portfolio-4.jpg" class="img-fluid" alt="A website for the non-profit amikas.org">
+                  <div class="overlay">
+                  <img src="images/plus-img.png" alt="plus-icon">
+                  <div class="inner-text"><h4>WordPress theme customization<span>Amikas.org</span></h4></div>
+                  </div>
+                </a>
                 <a href="images/DraculaInvitation.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"">
                   <img src="images/DracCover.jpg" class="img-fluid" alt="An invitation for Dracula at La Jolla Playhouse.">
                   <div class="overlay">
@@ -165,13 +151,6 @@
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
                   <div class="inner-text"><h4>Poster Design-Climb Smart<span>Adventure 16</span></h4></div>
-                  </div>
-                </a>
-                <a href="images/masons50thinside.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/masonsInviteCover.jpg" class="img-fluid" alt="An invitation for the 50th anniversary of the building of the Masonic Temple in San Franciso">
-                  <div class="overlay">
-                  <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Invitation for 50th Anniversary the Masonic Temple<span>Invitation and Logo Design</span></h4></div>
                   </div>
                 </a>
                 <a href="images/songCat2.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
@@ -191,11 +170,11 @@
                   <div class="inner-text"><h4>Instagram Ad <span>Buddha For You</span></h4></div>
                   </div>
                 </a>
-                <a href="images/backtoblack2.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
-                  <img src="images/backtoblack1.jpg" class="img-fluid" alt="Logo design for Amy Winehouse Tribute Band, Back to Black">
+                <a href="images/masons50thinside.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">
+                  <img src="images/masonsInviteCover.jpg" class="img-fluid" alt="An invitation for the 50th anniversary of the building of the Masonic Temple in San Franciso">
                   <div class="overlay">
                   <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>Logo Design <span>Amy Winehouse Tribute</span></h4></div>
+                  <div class="inner-text"><h4>Invitation for 50th Anniversary the Masonic Temple<span>Invitation and Logo Design</span></h4></div>
                   </div>
                 </a>
                 <a href="images/girlscoutsSpread.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box">

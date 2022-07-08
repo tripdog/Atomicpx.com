@@ -69,28 +69,6 @@
         gtag('config', 'UA-212277301-1');
     </script>
 
-
-    <script type='application/ld+json'>
-        {
-        "@context": "http://www.schema.org",
-        "@type": "LocalBusiness",
-        "name": "atomic",
-        "url": "https://atomicpx.com/about.php",
-        "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
-        "image": "https://atomicpx.com/images/3.jpg",
-        "description": "With 20 years of experience in the digital design and advertising arena, you can feel confident that atomic can deliver.",
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "San Diego",
-            "addressRegion": "California",
-            "postalCode": "92115",
-            "addressCountry": "United States of America"
-        },
-        "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00",
-        "telephone": "+1 (619) 374-8691"
-        }
-    </script>
-
     <style>
     .jumbotron {width: 100%;height: 250px !important;}
         .jumbotron h2 {padding-bottom: 0;}

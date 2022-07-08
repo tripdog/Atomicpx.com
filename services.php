@@ -67,27 +67,6 @@
         gtag('config', 'UA-212277301-1');
     </script>
 
-    <script type='application/ld+json'>
-        {
-        "@context": "http://www.schema.org",
-        "@type": "LocalBusiness",
-        "name": "atomic",
-        "url": "https://atomicpx.com/services.php",
-        "logo": "https://atomicpx.com/images/atomic-g-logo.jpg",
-        "image": "https://atomicpx.com/images/3.jpg",
-        "description": "We can design your brand identity, extend that to your website and then manage and maintain it.",
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "San Diego",
-            "addressRegion": "California",
-            "postalCode": "92115",
-            "addressCountry": "United States of America"
-        },
-        "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 01:00-20:00 Sa 01:00-20:00",
-        "telephone": "+1 (619) 374-8691"
-        }
-    </script>
-
     <style>
         .jumbotron {width: 100%;height: 250px;}
         .jumbotron h2 {padding-bottom: 0;}
@@ -152,11 +131,10 @@
                             <p>Our base plan is $25 per month and it includes: 20 GB Web Space • 100,000 Visits Monthly • Unmetered Traffic • Free SSL Cert •Daily Backup, • Free CDN by CloudFlare • Enhanced Security, • Ecommerce Enabled, • Managed WordPress, • Out-of-the-box Caching, • Unlimited Databases, *100% renewable energy match and on demand backups.</p>
                             <p>I purchase hosting in bulk from a top-tier provider, it's dependable and cost effective for small businesses. If you have a need for a more custom package, ask us for a recommendation about virtual private servers (VPS).</p>
 
-                            <p>Maintenance packages start at $50 per month and includes one hour of site updates, for sites with lower content update needs.</p>
+                            <p>Maintenance packages start at $65 per month and includes one hour of site updates, for sites with lower content update needs.</p>
                                 <form action="contact.php">
                                     <input class="btn btn-primary" type="submit" value="Get Hosting" />
                                 </form>
-
                         </div>
                     </div>
                 </div>
