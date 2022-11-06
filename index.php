@@ -71,7 +71,10 @@
         gtag('config', 'UA-212277301-1');
     </script>
 
-<script src="https://kit.fontawesome.com/3d280dd5c6.js" crossorigin="anonymous"></script>
+    <script
+    src="https://kit.fontawesome.com/3d280dd5c6.js" crossorigin="anonymous">
+    </script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

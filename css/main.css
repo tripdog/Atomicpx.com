@@ -1,10 +1,8 @@
 html {
   background: #e6e9e9;
-  background-image: linear-gradient(
-    270deg,
-    rgb(230, 233, 233) 0%,
-    rgb(216, 221, 221) 100%
-  );
+  background-image: linear-gradient(270deg,
+      rgb(230, 233, 233) 0%,
+      rgb(216, 221, 221) 100%);
   -webkit-font-smoothing: antialiased;
 }
 
@@ -56,11 +54,11 @@ samp {
   display: none;
 }
 
-ul > li {
+ul>li {
   list-style: none;
 }
 
-ol > li {
+ol>li {
   font-size: 17px;
   margin-bottom: 6px;
 }
@@ -133,7 +131,7 @@ header .fa {
 }
 
 .navbar-light .navbar-nav .nav-link:hover,
-.navbar-light .navbar-nav .active > .nav-link {
+.navbar-light .navbar-nav .active>.nav-link {
   font-weight: 600;
   color: #fc7e2f;
 }
@@ -179,11 +177,13 @@ header .fa {
 .fa-linkedin {
   color: #4867aa;
 }
-.fa-twitter {
-  color: #1da1f2;
-}
+
 .fa-github {
   color: #333232;
+}
+
+.fa-mastodon {
+  color: #800080;
 }
 
 .sticky-top {
@@ -221,38 +221,47 @@ header .fa {
   from {
     opacity: 0;
   }
+
   to {
     opacity: 1;
   }
 }
+
 @-moz-keyframes fadein {
   from {
     opacity: 0;
   }
+
   to {
     opacity: 1;
   }
 }
+
 @-ms-keyframes fadein {
   from {
     opacity: 0;
   }
+
   to {
     opacity: 1;
   }
 }
+
 @-o-keyframes fadein {
   from {
     opacity: 0;
   }
+
   to {
     opacity: 1;
   }
 }
+
 @keyframes fadein {
   from {
     opacity: 0;
   }
+
   to {
     opacity: 1;
   }
@@ -318,22 +327,16 @@ header .fa {
   height: 100%;
   top: 0;
   left: 0;
-  background: -moz-linear-gradient(
-    -45deg,
-    rgba(0, 0, 0, 0.5) 0%,
-    rgba(0, 0, 0, 0.5) 100%
-  );
-  background: -webkit-linear-gradient(
-    -45deg,
-    rgba(134, 99, 99, 0.5) 0%,
-    rgba(0, 0, 0, 0.5) 100%
-  );
-  background: linear-gradient(
-    135deg,
-    rgba(0, 0, 0, 0.5) 0%,
-    rgba(0, 0, 0, 0.5) 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3000000', endColorstr='#b3000000', GradientType=1);
+  background: -moz-linear-gradient(-45deg,
+      rgba(0, 0, 0, 0.5) 0%,
+      rgba(0, 0, 0, 0.5) 100%);
+  background: -webkit-linear-gradient(-45deg,
+      rgba(134, 99, 99, 0.5) 0%,
+      rgba(0, 0, 0, 0.5) 100%);
+  background: linear-gradient(135deg,
+      rgba(0, 0, 0, 0.5) 0%,
+      rgba(0, 0, 0, 0.5) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b3000000', endColorstr='#b3000000', GradientType=1);
 }
 
 .thumbnail {
@@ -441,20 +444,20 @@ header .fa {
   padding: 0;
 }
 
-.section-3 ul > li {
+.section-3 ul>li {
   padding: 20px 0;
   border-bottom: 1px solid #cccccc;
 }
 
-.section-3 ul > li a {
+.section-3 ul>li a {
   color: #525252;
 }
 
-.section-3 ul > li a:hover {
+.section-3 ul>li a:hover {
   color: #fc7e2f;
 }
 
-.section-3 ul > li {
+.section-3 ul>li {
   font-size: 24px;
   font-weight: 300;
 }
@@ -676,22 +679,16 @@ header .fa {
   width: 100%;
   opacity: 0;
   transition: 0.5s ease;
-  background: -moz-linear-gradient(
-    -45deg,
-    rgba(0, 0, 0, 0.7) 0%,
-    rgba(0, 0, 0, 0.7) 100%
-  );
-  background: -webkit-linear-gradient(
-    -45deg,
-    rgba(0, 0, 0, 0.7) 0%,
-    rgba(0, 0, 0, 0.7) 100%
-  );
-  background: linear-gradient(
-    135deg,
-    rgba(0, 0, 0, 0.7) 0%,
-    rgba(0, 0, 0, 0.7) 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3000000', endColorstr='#b3000000', GradientType=1);
+  background: -moz-linear-gradient(-45deg,
+      rgba(0, 0, 0, 0.7) 0%,
+      rgba(0, 0, 0, 0.7) 100%);
+  background: -webkit-linear-gradient(-45deg,
+      rgba(0, 0, 0, 0.7) 0%,
+      rgba(0, 0, 0, 0.7) 100%);
+  background: linear-gradient(135deg,
+      rgba(0, 0, 0, 0.7) 0%,
+      rgba(0, 0, 0, 0.7) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b3000000', endColorstr='#b3000000', GradientType=1);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -807,14 +804,14 @@ header .fa {
   padding-right: 40px;
 }
 
-.page-footer ul > li a {
+.page-footer ul>li a {
   color: #707070;
   font-size: 12px;
   font-weight: 400;
   text-transform: uppercase;
 }
 
-.page-footer ul > li a:hover {
+.page-footer ul>li a:hover {
   color: #fc7e2f;
 }
 
@@ -1152,22 +1149,16 @@ textarea.form-control {
   width: 100%;
   opacity: 0;
   transition: 0.5s ease;
-  background: -moz-linear-gradient(
-    -45deg,
-    rgba(0, 0, 0, 0.7) 0%,
-    rgba(0, 0, 0, 0.7) 100%
-  );
-  background: -webkit-linear-gradient(
-    -45deg,
-    rgba(0, 0, 0, 0.7) 0%,
-    rgba(0, 0, 0, 0.7) 100%
-  );
-  background: linear-gradient(
-    135deg,
-    rgba(0, 0, 0, 0.7) 0%,
-    rgba(0, 0, 0, 0.7) 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3000000', endColorstr='#b3000000', GradientType=1);
+  background: -moz-linear-gradient(-45deg,
+      rgba(0, 0, 0, 0.7) 0%,
+      rgba(0, 0, 0, 0.7) 100%);
+  background: -webkit-linear-gradient(-45deg,
+      rgba(0, 0, 0, 0.7) 0%,
+      rgba(0, 0, 0, 0.7) 100%);
+  background: linear-gradient(135deg,
+      rgba(0, 0, 0, 0.7) 0%,
+      rgba(0, 0, 0, 0.7) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b3000000', endColorstr='#b3000000', GradientType=1);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1852,82 +1843,103 @@ textarea.form-control {
   header {
     padding: 30px 0;
   }
+
   .navbar-light .navbar-nav .nav-link,
-  .navbar-light .navbar-nav .active > .nav-link {
+  .navbar-light .navbar-nav .active>.nav-link {
     font-size: 12px;
     padding: 15px 10px;
   }
+
   header .navbar-brand img {
     width: 75%;
   }
+
   header .fa {
     font-size: 18px;
     margin-left: 10px;
   }
+
   .jumbotron {
     height: 400px;
   }
+
   .jumbotron h4 {
     font-size: 14px;
     letter-spacing: 2px;
     padding: 12px 30px;
   }
+
   .jumbotron h1 {
     font-size: 44px;
   }
+
   .jumbotron a {
     margin-top: 50px;
   }
+
   .jumbotron h2 {
     font-size: 18px;
     padding-bottom: 25px;
   }
+
   .jumbotron .btn-success,
   .btn-success:not(:disabled):not(.disabled):active {
     font-size: 14px;
   }
+
   .section-2 h3 {
     font-size: 28px;
     margin-top: -9px;
   }
+
   .section-2 .fa {
     font-size: 25px;
   }
+
   .section-2 p {
     font-size: 17px;
   }
+
   .section-2 .box {
     padding: 20px 10px;
   }
+
   .section-2 p a {
     bottom: -37px;
     right: -28px;
   }
+
   .section-3 h2 {
     font-size: 32px;
     line-height: 40px;
     margin-top: 0;
     padding-bottom: 0;
   }
-  .section-3 ul > li {
+
+  .section-3 ul>li {
     font-size: 18px;
   }
+
   .section-3 ul .fa {
     font-size: 20px;
   }
+
   .section-3 figure .out-sideimg {
     height: 550px;
   }
+
   .section-3 figure .inner-img {
     width: 350px;
     height: 286px;
   }
+
   .section-4 h3 {
     font-size: 32px;
     line-height: 40px;
     padding-bottom: 40px;
     margin-top: 0;
   }
+
   .section-4 .heading .btn-success {
     font-size: 12px;
     padding: 10px 30px;
@@ -1936,40 +1948,49 @@ textarea.form-control {
   .section-4 .box-1 img {
     height: 515px;
   }
+
   .section-4 .box-1 h2 {
     font-size: 22px;
     padding-bottom: 5px;
   }
+
   .section-4 h4 {
     font-size: 22px;
     padding-bottom: 5px;
   }
+
   .section-4 figure figcaption p {
     font-size: 16px;
     line-height: 25px;
   }
+
   .section-4 h5 {
     font-size: 14px;
     padding-bottom: 10px;
   }
+
   .section-4 .btn-success {
     font-size: 14px;
     padding: 5px 18px;
   }
+
   .section-4 .box-2 img,
   .section-4 .box-4 img,
   .section-4 .box-6 img {
     height: 243px;
     padding-left: 0;
   }
+
   .section-4 .box-2 figure,
   .section-4 .box-4 figure {
     margin: 0 0 20px;
   }
+
   .section-4 {
     padding-top: 50px;
     padding-bottom: 50px;
   }
+
   .section-2 {
     padding-top: 30px;
     padding-bottom: 60px;
@@ -1978,60 +1999,74 @@ textarea.form-control {
   .section-3 {
     padding-bottom: 50px;
   }
+
   .section-5 h3 {
     font-size: 32px;
     line-height: 40px;
     padding-bottom: 30px;
     margin-top: 0;
   }
+
   .section-5 .btn-success {
     font-size: 12px;
     padding: 10px 30px;
   }
+
   .section-5 {
     padding-top: 50px;
   }
+
   .section-5 .img-fluid {
     height: 250px;
   }
+
   .section-6 {
     padding: 50px 0;
   }
+
   .section-6 .heading h3 {
     font-size: 24px;
     line-height: 51px;
     padding-right: 0;
     text-align: center;
   }
+
   .section-6 .btn-info {
     font-size: 14px;
     height: 45px;
     width: 125px;
   }
+
   .section-6 input {
     height: 45px;
   }
+
   .section-6 .main {
     padding: 20px 0;
   }
+
   .page-footer .box-1 {
     padding-top: 50px;
     padding-bottom: 50px;
   }
+
   .page-footer .box-2,
   .page-footer .box-3,
   .page-footer .box-4 {
     padding-top: 50px;
   }
+
   .page-footer h5 {
     font-size: 13px;
   }
+
   .page-footer p {
     font-size: 12px;
     letter-spacing: 0.5px;
     font-weight: 400;
     padding-right: 30px;
   }
+
   .footer-copyright p {
     padding: 25px 0;
     font-size: 12px;
@@ -2044,136 +2079,169 @@ textarea.form-control {
     width: 94px;
     margin: 25px 0;
   }
+
   #about-us {
     padding-top: 30px;
   }
+
   #about-us .image {
     width: 400px;
     height: 330px;
   }
+
   #about-us p {
     font-size: 16px;
     margin-bottom: 30px;
   }
+
   #about-us h3 {
     font-size: 28px;
     padding-bottom: 25px;
   }
+
   #contact h3 {
     font-size: 26px;
   }
+
   #contact p {
     font-size: 16px;
     letter-spacing: 0.5px;
     line-height: 25px;
     padding-bottom: 0;
   }
+
   #contact input {
     height: 55px;
   }
+
   #contact .btn-primary {
     font-size: 12px;
     letter-spacing: 0.5px;
   }
+
   #contact {
     padding-bottom: 100px;
   }
+
   .py-5 {
     width: 100%;
     padding-top: 1rem !important;
   }
+
   .portfolio h3 {
     font-size: 32px;
     line-height: 40px;
     padding-bottom: 30px;
     margin-top: 0;
   }
+
   .portfolio .btn-success {
     font-size: 12px;
     padding: 10px 30px;
   }
+
   .portfolio {
     padding-top: 50px;
   }
+
   .portfolio .img-fluid {
     height: 250px;
   }
+
   .blog h3 {
     font-size: 32px;
     line-height: 40px;
     padding-bottom: 40px;
     margin-top: 0;
   }
+
   .blog .heading .btn-success {
     font-size: 12px;
     padding: 10px 30px;
   }
+
   .blog .box-1 img {
     height: 515px;
   }
+
   .blog .box-1 h2 {
     font-size: 22px;
     padding-bottom: 5px;
   }
+
   .blog h4 {
     font-size: 22px;
     padding-bottom: 5px;
   }
+
   .blog figure figcaption p {
     font-size: 17px;
     line-height: 25px;
   }
+
   .blog h5 {
     font-size: 14px;
     padding-bottom: 10px;
   }
+
   .blog .btn-success {
     font-size: 14px;
     padding: 5px 18px;
   }
+
   .blog .box-2 img,
   .blog .box-4 img,
   .blog .box-6 img {
     height: 243px;
     padding-left: 0;
   }
+
   .blog .box-2 figure,
   .blog .box-4 figure {
     margin: 20px 0 20px !important;
   }
+
   .blog {
     padding-top: 50px;
     padding-bottom: 50px;
   }
+
   #blog-single .heading h2 {
     font-size: 18px;
     padding-bottom: 0;
   }
+
   .mbm_social li {
     display: inline-block;
     margin: 0 5px 0 0;
   }
+
   .mbm_social a {
     width: 85px;
     height: 27px;
   }
+
   .mbm_social small {
     font-size: 12px;
     margin: 0 0 0 8px;
   }
+
   .mbm_social i {
     font-size: 12px;
   }
+
   .social-buttons h3 {
     font-size: 12px;
     font-weight: 400;
     padding: 45px 0;
     padding: 30px 25px;
   }
+
   #blog-single .heading-1 h3 {
     font-size: 22px;
     padding-bottom: 0;
   }
+
   #blog-single .box p {
     margin: 0;
     font-size: 17px;
@@ -2182,45 +2250,58 @@ textarea.form-control {
     margin-top: 0;
     padding-bottom: 25px;
   }
+
   #blog-single .section4 h2 {
     font-size: 30px;
   }
+
   #blog-single .section4 h2 {
     margin-bottom: 40px;
   }
+
   .mbm_social {
     margin: 30px 25px;
   }
+
   .section4 .card .card-text {
     font-size: 16px;
   }
+
   .section4 .card .card-body a {
     font-size: 17px;
   }
+
   #blog-single .image {
     margin: 20px 0;
     height: 200px;
   }
+
   .section4 .card-deck .card {
     margin-left: 10px;
     margin-right: 10px;
   }
+
   .section4 .btn {
     padding: 5px 12px;
   }
+
   .more-blog {
     padding-bottom: 0;
   }
+
   .services h3 {
     font-size: 26px;
     margin-top: -8px;
   }
+
   .services .fa {
     font-size: 25px;
   }
+
   .services .box {
     padding: 40px 20px;
   }
+
   .services p {
     color: #848484;
     line-height: 25px;
@@ -2232,227 +2313,285 @@ textarea.form-control {
   .jumbotron h1 {
     font-size: 36px;
   }
+
   .jumbotron h2 {
     font-size: 16px;
     padding-bottom: 20px;
   }
+
   .jumbotron h4 {
     font-size: 12px;
     padding: 12px 20px;
   }
+
   .jumbotron a {
     margin-top: 35px;
   }
+
   .jumbotron .btn-success,
   .btn-success:not(:disabled):not(.disabled):active {
     padding: 8px 30px;
   }
+
   .section-2 .fa {
     padding-bottom: 20px;
   }
+
   .section-2 h3 {
     font-size: 22px;
     margin-top: 0;
   }
+
   .section-2 .box-1,
   .section-2 .box-2,
   .section-2 .box-3 {
     padding-bottom: 30px;
   }
+
   .section-2 {
     padding-top: 20px;
     padding-bottom: 20px;
   }
+
   .section-3 figure .inner-img {
     width: 50%;
     height: 300px;
     left: 0;
   }
+
   .section-3 figure .out-sideimg {
     height: 300px;
     width: 50%;
     float: right;
   }
+
   .section-3 h2 span {
     display: inline;
   }
+
   .section-3 h2 {
     font-size: 26px;
     line-height: 40px;
     margin-top: 0;
   }
+
   .section-4 h3 {
     font-size: 25px;
     line-height: 35px;
     padding-bottom: 20px;
   }
+
   .section-4 {
     padding-top: 30px;
     padding-bottom: 30px;
   }
+
   .section-4 .box-1 img {
     height: 250px;
   }
+
   .blog h3 {
     font-size: 25px;
     line-height: 35px;
     padding-bottom: 20px;
   }
+
   .blog {
     padding-top: 30px;
     padding-bottom: 30px;
   }
+
   .blog .box-1 img {
     height: 250px;
   }
+
   .section-5 {
     padding-top: 30px;
   }
+
   .section-5 h3 {
     font-size: 24px;
     line-height: 35px;
     padding-bottom: 20px;
   }
+
   .section-5 .img-fluid {
     height: 200px;
   }
+
   .section-6 input {
     width: 100%;
     height: 45px;
     margin-bottom: 10px;
   }
+
   .section-6 form {
     float: none;
   }
+
   .section-6 .btn-info {
     width: 100%;
   }
+
   .section-6 {
     padding: 30px 0;
   }
+
   .page-footer .box-1 {
     padding-top: 20px;
     padding-bottom: 20px;
   }
+
   .page-footer .box-2,
   .page-footer .box-3,
   .page-footer .box-4 {
     padding-top: 0;
   }
+
   .page-footer h5 {
     font-size: 14px;
     margin-bottom: 0.5rem !important;
   }
+
   .page-footer p {
     padding-right: 0;
   }
+
   .page-footer .box-1 {
     border-right: 0;
   }
+
   #about-us .image {
     width: 100%;
     height: 250px;
     margin-bottom: 25px;
   }
+
   #about-us p {
     font-size: 18px;
     margin-bottom: 0;
   }
+
   #about-us {
     padding-top: 20px;
   }
+
   #about-us h3 {
     font-size: 24px;
   }
+
   #contact p {
     line-height: 20px;
   }
+
   #contact {
     padding-bottom: 70px;
   }
+
   #contact input {
     height: 40px;
   }
+
   #contact .form-control {
     margin-bottom: 10px;
   }
+
   .portfolio {
     padding-top: 30px;
   }
+
   .portfolio h3 {
     font-size: 24px;
     line-height: 35px;
     padding-bottom: 20px;
   }
+
   .portfolio .img-fluid {
     height: 200px;
   }
+
   .mbm_social {
     float: none;
     margin: 0;
     margin-bottom: 0;
     text-align: right;
   }
+
   .social-buttons h3 {
     margin-right: 0;
     margin-left: 0;
     padding: 0;
     padding-bottom: 0;
   }
+
   .social-buttons {
     padding: 20px;
   }
+
   #blog-single .box p {
     margin: 0;
     font-size: 16px;
     line-height: 25px;
     margin-top: 0;
   }
+
   #blog-single .heading h2 {
     font-size: 16px;
     line-height: 28px;
     padding-bottom: 0;
   }
+
   #blog-single .section4 h2 {
     font: 24px sans-serif;
     margin-top: 25px;
     margin-bottom: 34px;
   }
+
   .social-buttons {
     margin-top: 20px;
     margin-bottom: 20px;
   }
+
   #blog-single .section4 .card-deck {
     margin-left: -15px;
     margin-right: -15px;
   }
+
   .social-buttons .inner-text {
     padding-top: 5px;
   }
+
   .section4 .btn {
     padding: 5px 12px;
     font-size: 13px;
   }
+
   .services h2 {
     font-size: 24px;
     padding-bottom: 20px;
   }
+
   .services {
     padding-top: 0;
   }
+
   .services h3 {
     font-size: 20px;
     margin-top: -5px;
   }
+
   .services .fa {
     font-size: 20px;
   }
+
   .services p {
     font-size: 16px;
   }
+
   .services h3 {
     padding-bottom: 0;
   }
+
   #privacy_policy p {
     font-size: 16px;
     line-height: 25px;
@@ -2471,88 +2610,112 @@ textarea.form-control {
     right: 20px;
     top: -65px;
   }
+
   header .box-1 {
     text-align: left !important;
   }
-  .navbar-expand-sm > .container {
+
+  .navbar-expand-sm>.container {
     padding: 0 0;
   }
+
   .navbar-nav .nav-item {
     border-right: none;
   }
+
   header {
     padding: 15px 0;
   }
+
   .navbar-light .navbar-toggler {
     color: rgb(0, 0, 0, 0.5);
     border-color: rgba(255, 255, 255, 0.1);
   }
+
   .navbar-toggler {
     padding: 0.15rem 0.25rem;
   }
+
   header {
     text-align: center;
   }
+
   .text-left,
   .text-right {
     display: none;
   }
+
   .jumbotron h2 {
     font-size: 12px;
     letter-spacing: 0.5px;
     padding-bottom: 20px;
   }
+
   .jumbotron h1 {
     font-size: 30px;
   }
+
   .jumbotron .btn-success,
   .btn-success:not(:disabled):not(.disabled):active {
     padding: 5px 15px;
     font-size: 12px;
   }
+
   .jumbotron h4 {
     font-size: 12px;
     padding: 3px 6px;
     letter-spacing: 3px;
   }
+
   .jumbotron {
     height: 300px;
   }
+
   .jumbotron a {
     margin-top: 20px;
   }
+
   .jumbotron h2 {
     padding-bottom: 10px;
   }
+
   .section-2 p a {
     bottom: -20px;
     right: -10px;
   }
+
   .section-5 h3 {
     font-size: 21px;
     line-height: 25px;
   }
+
   .section-5 .img-fluid {
     height: 250px;
   }
+
   .portfolio h3 {
     font-size: 21px;
     line-height: 25px;
   }
+
   .portfolio .img-fluid {
     height: 250px;
   }
+
   .section-3 h2 {
     font-size: 21px;
     line-height: 40px;
   }
+
   .section-5 .btn-success,
   .section-4 .heading .btn-success {
     margin-bottom: 20px !important;
   }
-  .section-3 ul > li {
+
+  .section-3 ul>li {
     font-size: 16px;
   }
+
   .section-3 figure .out-sideimg,
   .section-3 figure .inner-img,
   .section-4 .box-2 img,
@@ -2562,12 +2725,15 @@ textarea.form-control {
     width: 100%;
     object-fit: cover;
   }
+
   .blog .heading .btn-success {
     margin-bottom: 20px;
   }
-  .blog > .btn-success {
+
+  .blog>.btn-success {
     margin-bottom: 20px !important;
   }
+
   .blog .box-2 img,
   .blog .box-4 img,
   .blog .box-5 img,
@@ -2576,19 +2742,23 @@ textarea.form-control {
     width: 100%;
     object-fit: cover;
   }
+
   .blog h3 {
     font-size: 21px;
     line-height: 25px;
   }
+
   .blog .box-1 img,
   .blog .box-2 img,
   .blog .box-3 img {
     padding-left: 0;
   }
+
   .blog .box-5,
   .blog .box-3 {
     padding-bottom: 30px;
   }
+
   .blog .box-1 figure,
   .blog .box-4 figure,
   .blog .box-5 figure {
@@ -2599,18 +2769,22 @@ textarea.form-control {
     font-size: 18px;
     padding-bottom: 0;
   }
+
   .blog h4 {
     font-size: 18px;
     padding-bottom: 0;
   }
+
   .blog h5 {
     font-size: 12px;
     font-weight: 400;
   }
+
   .blog figure figcaption p {
     font-size: 16px;
     font-weight: 400;
   }
+
   .blog .btn-success {
     font-size: 12px;
     padding: 5px 15px;
@@ -2620,132 +2794,168 @@ textarea.form-control {
     font-size: 21px;
     line-height: 25px;
   }
+
   .section-4 .box-1 img,
   .section-4 .box-2 img,
   .section-4 .box-3 img {
     padding-left: 0;
   }
+
   .section-4 .box-5,
   .section-4 .box-3 {
     padding-bottom: 30px;
   }
+
   .section-4 .box-1 figure,
   .section-4 .box-4 figure {
     margin: 0 0 30px;
   }
+
   .section-4 .box-1 h2 {
     font-size: 18px;
     padding-bottom: 0;
   }
+
   .section-4 h4 {
     font-size: 18px;
     padding-bottom: 0;
   }
+
   .section-4 h5 {
     font-size: 12px;
     font-weight: 400;
   }
+
   .section-4 figure figcaption p {
     font-size: 16px;
     font-weight: 400;
   }
+
   .section-4 .btn-success {
     font-size: 12px;
     padding: 5px 15px;
   }
+
   .section-6 .heading h3 {
     font-size: 22px;
   }
+
   .section-6 .btn-info {
     font-size: 12px;
   }
+
   .section-2 p {
     font-size: 16px;
     font-weight: 400;
     letter-spacing: 0.5px;
   }
+
   .section-2 h3 {
     font-size: 18px;
   }
+
   .section-2 {
     padding-top: 0;
     padding-bottom: 0;
   }
+
   .jumbotron h1 {
     font-size: 26px;
   }
+
   .page-footer img {
     width: 30%;
   }
+
   .section-3 h2 {
     font-size: 21px;
     line-height: 30px;
   }
+
   .section-3 h2 span {
     display: block;
   }
-  .section-3 ul > li a {
+
+  .section-3 ul>li a {
     font-weight: 400;
   }
+
   .section-6 ::placeholder {
     font-size: 12px;
   }
+
   .section-6 :-moz-placeholder {
     font-size: 12px;
   }
+
   .section-6 :-ms-input-placeholder {
     font-size: 12px;
   }
+
   .section-6 ::-webkit-input-placeholder {
     font-size: 12px;
   }
+
   .footer-copyright p {
     padding: 14px 0;
     font-size: 11px;
   }
+
   #contact .btn-primary {
     padding: 10px 30px;
   }
+
   #contact {
     padding-bottom: 30px;
   }
+
   #contact h3 {
     font-size: 22px;
     padding-bottom: 10px;
   }
+
   .social-buttons h3 {
     text-align: center;
   }
+
   .mbm_social {
     text-align: center;
     padding: 6px 0;
   }
+
   #blog-single .box p {
     padding-bottom: 10px;
   }
+
   #blog-single .heading-1 h3 {
     font-size: 20px;
   }
-  .navbar-expand-sm > .container,
-  .navbar-expand-sm > .container-fluid {
+
+  .navbar-expand-sm>.container,
+  .navbar-expand-sm>.container-fluid {
     padding-right: 15px;
     padding-left: 15px;
   }
+
   header .navbar-brand img {
     width: 60%;
   }
+
   .navbar-nav {
     padding: 10px 0;
   }
+
   .services .fa {
     font-size: 25px;
     float: left;
     padding-bottom: 25px;
   }
+
   .services .box {
     padding: 20px 20px;
     margin-bottom: 25px;
   }
+
   .blog .figure-caption {
     margin-bottom: 55px;
   }
@@ -2755,24 +2965,30 @@ textarea.form-control {
   .section-6 .heading h3 {
     font-size: 18px;
   }
-  .page-footer ul > li a {
+
+  .page-footer ul>li a {
     color: #707070;
     font-size: 10px;
     font-weight: 600;
   }
+
   #about-us h3 {
     font-size: 21px;
   }
+
   .services h2 {
     font-size: 20px;
   }
+
   .services h3 {
     font-size: 18px;
     margin-top: 0;
   }
+
   .services {
     padding-bottom: 50px;
   }
+
   .blog .figure-caption {
     margin: 0 0 55px !important;
   }
