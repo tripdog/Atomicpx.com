@@ -186,6 +186,10 @@ header .fa {
   color: #800080;
 }
 
+.fa-mastodon:hover {
+  opacity: .7;
+}
+
 .sticky-top {
   transition: all 0.25s ease-in;
 }
