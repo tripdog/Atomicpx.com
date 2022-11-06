@@ -187,6 +187,7 @@ header .fa {
 }
 
 .fa-mastodon:hover {
+  transition: all .3s ease;
   opacity: .7;
 }
 
