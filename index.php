@@ -8,7 +8,7 @@
 
     <!-- Bootstrap CSS -->
 
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+
     <link rel="stylesheet" href="https://use.typekit.net/nat4hnx.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
     <link rel="stylesheet" href="css/bootstrap.css">
@@ -71,7 +71,7 @@
         gtag('config', 'UA-212277301-1');
     </script>
 
-
+<script src="https://kit.fontawesome.com/3d280dd5c6.js" crossorigin="anonymous"></script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
