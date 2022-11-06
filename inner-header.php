@@ -9,7 +9,7 @@
                 </div>
                 <div class="col-sm-4 align-self-center text-right">
                 <div class="social-icons">
-                <a rel="me" href="https://indieweb.social/@atomicpx" target="_blank"><i class="fa-brands fa-mastodon" aria-hidden="true"></i></a>
+                <a rel="me" href="https://indieweb.social/@atomicpx" target="_blank"><i class="fa-lg fa-brands fa-mastodon" aria-hidden="true"></i></a>
                     <a href="https://linkedin.com/in/tphillips2" target="_blank"><i class="fa fab fa-linkedin" aria-hidden="true"></i></a>
                     <a href="https://github.com/tripdog" target="_blank"><i class="fa fab fa-github" aria-hidden="true"></i></a>
                     </div>
