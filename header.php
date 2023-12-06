@@ -58,10 +58,10 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 class="shadows" data-aos="fade-up" data-aos-delay="100">Welcome to atomic</h1>
-                <h2 class="shadows" data-aos="fade-up" data-aos-delay="300">A web design firm where design and technology intersect.</h2>
+                <h1 class="shadows" data-aos="fade-up" data-aos-delay="100">Web design that powers your brand and tells your&nbsp;story.</h1>
+                <h2 class="shadows" data-aos="fade-up" data-aos-delay="300">Easy-to-update, high-converting sites that amplify your mission.</h2>
 
-                <p data-aos="fade-up" data-aos-delay="500"><a href="/consult.php" class="btn btn-success">Let's Go</a></p>
+                <p data-aos="fade-up" data-aos-delay="500"><a href="/consult.php" class="btn btn-success">Let's Talk</a></p>
             </div>
             <!--container-fluid end-->
         </div>
