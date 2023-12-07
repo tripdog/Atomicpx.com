@@ -122,6 +122,7 @@
 </head>
 <body>
 <?php include("header.php"); ?>
+<?php include 'header.php'; ?>
 
     <!--Section-2-->
     <section class="section-2">
@@ -190,8 +191,8 @@
         </div>
     </section>
 
-     <!--Section-5-->
-     <section class="section-5">
+    <!--Section-5-->
+    <section class="section-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-sm-8">
@@ -239,6 +240,7 @@
         <!--container-->
     </section>
 
+    <!--Section-4-->
     <section class="section-4 space">
         <div class="container">
             <div class="row heading">
