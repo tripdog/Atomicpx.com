@@ -3004,3 +3004,7 @@ textarea.form-control {
     font-size: 23px;
   }
 }
+
+.rounded-lg {
+  border-radius: .6rem !important;
+}

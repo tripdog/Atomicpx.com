@@ -155,7 +155,7 @@
                     </h2>
                     <ul>
                         <li>
-                            <a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Web Design</a>
+                            <a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Web Design</a> 
                         </li>
                         <li>
                             <a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Hosting</a>
@@ -176,8 +176,8 @@
                 </div>
                 <div class="col-lg-7 col-md-12 p-0" data-aos="fade-left" data-aos-delay="300">
                     <figure>
-                        <img class="inner-img rounded-lg" src="images/services-bg2.webp" alt="services">
-                        <img class="out-sideimg rounded-lg" src="images/services-bg.webp" alt="services">
+                        <img class="inner-img rounded-lg" src="images/services-bg2.jpg" alt="services">
+                        <img class="out-sideimg rounded" src="images/services-bg.jpg" alt="services">
                     </figure>
                 </div>
             </div>
@@ -195,22 +195,22 @@
             </div>
         </div><br/>
         <div class="container-fluid">
-            <div class="row" data-aos="fade-up" data-aos-delay="300"><a href="https://underdogheroes.org" target="_blank" ata-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/underdog-heroes.webp" class="img-fluid" alt="A website developed for the non-profit Underdogheroes.org dog rescue"> <div class="overlay">
+            <div class="row" data-aos="fade-up" data-aos-delay="300"><a href="https://underdogheroes.org" target="_blank" ata-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/underdog-heroes.jpg" class="img-fluid" alt="A website developed for the non-profit Underdogheroes.org dog rescue"> <div class="overlay">
                         <img src="images/plus-img.png" alt="plus-icon">
                         <div class="inner-text">
                             <h4>Website Design + Dev <span>Underdogheroes.org</span></h4>
                         </div>
-                    </div> </a><a href="https://www.losrancheroskiwanis.org" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/folio-los-rancheros-kiwanis.webp" class="img-fluid" alt="A website for the non-profit losrancheroskiwanis.org"> <div class="overlay">
+                    </div> </a><a href="https://www.losrancheroskiwanis.org" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/folio-los-rancheros-kiwanis.jpg" class="img-fluid" alt="A website for the non-profit losrancheroskiwanis.org"> <div class="overlay">
                         <img src="images/plus-img.png" alt="plus-icon">
                         <div class="inner-text">
                             <h4>Website Design + Dev <span>Los Rancheros Kiwanis website</span></h4>
                         </div>
-                    </div> </a><a href="https://www.rockaraoke.com" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/portfolio-2.webp" class="img-fluid" alt="A website built for Rockaraoke.com"> <div class="overlay">
+                    </div> </a><a href="https://www.rockaraoke.com" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/portfolio-2.jpg" class="img-fluid" alt="A website built for Rockaraoke.com"> <div class="overlay">
                         <img src="images/plus-img.png" alt="plus-icon">
                         <div class="inner-text">
                             <h4>Website Design + App Development <span>Rockaraoke.com</span></h4>
                         </div>
-                    </div> </a><a href="https://www.palbarling.org" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/palBar1.webp" class="img-fluid" alt="A website built for the non-profit Palbarling Center"> <div class="overlay">
+                    </div> </a><a href="https://www.palbarling.org" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/palBar1.jpg" class="img-fluid" alt="A website built for the non-profit Palbarling Center"> <div class="overlay">
                         <img src="images/plus-img.png" alt="plus-icon">
                         <div class="inner-text">
                             <h4>Website Design <span>palbarling.org</span></h4>
@@ -234,7 +234,7 @@
             <!--/row-->
             <div class="row">
                 <div class="col-lg-4 col-sm-12 col-12 box-1" data-aos="fade-right" data-aos-delay="300">
-                    <figure class="figure"><a href="/how_much_does_a_website_cost.php"><img src="images/web-cost-vert.webp" class="figure-img img-fluid rounded" alt="blog"></a>
+                    <figure class="figure"><a href="/how_much_does_a_website_cost.php"><img src="images/web-cost-vert.jpg" class="figure-img img-fluid" alt="blog"></a>
                         <figcaption class="figure-caption">
                             <h2><a href="/how_much_does_a_website_cost.php">These 10 things determine the cost of a website.</h2><a href="/how_much_does_a_website_cost.php" class="btn btn-success">+ more</a>
                         </figcaption>
@@ -243,7 +243,7 @@
                 <div class="col-lg-8 col-sm-12 col-12" data-aos="fade-left" data-aos-delay="300">
                     <div class="row">
                         <div class="col-sm-6 col-12 box-2">
-                            <figure class="figure"><a href="/do_you_need_a_cms.php"><img src="images/blog-2.webp" class="figure-img img-fluid rounded-lg" alt="blog"></a>
+                            <figure class="figure"><a href="/do_you_need_a_cms.php"><img src="images/blog-2.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-3">
@@ -255,7 +255,7 @@
                     </div>
                     <div class="row">
                         <div class="col-sm-6 col-12 box-4">
-                            <figure class="figure"><a href="/make_my_logo_bigger.php"><img src="images/blog-3.webp" class="figure-img img-fluid rounded-lg" alt="blog"></a>
+                            <figure class="figure"><a href="/make_my_logo_bigger.php"><img src="images/blog-3.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-5">
@@ -267,7 +267,7 @@
                     </div>
                     <div class="row">
                         <div class="col-sm-6 col-12 box-6">
-                            <figure class="figure"><a href="/alpine.php"><img src="images/blog-4.webp" class="figure-img img-fluid rounded-lg" alt="blog"></a>
+                            <figure class="figure"><a href="/alpine.php"><img src="images/blog-4.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-7">

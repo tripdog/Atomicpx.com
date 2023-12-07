@@ -79,7 +79,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 offset-md-2">
-                        <h3>Samples of my best web design and print&nbsp;work.</h3>
+                        <h3>Samples of my best web design and print work.</h3>
                         <p style="margin-bottom: 4rem;">I've worked an a large variety of design projects, have a look at the portfolio to see the best of my web design and graphic design work.</p>
                     </div>
                 </div>
