@@ -6,9 +6,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://use.typekit.net/nat4hnx.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
-        <link rel="stylesheet" href="css/bootstrap.css">
-        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/ekko-lightbox.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/animate.min.css">
         <link rel="stylesheet" href="css/main.css">
         <!-- Site Favicons -->
         <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
@@ -234,7 +234,7 @@
             <!--/row-->
             <div class="row">
                 <div class="col-lg-4 col-sm-12 col-12 box-1" data-aos="fade-right" data-aos-delay="300">
-                    <figure class="figure"><a href="/how_much_does_a_website_cost.php"><img src="images/web-cost-vert.webp" class="figure-img img-fluid rounded" alt="blog"></a>
+                    <figure class="figure"><a href="/how_much_does_a_website_cost.php"><img src="images/web-cost-vert.webp" class="figure-img img-fluid rounded-lg" alt="blog"></a>
                         <figcaption class="figure-caption">
                             <h2><a href="/how_much_does_a_website_cost.php">These 10 things determine the cost of a website.</h2><a href="/how_much_does_a_website_cost.php" class="btn btn-success">+ more</a>
                         </figcaption>
@@ -243,7 +243,7 @@
                 <div class="col-lg-8 col-sm-12 col-12" data-aos="fade-left" data-aos-delay="300">
                     <div class="row">
                         <div class="col-sm-6 col-12 box-2">
-                            <figure class="figure"><a href="/do_you_need_a_cms.php"><img src="images/blog-2.webp" class="figure-img img-fluid rounded-lg" alt="blog"></a>
+                            <figure class="figure"><a href="/do_you_need_a_cms.php"><img src="images/blog-2.webp" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-3">
@@ -255,7 +255,7 @@
                     </div>
                     <div class="row">
                         <div class="col-sm-6 col-12 box-4">
-                            <figure class="figure"><a href="/make_my_logo_bigger.php"><img src="images/blog-3.webp" class="figure-img img-fluid rounded-lg" alt="blog"></a>
+                            <figure class="figure"><a href="/make_my_logo_bigger.php"><img src="images/blog-3.webp" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-5">
@@ -267,7 +267,7 @@
                     </div>
                     <div class="row">
                         <div class="col-sm-6 col-12 box-6">
-                            <figure class="figure"><a href="/alpine.php"><img src="images/blog-4.webp" class="figure-img img-fluid rounded-lg" alt="blog"></a>
+                            <figure class="figure"><a href="/alpine.php"><img src="images/blog-4.webp" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-7">
