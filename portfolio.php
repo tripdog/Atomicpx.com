@@ -86,7 +86,7 @@
                         </div> </a><a href="https://cognitivesolutions.org" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/cognitive-frontp.webp" class="img-fluid" alt="Site design and development for HealthCare IT consultants, Cognitive Solutions"> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
                             <div class="inner-text">
-                                <h4>Website Design + Development <span>Ponder</span></h4>
+                                <h4>Website Design + Development <span>CognitiveSolutions.org</span></h4>
                             </div>
                         </div> </a><a href="https://buddhawisdom.xyz" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/buddha-wisdom.webp" class="img-fluid" alt="A Buddha Quote Generator Site, big Buddha Image"> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
