@@ -5,11 +5,10 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!-- Bootstrap CSS -->
-        rel="stylesheet">
         <link rel="stylesheet" href="https://use.typekit.net/nat4hnx.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
-        <link href="bootstrap_theme/bootstrap.css" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/ekko-lightbox.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/animate.min.css">
         <link rel="stylesheet" href="css/main.css">
         <!-- Site Favicons -->
         <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
@@ -43,22 +42,16 @@
         <meta name="twitter:label1" content="Est. reading time"/>
         <meta name="twitter:data1" content="3 minutes"/>
         <!-- Font Awesome -->
-        <script src="https://kit.fontawesome.com/3d280dd5c6.js" crossorigin="anonymous">
-    </script>
+        <script src="https://kit.fontawesome.com/3d280dd5c6.js" crossorigin="anonymous"></script>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-K76XZXLGH3"></script>
-        <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-K76XZXLGH3');
-    </script>
         <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'UA-212277301-1');
-    </script>
+        gtag('config', 'G-K76XZXLGH3');
+        </script>
+
         <style>.jumbotron { width: 100%; height: 250px; } .jumbotron h2 { padding-bottom: 0; }</style>
     </head>
     <body>
@@ -85,22 +78,68 @@
                 </div>
             </div>
             <div class="container-fluid">
-                <div class="row" data-aos="fade-up" data-aos-delay="300"><a href="https://underdogheroes.org" target="_blank" ata-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/underdog-heroes.jpg" class="img-fluid" alt="A website developed for the non-profit Underdogheroes.org dog rescue"> <div class="overlay">
+            <div class="row" data-aos="fade-up" data-aos-delay="300"><a href="https://hsccbuilders.com" target="_blank" ata-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/hscc.webp" class="img-fluid" alt="A website developed for Structural Concrete Specialists HSCC Builders"> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
                             <div class="inner-text">
-                                <h4>Website Design + Dev <span>Underdogheroes.org</span></h4>
+                                <h4>Website Development <span>hsccbuilders.com</span></h4>
                             </div>
-                        </div> </a><a href="https://www.losrancheroskiwanis.org" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/folio-los-rancheros-kiwanis.jpg" class="img-fluid" alt="A website for the non-profit losrancheroskiwanis.org"> <div class="overlay">
+                        </div> </a><a href="https://cognitivesolutions.org" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/cognitive-frontp.webp" class="img-fluid" alt="Site design and development for HealthCare IT consultants, Cognitive Solutions"> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
                             <div class="inner-text">
-                                <h4>Website Design + Development <span>losrancheroskiwanis.org</span></h4>
+                                <h4>Website Design + Development <span>Ponder</span></h4>
                             </div>
-                        </div> </a><a href="https://rockaraoke.com" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/portfolio-2.jpg" class="img-fluid" alt="A website for rockaraoke.org"> <div class="overlay">
+                        </div> </a><a href="https://buddhawisdom.xyz" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/buddha-wisdom.webp" class="img-fluid" alt="A Buddha Quote Generator Site, big Buddha Image"> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
                             <div class="inner-text">
                                 <h4>Website Design + Development <span>Rockaraoke.com</span></h4>
                             </div>
-                        </div> </a><a href="https://palbarling.org" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/palBar1.jpg" class="img-fluid" alt="A website for the non-profit palbarling.org"> <div class="overlay">
+                        </div> </a><a href="https://marianeladelahoz.com" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/marianela-frontp.webp" class="img-fluid" alt="A website for Surrealist Fine Art Painter Marianela de la Hoz"> <div class="overlay">
+                            <img src="images/plus-img.png" alt="plus-icon">
+                            <div class="inner-text">
+                                <h4>Website Design + Development <span>Marianeladelahoz.com</span></h4>
+                            </div>
+                        </div> </a>
+                </div>
+                <!--/row-->
+            <div class="row" data-aos="fade-up" data-aos-delay="300"><a href="https://oliverbuchanangroup.com" target="_blank" ata-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/obg-frontp.webp" class="img-fluid" alt="A website developed for Real Estate Developers OliverBuchanan Group"> <div class="overlay">
+                            <img src="images/plus-img.png" alt="plus-icon">
+                            <div class="inner-text">
+                                <h4>Website Design + Dev <span>OliverBuchanangroup.Com</span></h4>
+                            </div>
+                        </div> </a><a href="https://cranky-williams-5827e9.netlify.app/" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/ponder.webp" class="img-fluid" alt="A Hugo Blog Design"> <div class="overlay">
+                            <img src="images/plus-img.png" alt="plus-icon">
+                            <div class="inner-text">
+                                <h4>Website Design + Development <span>Ponder</span></h4>
+                            </div>
+                        </div> </a><a href="https://rickburrittphotography.com" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/r-burritt-photo.webp" class="img-fluid" alt="A website for Rick Burritt Photography"> <div class="overlay">
+                            <img src="images/plus-img.png" alt="plus-icon">
+                            <div class="inner-text">
+                                <h4>Website Design + Development <span>Rockaraoke.com</span></h4>
+                            </div>
+                        </div> </a><a href="https://suzukilaw.co" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/suzukilaw.webp" class="img-fluid" alt="A website for Suzuki Law Firm in San Diego"> <div class="overlay">
+                            <img src="images/plus-img.png" alt="plus-icon">
+                            <div class="inner-text">
+                                <h4>Website Design + Development <span>SuzukiLaw.co</span></h4>
+                            </div>
+                        </div> </a>
+                </div>
+                <!--/row-->
+                <div class="row" data-aos="fade-up" data-aos-delay="300"><a href="https://underdogheroes.org" target="_blank" ata-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/underdog-heroes.webp" class="img-fluid" alt="A website developed for the non-profit Underdogheroes.org dog rescue"> <div class="overlay">
+                            <img src="images/plus-img.png" alt="plus-icon">
+                            <div class="inner-text">
+                                <h4>Website Design + Dev <span>Underdogheroes.org</span></h4>
+                            </div>
+                        </div> </a><a href="https://www.losrancheroskiwanis.org" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/folio-los-rancheros-kiwanis.webp" class="img-fluid" alt="A website for the non-profit losrancheroskiwanis.org"> <div class="overlay">
+                            <img src="images/plus-img.png" alt="plus-icon">
+                            <div class="inner-text">
+                                <h4>Website Design + Development <span>losrancheroskiwanis.org</span></h4>
+                            </div>
+                        </div> </a><a href="https://rockaraoke.com" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/portfolio-2.webp" class="img-fluid" alt="A website for rockaraoke.org"> <div class="overlay">
+                            <img src="images/plus-img.png" alt="plus-icon">
+                            <div class="inner-text">
+                                <h4>Website Design + Development <span>Rockaraoke.com</span></h4>
+                            </div>
+                        </div> </a><a href="https://palbarling.org" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/palBar1.webp" class="img-fluid" alt="A website for the non-profit palbarling.org"> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
                             <div class="inner-text">
                                 <h4>Website Design + Development <span>Palbarling.org</span></h4>
@@ -108,22 +147,22 @@
                         </div> </a>
                 </div>
                 <!--/row-->
-                <div class="row" data-aos="fade-up" data-aos-delay="300"><a href="https://amikas.org" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/portfolio-4.jpg" class="img-fluid" alt="A website for the non-profit amikas.org"> <div class="overlay">
+                <div class="row" data-aos="fade-up" data-aos-delay="300"><a href="https://amikas.org" target="_blank" data-gallery="gallery" class="col-sm-3 box"> <img src="images/portfolio-4.webp" class="img-fluid" alt="A website for the non-profit amikas.org"> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
                             <div class="inner-text">
                                 <h4>WordPress theme customization<span>Amikas.org</span></h4>
                             </div>
-                        </div> </a><a href="images/DraculaInvitation.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box" "> <img src="images/DracCover.jpg" class="img-fluid" alt="An invitation for Dracula at La Jolla Playhouse."> <div class="overlay">
+                        </div> </a><a href="images/DraculaInvitation.webp" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box" "> <img src="images/DracCover.webp" class="img-fluid" alt="An invitation for Dracula at La Jolla Playhouse."> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
                             <div class="inner-text">
                                 <h4>Dracula The Musical Invitation<span>La Jolla Playhouse</span></h4>
                             </div>
-                        </div> </a><a href="images/climbSmart.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"> <img src="images/portfolio-5.jpg" class="img-fluid" alt="A poster design for A16's Climb Smart series in Joshua Tree"> <div class="overlay">
+                        </div> </a><a href="images/climbSmart.webp" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"> <img src="images/portfolio-5.webp" class="img-fluid" alt="A poster design for A16's Climb Smart series in Joshua Tree"> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
                             <div class="inner-text">
                                 <h4>Poster Design-Climb Smart<span>Adventure 16</span></h4>
                             </div>
-                        </div> </a><a href="images/songCat2.webp" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"> <img src="images/songCat1.jpg" class="img-fluid" alt="Song catalog design for Rockaraoke"> <div class="overlay">
+                        </div> </a><a href="images/songCat1.webp" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"> <img src="images/SongCat2.webp" class="img-fluid" alt="Song catalog design for Rockaraoke"> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
                             <div class="inner-text">
                                 <h4>Song Catalog <span>Catalog Design</span></h4>
@@ -131,22 +170,22 @@
                         </div> </a>
                 </div>
                 <!--/row-->
-                <div class="row" data-aos="fade-up" data-aos-delay="300"><a href="images/buddhaForYou2.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"> <img src="images/buddhaForYou1.jpg" class="img-fluid" alt="Instagram Ad for Buddha For You"> <div class="overlay">
+                <div class="row" data-aos="fade-up" data-aos-delay="300"><a href="images/buddhaForYou2.webp" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"> <img src="images/buddhaForYou1.webp" class="img-fluid" alt="Instagram Ad for Buddha For You"> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
                             <div class="inner-text">
                                 <h4>Instagram Ad <span>Buddha For You</span></h4>
                             </div>
-                        </div> </a><a href="images/masons50thinside.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"> <img src="images/masonsInviteCover.jpg" class="img-fluid" alt="An invitation for the 50th anniversary of the building of the Masonic Temple in San Franciso"> <div class="overlay">
+                        </div> </a><a href="images/masons50thinside.webp" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"> <img src="images/masonsInviteCover.webp" class="img-fluid" alt="An invitation for the 50th anniversary of the building of the Masonic Temple in San Franciso"> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
                             <div class="inner-text">
                                 <h4>Invitation for 50th Anniversary the Masonic Temple<span>Invitation and Logo Design</span></h4>
                             </div>
-                        </div> </a><a href="images/girlscoutsSpread.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"> <img src="images/girlScouts1.jpg" class="img-fluid" alt="Annual Report Design for Girl Scouts of San Diego Imperial Valley"> <div class="overlay">
+                        </div> </a><a href="images/girlscoutsSpread.webp" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"> <img src="images/girlScouts1.webp" class="img-fluid" alt="Annual Report Design for Girl Scouts of San Diego Imperial Valley"> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
                             <div class="inner-text">
                                 <h4>Annual Report Design <span>San Diego/Imperial Girl Scouts</span></h4>
                             </div>
-                        </div> </a><a href="images/ucsdHS-spread.jpg" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"> <img src="images/UCSDHS.jpg" class="img-fluid" alt="Publication Design for UCSD Health Sciences"> <div class="overlay">
+                        </div> </a><a href="images/ucsdHS-spread.webp" data-toggle="lightbox" data-gallery="gallery" class="col-sm-3 box"> <img src="images/UCSDHS.webp" class="img-fluid" alt="Publication Design for UCSD Health Sciences"> <div class="overlay">
                             <img src="images/plus-img.png" alt="plus-icon">
                             <div class="inner-text">
                                 <h4>Publication Design <span>UCSD Health Sciences</span></h4>
