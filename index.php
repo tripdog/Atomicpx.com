@@ -196,32 +196,32 @@
             </div>
         </div><br />
         <div class="container-fluid">
-            <div class="row" data-aos="fade-up" data-aos-delay="300"><a href="https://underdogheroes.org" target="_blank" ata-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/underdog-heroes.webp" class="img-fluid" alt="A website developed for the non-profit Underdogheroes.org dog rescue">
+            <div class="row" data-aos="fade-up" data-aos-delay="300"><a href="https://hsccbuilders.com" target="_blank" ata-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/hscc.webp" class="img-fluid" alt="A website developed for HSCC Builders">
                     <div class="overlay">
                         <img src="images/plus-img.png" alt="plus-icon">
                         <div class="inner-text">
-                            <h4>Website Design + Dev <span>Underdogheroes.org</span></h4>
+                            <h4>Website Development <span>HsccBuilders.com</span></h4>
                         </div>
                     </div>
-                </a><a href="https://www.losrancheroskiwanis.org" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/folio-los-rancheros-kiwanis.webp" class="img-fluid" alt="A website for the non-profit losrancheroskiwanis.org">
+                </a><a href="https://buddhawisdom.xyz" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/buddha-wisdom.webp" class="img-fluid" alt="A Buddha Quote Generator Website">
                     <div class="overlay">
                         <img src="images/plus-img.png" alt="plus-icon">
                         <div class="inner-text">
-                            <h4>Website Design + Dev <span>Los Rancheros Kiwanis website</span></h4>
+                            <h4>Website Design + Dev <span>BuddhaWisdom.xyz</span></h4>
                         </div>
                     </div>
-                </a><a href="https://www.rockaraoke.com" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/portfolio-2.webp" class="img-fluid" alt="A website built for Rockaraoke.com">
+                </a><a href="https://oliverbuchanangroup.com" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/obg-frontp.webp" class="img-fluid" alt="A website built for OliverBuchanan Group">
                     <div class="overlay">
                         <img src="images/plus-img.png" alt="plus-icon">
                         <div class="inner-text">
-                            <h4>Website Design + App Development <span>Rockaraoke.com</span></h4>
+                            <h4>Website Design + Development <span>OliverBuchananGroup.com</span></h4>
                         </div>
                     </div>
-                </a><a href="https://www.palbarling.org" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/palBar1.webp" class="img-fluid" alt="A website built for the non-profit Palbarling Center">
+                </a><a href="https://www.marianeladelahoz.com" target="_blank" data-gallery="atomic-gallery" class="col-sm-3 box"> <img src="images/marianela-frontp.webp" class="img-fluid" alt="A website built for Marianela de la Hoz">
                     <div class="overlay">
                         <img src="images/plus-img.png" alt="plus-icon">
                         <div class="inner-text">
-                            <h4>Website Design <span>palbarling.org</span></h4>
+                            <h4>Website Design + Development <span>marianeladelahoz.com</span></h4>
                         </div>
                     </div>
                 </a>
